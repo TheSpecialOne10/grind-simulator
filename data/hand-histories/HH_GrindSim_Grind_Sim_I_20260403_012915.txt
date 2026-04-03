@@ -1,0 +1,49 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 01:30:03 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: 4betJam ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc 4d]
+4betJam: folds
+SuitsMe: folds
+CheckRaiseKing: raises $2.50 to $2.50
+Hero: raises $4.00 to $4.00
+ChetFaker99: folds
+SteadyEddie: folds
+CheckRaiseKing: raises $6.70 to $9.20
+Hero: calls $5.20
+*** FLOP *** [6d 6s 8s]
+CheckRaiseKing: checks
+Hero: checks
+*** TURN *** [6d 6s 8s] [7c]
+CheckRaiseKing: checks
+Hero: bets $9.95
+CheckRaiseKing: calls $9.95
+*** RIVER *** [6d 6s 8s 7c] [Th]
+CheckRaiseKing: checks
+Hero: bets $26.67
+CheckRaiseKing: folds
+Uncalled bet ($26.67) returned to Hero
+*** SHOW DOWN ***
+Hero: shows [Qc 4d]
+ChetFaker99: shows [3s 2s]
+SteadyEddie: shows [Qs 4s]
+4betJam: shows [3d 5h]
+SuitsMe: shows [6h Ah]
+CheckRaiseKing: shows [Kc Ac]
+*** SUMMARY ***
+Total pot $66.47 | Rake $0.00
+Board [6d 6s 8s 7c Th]
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: SteadyEddie (big blind) lost
+Seat 4: 4betJam lost
+Seat 5: SuitsMe lost
+Seat 6: CheckRaiseKing lost
+

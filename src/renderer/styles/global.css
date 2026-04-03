@@ -1,0 +1,56 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Table */
+  --felt-green: #0d7a38;
+  --felt-dark: #0a5c2a;
+  --rail-wood: #3a2a1a;
+  --rail-edge: #c5a356;
+
+  /* UI */
+  --bg-dark: #1a1a2e;
+  --bg-card: #16213e;
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0b0;
+  --text-gold: #ffd700;
+
+  /* Action buttons */
+  --btn-fold: #cc3333;
+  --btn-call: #33aa55;
+  --btn-raise: #3366cc;
+  --btn-hover-fold: #ee4444;
+  --btn-hover-call: #44cc66;
+  --btn-hover-raise: #4477ee;
+
+  /* Timer */
+  --timer-green: #44cc66;
+  --timer-yellow: #ffcc00;
+  --timer-red: #ff3333;
+
+  /* Cards */
+  --card-bg: #ffffff;
+  --card-border: #cccccc;
+  --card-red: #cc0000;
+  --card-black: #1a1a1a;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-family: inherit;
+}

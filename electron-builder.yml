@@ -1,0 +1,16 @@
+appId: com.grindsimulator.app
+productName: Grind Simulator
+directories:
+  buildResources: build
+  output: release
+files:
+  - dist/**/*
+win:
+  target:
+    - nsis
+mac:
+  target:
+    - dmg
+linux:
+  target:
+    - AppImage

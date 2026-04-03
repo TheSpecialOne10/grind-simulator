@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:28 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: SnapFold ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h 6d]
+MegaTilt: folds
+NiceCatch88: folds
+Button_Clicker: folds
+Hero: folds
+TheGrinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TheGrinder (small blind) lost
+Seat 3: SnapFold (big blind) lost
+Seat 4: MegaTilt lost
+Seat 5: NiceCatch88 lost
+Seat 6: Button_Clicker lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:45 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: SnapFold ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+SnapFold: posts small blind $0.50
+MegaTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 9d]
+NiceCatch88: folds
+Button_Clicker: folds
+Hero: folds
+TheGrinder: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder (button) lost
+Seat 3: SnapFold (small blind) lost
+Seat 4: MegaTilt (big blind) lost
+Seat 5: NiceCatch88 lost
+Seat 6: Button_Clicker lost
+

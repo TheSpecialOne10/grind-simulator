@@ -1,0 +1,54 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:28 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: AcesUpMySleeve ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+4betJam: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s 4d]
+3BetBandit: raises $2.50 to $2.50
+AcesUpMySleeve: folds
+CheckRaiseKing: folds
+Hero: folds
+4betJam: folds
+ValueTown_Mayor: folds
+Uncalled bet ($2.50) returned to 3BetBandit
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 4betJam (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: 3BetBandit lost
+Seat 5: AcesUpMySleeve lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:47 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: AcesUpMySleeve ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Ks]
+AcesUpMySleeve: folds
+CheckRaiseKing: folds
+Hero: folds
+4betJam: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam (button) lost
+Seat 3: ValueTown_Mayor (small blind) lost
+Seat 4: 3BetBandit (big blind) lost
+Seat 5: AcesUpMySleeve lost
+Seat 6: CheckRaiseKing lost
+

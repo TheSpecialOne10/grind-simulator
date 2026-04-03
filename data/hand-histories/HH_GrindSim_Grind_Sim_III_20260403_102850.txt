@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:02 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 9d]
+SBvsUTG: folds
+RunBadFeelGood: folds
+LooseGoose: folds
+Hero: folds
+AggroManiac: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AggroManiac (small blind) lost
+Seat 3: DonkeyKong42 (big blind) lost
+Seat 4: SBvsUTG lost
+Seat 5: RunBadFeelGood lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:29:41 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c Qc]
+RunBadFeelGood: folds
+LooseGoose: folds
+Hero: folds
+AggroManiac: folds
+DonkeyKong42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AggroManiac (button) lost
+Seat 3: DonkeyKong42 (small blind) lost
+Seat 4: SBvsUTG (big blind) lost
+Seat 5: RunBadFeelGood lost
+Seat 6: LooseGoose lost
+

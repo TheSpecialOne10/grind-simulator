@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:26:06 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: bluff_catcher ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+4betJam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Js]
+AcesUpMySleeve: folds
+bluff_catcher: folds
+SlowRoll_Sam: folds
+Hero: folds
+CardDead_Chris: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: CardDead_Chris (small blind) lost
+Seat 3: 4betJam (big blind) lost
+Seat 4: AcesUpMySleeve lost
+Seat 5: bluff_catcher lost
+Seat 6: SlowRoll_Sam lost
+

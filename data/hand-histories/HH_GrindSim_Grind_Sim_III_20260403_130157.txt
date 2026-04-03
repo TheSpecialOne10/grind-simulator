@@ -1,0 +1,54 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 13:02:10 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: ChetFaker99 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h 9h]
+SBvsUTG: folds
+QuadsOrFold: folds
+bluff_catcher: folds
+Hero: raises $2.50 to $2.50
+SuckoutKid: folds
+ChetFaker99: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuckoutKid (small blind) lost
+Seat 3: ChetFaker99 (big blind) lost
+Seat 4: SBvsUTG lost
+Seat 5: QuadsOrFold lost
+Seat 6: bluff_catcher lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 13:02:24 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: ChetFaker99 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Ah]
+QuadsOrFold: folds
+bluff_catcher: folds
+Hero: folds
+SuckoutKid: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuckoutKid (button) lost
+Seat 3: ChetFaker99 (small blind) lost
+Seat 4: SBvsUTG (big blind) lost
+Seat 5: QuadsOrFold lost
+Seat 6: bluff_catcher lost
+

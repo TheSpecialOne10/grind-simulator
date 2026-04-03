@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 12:44:58 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: FlopZilla ($100.00 in chips)
+Seat 4: FlushDraw_Hero ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 7s]
+FlushDraw_Hero: folds
+GTO_Wizard: folds
+CheckRaiseKing: folds
+Hero: folds
+AggroManiac: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AggroManiac (small blind) lost
+Seat 3: FlopZilla (big blind) lost
+Seat 4: FlushDraw_Hero lost
+Seat 5: GTO_Wizard lost
+Seat 6: CheckRaiseKing lost
+

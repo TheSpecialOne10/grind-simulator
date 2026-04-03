@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 13:02:06 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Qd]
+TriplBarrel: folds
+xXPokerProXx: folds
+RunBadFeelGood: folds
+Hero: folds
+Bluffy_McBluff: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: Bluffy_McBluff (small blind) lost
+Seat 3: SharkBait55 (big blind) lost
+Seat 4: TriplBarrel lost
+Seat 5: xXPokerProXx lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 13:02:26 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 3h]
+xXPokerProXx: folds
+RunBadFeelGood: folds
+Hero: folds
+Bluffy_McBluff: folds
+SharkBait55: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Bluffy_McBluff (button) lost
+Seat 3: SharkBait55 (small blind) lost
+Seat 4: TriplBarrel (big blind) lost
+Seat 5: xXPokerProXx lost
+Seat 6: RunBadFeelGood lost
+

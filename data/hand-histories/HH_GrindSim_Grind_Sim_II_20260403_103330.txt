@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:33:54 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NLHE_Grinder ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+NLHE_Grinder: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 8c]
+SetMiner_Pro: folds
+4betJam: folds
+ValueTown_Mayor: folds
+Hero: folds
+NLHE_Grinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NLHE_Grinder (small blind) lost
+Seat 3: SharkBait55 (big blind) lost
+Seat 4: SetMiner_Pro lost
+Seat 5: 4betJam lost
+Seat 6: ValueTown_Mayor lost
+

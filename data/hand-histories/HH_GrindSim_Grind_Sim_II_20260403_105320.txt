@@ -1,0 +1,28 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:53:32 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 4s]
+LooseGoose: folds
+3BetBandit: folds
+NittyProfessor: folds
+Hero: raises $2.00 to $2.00
+SuitsMe: folds
+PotCommitted: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuitsMe (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: LooseGoose lost
+Seat 5: 3BetBandit lost
+Seat 6: NittyProfessor lost
+

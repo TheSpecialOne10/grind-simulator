@@ -1,0 +1,162 @@
+// ── Card types ──
+
+export type Suit = 'c' | 'd' | 'h' | 's';
+export type Rank = '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9' | 'T' | 'J' | 'Q' | 'K' | 'A';
+
+export interface Card {
+  rank: Rank;
+  suit: Suit;
+}
+
+// ── Position & seating ──
+
+export type Position = 'BTN' | 'SB' | 'BB' | 'UTG' | 'MP' | 'CO';
+
+export interface Player {
+  seatIndex: number;        // 0–5, fixed physical seat
+  name: string;
+  stack: number;            // Current stack in cents (integer)
+  holeCards: [Card, Card] | null;
+  isHuman: boolean;
+  isActive: boolean;        // Still in the hand
+  isSittingOut: boolean;
+  currentBet: number;       // Bet placed in current betting round (cents)
+  hasActed: boolean;        // Has acted this betting round
+  position: Position;       // Current position label
+}
+
+// ── Actions ──
+
+export type Street = 'preflop' | 'flop' | 'turn' | 'river';
+
+export type ActionType = 'fold' | 'check' | 'call' | 'bet' | 'raise' | 'post_sb' | 'post_bb';
+
+export interface Action {
+  playerSeatIndex: number;
+  type: ActionType;
+  amount: number;           // In cents. 0 for fold/check.
+  timestamp: number;
+}
+
+// ── Hand state (main process source of truth) ──
+
+export interface SidePot {
+  amount: number;           // cents
+  eligiblePlayers: number[]; // Seat indices
+}
+
+export interface HandState {
+  handId: string;
+  tableId: string;
+  buttonSeatIndex: number;
+  players: Player[];
+  deck: Card[];
+  communityCards: Card[];
+  street: Street;
+  pot: number;              // Total pot in cents
+  sidePots: SidePot[];
+  actions: Action[];        // Full action history for this hand
+  currentPlayerIndex: number;
+  minRaise: number;         // Minimum legal raise TO amount (cents)
+  isComplete: boolean;
+}
+
+// ── Renderer-safe snapshots ──
+
+export interface PlayerSnapshot {
+  seatIndex: number;
+  name: string;
+  stack: number;            // cents
+  holeCards: [Card, Card] | null;  // null for bots unless showdown
+  isActive: boolean;
+  currentBet: number;       // cents
+  position: Position;
+  isCurrentActor: boolean;
+}
+
+export interface AvailableAction {
+  type: 'fold' | 'check' | 'call' | 'bet' | 'raise';
+  amount: number;           // cents (0 for fold/check, default size for bet/raise)
+  minAmount?: number;       // cents — minimum legal bet/raise
+  maxAmount?: number;       // cents — maximum legal bet/raise (all-in)
+  solverNodeId: string;     // UPI node ID of this child
+  label: string;            // Display label
+}
+
+export interface WinnerInfo {
+  seatIndex: number;
+  amount: number;           // cents
+  handDescription: string;  // e.g., "Two Pair, Aces and Kings"
+  cards: [Card, Card];
+}
+
+export interface TableSnapshot {
+  handId: string;
+  tableId: string;
+  players: PlayerSnapshot[];
+  communityCards: Card[];
+  pot: number;              // cents
+  sidePots: SidePot[];
+  street: Street;
+  currentPlayerIndex: number;
+  buttonSeatIndex: number;
+  isHandComplete: boolean;
+  lastAction: Action | null;
+  winnerInfo: WinnerInfo[] | null;
+  timeRemaining: number;    // Seconds left for current actor
+  availableActions: AvailableAction[] | null; // null when not human's turn
+}
+
+// ── IPC messages ──
+
+export interface SessionConfig {
+  tableCount: number;
+  playerName: string;
+}
+
+export interface PlayerActionMessage {
+  tableId: string;
+  action: ActionType;
+  amount: number;           // cents
+  solverNodeId: string;
+}
+
+export interface SoundTrigger {
+  sound: string;
+  volume: number;
+  tableId: string;
+}
+
+export interface Settings {
+  masterVolume: number;
+  handHistoryPath: string;
+  solverDataPath: string;
+  solverExecutablePath: string;
+  solverMode: 'child_process' | 'tcp_server';
+  solverServerHost: string;
+  solverServerPort: number;
+  playerName: string;
+}
+
+// ── Bot types ──
+
+export interface ActionFrequency {
+  fold?: number;
+  call?: number;
+  raise?: number;
+  allIn?: number;
+}
+
+export interface BotDecision {
+  action: ActionType;
+  amount: number;           // cents
+  delay: number;            // milliseconds
+}
+
+// ── Hand evaluation ──
+
+export interface HandEvalResult {
+  rank: number;             // Lower = better hand
+  description: string;      // "Pair of Aces", "Straight, King high", etc.
+  bestFiveCards: Card[];
+}

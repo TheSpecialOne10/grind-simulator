@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 14:00:52 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: NLHE_Grinder ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Ks]
+RunBadFeelGood: folds
+PocketRockets: folds
+NLHE_Grinder: folds
+Hero: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: RunBadFeelGood lost
+Seat 5: PocketRockets lost
+Seat 6: NLHE_Grinder lost
+

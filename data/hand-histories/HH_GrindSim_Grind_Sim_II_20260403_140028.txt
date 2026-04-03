@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 14:00:50 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: OverBet4Value ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: CheckRaiseKing ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 6s]
+RiverRat420: folds
+CheckRaiseKing: folds
+Bluffy_McBluff: folds
+Hero: folds
+OverBet4Value: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: OverBet4Value (small blind) lost
+Seat 3: FishOnTilt (big blind) lost
+Seat 4: RiverRat420 lost
+Seat 5: CheckRaiseKing lost
+Seat 6: Bluffy_McBluff lost
+

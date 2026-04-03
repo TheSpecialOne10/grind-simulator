@@ -1,0 +1,88 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 11:24:10 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ValueTown_Mayor ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As 9c]
+SteadyEddie: folds
+SlowRoll_Sam: folds
+OverBet4Value: folds
+Hero: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ValueTown_Mayor (small blind) lost
+Seat 3: SuckoutKid (big blind) lost
+Seat 4: SteadyEddie lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 11:24:55 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ValueTown_Mayor ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Ac]
+SlowRoll_Sam: folds
+OverBet4Value: folds
+Hero: raises $2.00 to $2.00
+ValueTown_Mayor: folds
+SuckoutKid: folds
+SteadyEddie: calls $1.00
+*** FLOP *** [Js 9s 8d]
+SteadyEddie: checks
+Hero: checks
+*** TURN *** [Js 9s 8d] [8c]
+SteadyEddie: checks
+Hero: bets $3.38
+SteadyEddie: folds
+Uncalled bet ($3.38) returned to Hero
+*** SUMMARY ***
+Total pot $7.88 | Rake $0.00
+Board [Js 9s 8d 8c]
+Seat 1: Hero lost
+Seat 2: ValueTown_Mayor (button) lost
+Seat 3: SuckoutKid (small blind) lost
+Seat 4: SteadyEddie (big blind) lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 11:25:11 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ValueTown_Mayor ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+SteadyEddie: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 4h]
+OverBet4Value: folds
+Hero: folds
+ValueTown_Mayor: folds
+SuckoutKid: folds
+SteadyEddie: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ValueTown_Mayor lost
+Seat 3: SuckoutKid (button) lost
+Seat 4: SteadyEddie (small blind) lost
+Seat 5: SlowRoll_Sam (big blind) lost
+Seat 6: OverBet4Value lost
+

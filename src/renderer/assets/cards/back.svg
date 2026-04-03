@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 84" width="60" height="84">
+  <defs>
+    <pattern id="diamonds" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M5 0 L10 5 L5 10 L0 5 Z" fill="#8b0000" stroke="#a00000" stroke-width="0.3"/>
+    </pattern>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="0.5" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <!-- Card body -->
+  <rect x="0.5" y="0.5" width="59" height="83" rx="4" ry="4"
+        fill="#b22222" stroke="#8b0000" stroke-width="0.5" filter="url(#shadow)"/>
+  <!-- Inner border -->
+  <rect x="3" y="3" width="54" height="78" rx="2" ry="2"
+        fill="none" stroke="#ffd700" stroke-width="0.5" opacity="0.6"/>
+  <!-- Diamond pattern -->
+  <rect x="5" y="5" width="50" height="74" rx="2" ry="2"
+        fill="url(#diamonds)" opacity="0.3"/>
+  <!-- Center emblem -->
+  <circle cx="30" cy="42" r="12" fill="#8b0000" stroke="#ffd700" stroke-width="0.8" opacity="0.8"/>
+  <text x="30" y="47" text-anchor="middle" font-family="Georgia, serif"
+        font-size="14" font-weight="bold" fill="#ffd700" opacity="0.9">GS</text>
+</svg>

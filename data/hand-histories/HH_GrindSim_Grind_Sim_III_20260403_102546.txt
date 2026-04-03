@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:26:04 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SharkBait55 ($100.00 in chips)
+Seat 3: CheckRaiseKing ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: StackEmUp ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 4h]
+ValueTown_Mayor: folds
+xXPokerProXx: folds
+StackEmUp: folds
+Hero: folds
+SharkBait55: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SharkBait55 (small blind) lost
+Seat 3: CheckRaiseKing (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: xXPokerProXx lost
+Seat 6: StackEmUp lost
+

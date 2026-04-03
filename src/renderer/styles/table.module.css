@@ -1,0 +1,357 @@
+.tableContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-dark);
+  overflow: hidden;
+}
+
+.tableOval {
+  position: relative;
+  width: 100%;
+  max-height: 100%;
+  aspect-ratio: 792 / 594;
+  overflow: hidden;
+}
+
+.tableBg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* 6 seat positions around the oval */
+.seat {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+/* Seats arranged clockwise inside the table image */
+/* Bottom-center (Hero) */
+.seat0 { left: 50%; top: 75%; }
+/* Bottom-left */
+.seat1 { left: 15%; top: 60%; }
+/* Top-left */
+.seat2 { left: 15%; top: 28%; }
+/* Top-center */
+.seat3 { left: 50%; top: 13%; }
+/* Top-right */
+.seat4 { left: 85%; top: 28%; }
+/* Bottom-right */
+.seat5 { left: 85%; top: 60%; }
+
+.seatInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(22, 33, 62, 0.9);
+  border-radius: 8px;
+  padding: 8px 18px;
+  min-width: 120px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.seatInfo.currentActor {
+  border-color: var(--text-gold);
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.4);
+}
+
+.seatInfo.folded {
+  opacity: 0.4;
+}
+
+.playerName {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
+.playerStack {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+/* Hole cards */
+.holeCards {
+  display: flex;
+  gap: 2px;
+  margin-bottom: 2px;
+}
+
+/* Community cards */
+.communityCards {
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  gap: 4px;
+  z-index: 5;
+}
+
+/* Pot display */
+.potDisplay {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 5;
+}
+
+.potAmount {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-gold);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+/* Dealer button */
+.dealerButton {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  z-index: 15;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.5));
+}
+
+/* Dealer button positions (near each seat, toward center) */
+.btn0 { left: 43%; top: 64%; }
+.btn1 { left: 26%; top: 51%; }
+.btn2 { left: 26%; top: 35%; }
+.btn3 { left: 57%; top: 22%; }
+.btn4 { left: 74%; top: 35%; }
+.btn5 { left: 74%; top: 51%; }
+
+/* Player bet (chip stack in front of player) */
+.playerBet {
+  position: absolute;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
+  z-index: 8;
+  transform: translate(-50%, -50%);
+}
+
+.bet0 { left: 50%; top: 63%; }
+.bet1 { left: 28%; top: 53%; }
+.bet2 { left: 28%; top: 35%; }
+.bet3 { left: 50%; top: 24%; }
+.bet4 { left: 72%; top: 35%; }
+.bet5 { left: 72%; top: 53%; }
+
+/* Chip stack */
+.chipStack {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.chipImg {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+.chipAmount {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+/* Card component */
+.card {
+  width: 56px;
+  height: 78px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.cardSmall {
+  width: 38px;
+  height: 53px;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Action panel — bottom-right corner */
+.actionPanel {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  z-index: 20;
+}
+
+/* Preset size buttons row (above main actions) */
+.presetRow {
+  display: flex;
+  gap: 4px;
+}
+
+.presetBtn {
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  background: rgba(22, 33, 62, 0.9);
+  color: #a0a0b0;
+  border: 1px solid #444;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.presetBtn:hover:not(:disabled) {
+  background: #3366cc;
+  color: #ffffff;
+  border-color: #3366cc;
+}
+
+.presetDisabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+/* Main action buttons row (2 or 3 buttons) */
+.mainActions {
+  display: flex;
+  gap: 6px;
+}
+
+.actionBtn {
+  padding: 10px 24px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+  transition: background 0.15s, transform 0.1s;
+  min-width: 90px;
+}
+
+.actionBtn:hover {
+  transform: translateY(-1px);
+}
+
+.actionBtn:active {
+  transform: translateY(0);
+}
+
+.btnFold {
+  background: var(--btn-fold);
+}
+.btnFold:hover { background: var(--btn-hover-fold); }
+
+.btnCheck, .btnCall {
+  background: var(--btn-call);
+}
+.btnCheck:hover, .btnCall:hover { background: var(--btn-hover-call); }
+
+.btnBet, .btnRaise {
+  background: var(--btn-raise);
+}
+.btnBet:hover, .btnRaise:hover { background: var(--btn-hover-raise); }
+
+/* Timer bar (horizontal, below avatar) */
+.timerBar {
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: 2px;
+}
+
+.timerBarFill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.1s linear, background-color 0.3s linear;
+}
+
+/* Winner overlay */
+.winnerOverlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.8);
+  border: 2px solid var(--text-gold);
+  border-radius: 12px;
+  padding: 12px 24px;
+  text-align: center;
+  z-index: 30;
+  animation: fadeInUp 0.3s ease-out;
+}
+
+.winnerText {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-gold);
+}
+
+.winnerHand {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translate(-50%, -40%); }
+  to { opacity: 1; transform: translate(-50%, -50%); }
+}
+
+/* Fallback slider */
+.sliderContainer {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  z-index: 20;
+}
+
+.presetButtons {
+  display: flex;
+  gap: 4px;
+}
+
+.presetBtn {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+  background: var(--btn-raise);
+  color: #ffffff;
+}
+
+.presetBtn:hover {
+  background: var(--btn-hover-raise);
+}

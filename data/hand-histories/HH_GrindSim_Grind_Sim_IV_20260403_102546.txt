@@ -1,0 +1,28 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:26:11 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: SBvsUTG ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: SnapFold ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs Td]
+OverBet4Value: folds
+SnapFold: raises $2.50 to $2.50
+RunBadFeelGood: folds
+Hero: folds
+PotCommitted: folds
+SBvsUTG: folds
+Uncalled bet ($2.50) returned to SnapFold
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: PotCommitted (small blind) lost
+Seat 3: SBvsUTG (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: SnapFold lost
+Seat 6: RunBadFeelGood lost
+

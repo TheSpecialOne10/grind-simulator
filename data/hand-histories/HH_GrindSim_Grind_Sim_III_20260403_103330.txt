@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 10:33:58 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h Ks]
+DonkeyKong42: folds
+TriplBarrel: folds
+NittyProfessor: folds
+Hero: folds
+QuadsOrFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: QuadsOrFold (small blind) lost
+Seat 3: PocketRockets (big blind) lost
+Seat 4: DonkeyKong42 lost
+Seat 5: TriplBarrel lost
+Seat 6: NittyProfessor lost
+

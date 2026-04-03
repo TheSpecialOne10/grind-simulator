@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 12:45:02 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs Jd]
+SnapFold: folds
+QuadsOrFold: folds
+TiltMachine: folds
+Hero: folds
+MegaTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: MegaTilt (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: SnapFold lost
+Seat 5: QuadsOrFold lost
+Seat 6: TiltMachine lost
+

@@ -1,0 +1,134 @@
+/* Card deal animation: slide from center of table to position */
+@keyframes dealCard {
+  from {
+    opacity: 0;
+    transform: translate(0, -20px) scale(0.5);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+}
+
+.deal-card-enter {
+  animation: dealCard 0.3s ease-out;
+}
+
+/* Community card flip: 3D rotation */
+@keyframes flipCard {
+  0% {
+    transform: perspective(400px) rotateY(90deg) scale(0.8);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: perspective(400px) rotateY(0deg) scale(1);
+  }
+}
+
+.flip-card-enter {
+  animation: flipCard 0.4s ease-out;
+}
+
+/* Chip slide to pot */
+@keyframes chipToPot {
+  from {
+    transform: translate(var(--chip-start-x, 0), var(--chip-start-y, 0)) scale(1.2);
+    opacity: 1;
+  }
+  to {
+    transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+}
+
+/* Pot chips to winner */
+@keyframes potToWinner {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.3);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.pot-award {
+  animation: potToWinner 0.6s ease-in-out;
+}
+
+/* Dealer button slide */
+@keyframes slideButton {
+  from {
+    opacity: 0.5;
+    transform: translate(-50%, -50%) scale(0.7);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+.dealer-move {
+  animation: slideButton 0.4s ease-out;
+}
+
+/* Winner highlight glow */
+@keyframes winnerGlow {
+  0%, 100% {
+    box-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.8), 0 0 40px rgba(255, 215, 0, 0.3);
+  }
+}
+
+.winner-highlight {
+  animation: winnerGlow 1.5s ease-in-out 2;
+}
+
+/* Fade in for new elements */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Bet amount pop */
+@keyframes betPop {
+  0% {
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+  }
+  60% {
+    transform: translate(-50%, -50%) scale(1.15);
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}
+
+.bet-enter {
+  animation: betPop 0.25s ease-out;
+}
+
+/* Action button press */
+@keyframes btnPress {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(2px); }
+  100% { transform: translateY(0); }
+}
+
+.btn-press {
+  animation: btnPress 0.15s ease-out;
+}
