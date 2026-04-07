@@ -1,0 +1,54 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:38 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TriplBarrel ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Jc]
+LooseGoose: folds
+BarrelHouse: folds
+the_nuts_42: folds
+Hero: raises $2.00 to $2.00
+TriplBarrel: folds
+PotCommitted: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TriplBarrel (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: LooseGoose lost
+Seat 5: BarrelHouse lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:51 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TriplBarrel ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 6d]
+BarrelHouse: folds
+the_nuts_42: folds
+Hero: folds
+TriplBarrel: folds
+PotCommitted: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TriplBarrel (button) lost
+Seat 3: PotCommitted (small blind) lost
+Seat 4: LooseGoose (big blind) lost
+Seat 5: BarrelHouse lost
+Seat 6: the_nuts_42 lost
+

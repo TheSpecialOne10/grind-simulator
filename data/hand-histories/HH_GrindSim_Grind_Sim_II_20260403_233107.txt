@@ -1,0 +1,126 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:31:26 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: TheGrinder ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 8d]
+TheGrinder: folds
+the_nuts_42: folds
+RunBadFeelGood: raises $2.50 to $2.50
+Hero: folds
+AggroManiac: folds
+OverBet4Value: folds
+Uncalled bet ($2.50) returned to RunBadFeelGood
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AggroManiac (small blind) lost
+Seat 3: OverBet4Value (big blind) lost
+Seat 4: TheGrinder lost
+Seat 5: the_nuts_42 lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:31:44 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: TheGrinder ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 2h]
+the_nuts_42: folds
+RunBadFeelGood: raises $2.50 to $2.50
+Hero: folds
+AggroManiac: folds
+OverBet4Value: folds
+TheGrinder: folds
+Uncalled bet ($2.50) returned to RunBadFeelGood
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AggroManiac (button) lost
+Seat 3: OverBet4Value (small blind) lost
+Seat 4: TheGrinder (big blind) lost
+Seat 5: the_nuts_42 lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:32:25 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: TheGrinder ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 6c]
+RunBadFeelGood: folds
+Hero: folds
+AggroManiac: calls $1.00
+OverBet4Value: folds
+TheGrinder: folds
+the_nuts_42: checks
+*** FLOP *** [6s Ks Th]
+the_nuts_42: checks
+AggroManiac: checks
+*** TURN *** [6s Ks Th] [7c]
+the_nuts_42: checks
+AggroManiac: checks
+*** RIVER *** [6s Ks Th 7c] [8h]
+the_nuts_42: checks
+AggroManiac: checks
+*** SHOW DOWN ***
+Hero: shows [3d 6c]
+AggroManiac: shows [Qd Ah]
+OverBet4Value: shows [9h Td]
+TheGrinder: shows [Kh Jd]
+the_nuts_42: shows [5s 9d]
+RunBadFeelGood: shows [8d Jh]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [6s Ks Th 7c 8h]
+Seat 1: Hero lost
+Seat 2: AggroManiac lost
+Seat 3: OverBet4Value (button) lost
+Seat 4: TheGrinder (small blind) lost
+Seat 5: the_nuts_42 (big blind) lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:32:36 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AggroManiac ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: TheGrinder ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Kh]
+Hero: folds
+AggroManiac: folds
+OverBet4Value: folds
+TheGrinder: folds
+the_nuts_42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AggroManiac lost
+Seat 3: OverBet4Value lost
+Seat 4: TheGrinder (button) lost
+Seat 5: the_nuts_42 (small blind) lost
+Seat 6: RunBadFeelGood (big blind) lost
+

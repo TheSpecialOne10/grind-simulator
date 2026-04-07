@@ -1,0 +1,90 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:17 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: SharkBait55 ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Ah]
+SharkBait55: folds
+NLHE_Grinder: folds
+ColdDeck_Carl: folds
+Hero: raises $2.50 to $2.50
+Bluffy_McBluff: folds
+TightIsRight: calls $1.50
+*** FLOP *** [8c 6c 7c]
+TightIsRight: checks
+Hero: checks
+*** TURN *** [8c 6c 7c] [9c]
+TightIsRight: checks
+Hero: checks
+*** RIVER *** [8c 6c 7c 9c] [5c]
+TightIsRight: checks
+Hero: bets $4.13
+TightIsRight: folds
+Uncalled bet ($4.13) returned to Hero
+*** SHOW DOWN ***
+Hero: shows [Ks Ah]
+Bluffy_McBluff: shows [5h 9d]
+TightIsRight: shows [4s 4c]
+SharkBait55: shows [Qh 6d]
+NLHE_Grinder: shows [Jd 5s]
+ColdDeck_Carl: shows [Kd 7h]
+*** SUMMARY ***
+Total pot $9.63 | Rake $0.00
+Board [8c 6c 7c 9c 5c]
+Seat 1: Hero (button) lost
+Seat 2: Bluffy_McBluff (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: SharkBait55 lost
+Seat 5: NLHE_Grinder lost
+Seat 6: ColdDeck_Carl lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:00:18 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: SharkBait55 ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Qd]
+NLHE_Grinder: raises $2.00 to $2.00
+ColdDeck_Carl: folds
+Hero: folds
+Bluffy_McBluff: folds
+TightIsRight: folds
+SharkBait55: calls $1.00
+*** FLOP *** [Kc 6d Ts]
+SharkBait55: checks
+NLHE_Grinder: checks
+*** TURN *** [Kc 6d Ts] [9c]
+SharkBait55: checks
+NLHE_Grinder: checks
+*** RIVER *** [Kc 6d Ts 9c] [Qh]
+SharkBait55: checks
+NLHE_Grinder: checks
+*** SHOW DOWN ***
+Hero: shows [5c Qd]
+Bluffy_McBluff: shows [Th 3d]
+TightIsRight: shows [3h 5h]
+SharkBait55: shows [As 8d]
+NLHE_Grinder: shows [Jh Kh]
+ColdDeck_Carl: shows [3c 7h]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Kc 6d Ts 9c Qh]
+Seat 1: Hero lost
+Seat 2: Bluffy_McBluff (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: SharkBait55 (big blind) lost
+Seat 5: NLHE_Grinder lost
+Seat 6: ColdDeck_Carl lost
+

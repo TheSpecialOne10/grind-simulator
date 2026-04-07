@@ -1,0 +1,200 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:18 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h 9h]
+OverBet4Value: raises $2.00 to $2.00
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SBvsUTG: raises $9.50 to $10.00
+FishOnTilt: folds
+OverBet4Value: folds
+Uncalled bet ($9.50) returned to SBvsUTG
+*** SUMMARY ***
+Total pot $13.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SBvsUTG (small blind) lost
+Seat 3: FishOnTilt (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: LooseGoose lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:29 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Td]
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SBvsUTG: folds
+FishOnTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SBvsUTG (button) lost
+Seat 3: FishOnTilt (small blind) lost
+Seat 4: OverBet4Value (big blind) lost
+Seat 5: LooseGoose lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:52 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Td]
+ChetFaker99: raises $2.00 to $2.00
+Hero: folds
+SBvsUTG: folds
+FishOnTilt: folds
+OverBet4Value: folds
+LooseGoose: folds
+Uncalled bet ($2.00) returned to ChetFaker99
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SBvsUTG lost
+Seat 3: FishOnTilt (button) lost
+Seat 4: OverBet4Value (small blind) lost
+Seat 5: LooseGoose (big blind) lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:17:32 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 4d]
+Hero: folds
+SBvsUTG: raises $2.00 to $2.00
+FishOnTilt: folds
+OverBet4Value: folds
+LooseGoose: folds
+ChetFaker99: folds
+Uncalled bet ($2.00) returned to SBvsUTG
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SBvsUTG lost
+Seat 3: FishOnTilt lost
+Seat 4: OverBet4Value (button) lost
+Seat 5: LooseGoose (small blind) lost
+Seat 6: ChetFaker99 (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:47 ET
+Table 'Grind Sim II' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 2d]
+SBvsUTG: raises $2.00 to $2.00
+FishOnTilt: folds
+OverBet4Value: raises $6.50 to $6.50
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SBvsUTG: calls $4.50
+*** FLOP *** [Th Td 8h]
+SBvsUTG: checks
+OverBet4Value: checks
+*** TURN *** [Th Td 8h] [6s]
+SBvsUTG: checks
+OverBet4Value: checks
+*** RIVER *** [Th Td 8h 6s] [2c]
+SBvsUTG: checks
+OverBet4Value: checks
+*** SHOW DOWN ***
+Hero: shows [3s 2d]
+SBvsUTG: shows [Qs Qh]
+FishOnTilt: shows [9c 3d]
+OverBet4Value: shows [Jh Jc]
+LooseGoose: shows [4s 6d]
+ChetFaker99: shows [7c 8c]
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.00
+Board [Th Td 8h 6s 2c]
+Seat 1: Hero (big blind) lost
+Seat 2: SBvsUTG lost
+Seat 3: FishOnTilt lost
+Seat 4: OverBet4Value lost
+Seat 5: LooseGoose (button) lost
+Seat 6: ChetFaker99 (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:55 ET
+Table 'Grind Sim II' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+Hero: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 2h]
+FishOnTilt: folds
+OverBet4Value: raises $2.00 to $2.00
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SBvsUTG: calls $1.00
+*** FLOP *** [Kh 3c 7d]
+SBvsUTG: checks
+OverBet4Value: checks
+*** TURN *** [Kh 3c 7d] [As]
+SBvsUTG: checks
+OverBet4Value: checks
+*** RIVER *** [Kh 3c 7d As] [5h]
+SBvsUTG: checks
+OverBet4Value: checks
+*** SHOW DOWN ***
+Hero: shows [2c 2h]
+SBvsUTG: shows [9h 3h]
+FishOnTilt: shows [Js 8c]
+OverBet4Value: shows [8h Ah]
+LooseGoose: shows [7h 5s]
+ChetFaker99: shows [4c 6c]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Kh 3c 7d As 5h]
+Seat 1: Hero (small blind) lost
+Seat 2: SBvsUTG (big blind) lost
+Seat 3: FishOnTilt lost
+Seat 4: OverBet4Value lost
+Seat 5: LooseGoose lost
+Seat 6: ChetFaker99 (button) lost
+

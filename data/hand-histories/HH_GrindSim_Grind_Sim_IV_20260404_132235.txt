@@ -1,0 +1,57 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:11 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+Bluffy_McBluff: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Jh]
+WetBoard_Willy: folds
+SuitsMe: folds
+GTO_Wizard: folds
+Hero: folds
+SetMiner_Pro: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: Bluffy_McBluff (big blind) lost
+Seat 4: WetBoard_Willy lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:57 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Ks]
+SuitsMe: folds
+GTO_Wizard: folds
+Hero: raises $2.00 to $2.00
+SetMiner_Pro: folds
+Bluffy_McBluff: calls $1.50
+WetBoard_Willy: folds
+*** FLOP *** [4h 4c 2s]
+Bluffy_McBluff: checks
+Hero: folds
+*** SUMMARY ***
+Total pot $5.00 | Rake $0.00
+Board [4h 4c 2s]
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: Bluffy_McBluff (small blind) lost
+Seat 4: WetBoard_Willy (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+

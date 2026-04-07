@@ -1,0 +1,96 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:33:44 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NittyProfessor ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h Ks]
+SteadyEddie: folds
+QuadsOrFold: folds
+TightIsRight: folds
+Hero: folds
+NittyProfessor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NittyProfessor (small blind) lost
+Seat 3: TiltMachine (big blind) lost
+Seat 4: SteadyEddie lost
+Seat 5: QuadsOrFold lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:34:50 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NittyProfessor ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 3c]
+QuadsOrFold: calls $1.00
+TightIsRight: folds
+Hero: folds
+NittyProfessor: folds
+TiltMachine: folds
+SteadyEddie: checks
+*** FLOP *** [Ah 7h 3s]
+SteadyEddie: checks
+QuadsOrFold: checks
+*** TURN *** [Ah 7h 3s] [Ac]
+SteadyEddie: checks
+QuadsOrFold: checks
+*** RIVER *** [Ah 7h 3s Ac] [9d]
+SteadyEddie: checks
+QuadsOrFold: checks
+*** SHOW DOWN ***
+Hero: shows [4d 3c]
+NittyProfessor: shows [2d 8d]
+TiltMachine: shows [Qh 6h]
+SteadyEddie: shows [3d 2c]
+QuadsOrFold: shows [7s 7d]
+TightIsRight: shows [Jc 6c]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Ah 7h 3s Ac 9d]
+Seat 1: Hero lost
+Seat 2: NittyProfessor (button) lost
+Seat 3: TiltMachine (small blind) lost
+Seat 4: SteadyEddie (big blind) lost
+Seat 5: QuadsOrFold lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:35:16 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NittyProfessor ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+SteadyEddie: posts small blind $0.50
+QuadsOrFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Qc]
+TightIsRight: folds
+Hero: folds
+NittyProfessor: folds
+TiltMachine: folds
+SteadyEddie: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NittyProfessor lost
+Seat 3: TiltMachine (button) lost
+Seat 4: SteadyEddie (small blind) lost
+Seat 5: QuadsOrFold (big blind) lost
+Seat 6: TightIsRight lost
+

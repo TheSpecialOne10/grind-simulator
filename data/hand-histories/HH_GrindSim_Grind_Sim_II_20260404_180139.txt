@@ -1,0 +1,91 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:02:35 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: SnapFold ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 7s]
+QuietNit: folds
+SnapFold: raises $2.00 to $2.00
+RunItTwice: folds
+Hero: raises $7.50 to $7.50
+CheckRaiseKing: calls $7.00
+TheGrinder: folds
+SnapFold: raises $18.00 to $20.00
+Hero: folds
+CheckRaiseKing: calls $12.50
+*** FLOP *** [Tc 2h 6d]
+CheckRaiseKing: checks
+SnapFold: checks
+*** TURN *** [Tc 2h 6d] [2s]
+CheckRaiseKing: checks
+SnapFold: checks
+*** RIVER *** [Tc 2h 6d 2s] [As]
+CheckRaiseKing: checks
+SnapFold: checks
+*** SHOW DOWN ***
+Hero: shows [6s 7s]
+CheckRaiseKing: shows [Qd Kd]
+TheGrinder: shows [7c 6c]
+QuietNit: shows [5c 8s]
+SnapFold: shows [Ad Qh]
+RunItTwice: shows [7h 8c]
+*** SUMMARY ***
+Total pot $48.50 | Rake $0.00
+Board [Tc 2h 6d 2s As]
+Seat 1: Hero (button) lost
+Seat 2: CheckRaiseKing (small blind) lost
+Seat 3: TheGrinder (big blind) lost
+Seat 4: QuietNit lost
+Seat 5: SnapFold lost
+Seat 6: RunItTwice lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:03:12 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: SnapFold ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c 4s]
+SnapFold: raises $2.00 to $2.00
+RunItTwice: folds
+Hero: folds
+CheckRaiseKing: folds
+TheGrinder: folds
+QuietNit: calls $1.00
+*** FLOP *** [4c 3s 9d]
+QuietNit: checks
+SnapFold: checks
+*** TURN *** [4c 3s 9d] [6h]
+QuietNit: checks
+SnapFold: checks
+*** RIVER *** [4c 3s 9d 6h] [9s]
+QuietNit: checks
+SnapFold: checks
+*** SHOW DOWN ***
+Hero: shows [8c 4s]
+CheckRaiseKing: shows [Ah 9h]
+TheGrinder: shows [Qd 5s]
+QuietNit: shows [7h 5h]
+SnapFold: shows [As Jc]
+RunItTwice: shows [7c Kd]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [4c 3s 9d 6h 9s]
+Seat 1: Hero lost
+Seat 2: CheckRaiseKing (button) lost
+Seat 3: TheGrinder (small blind) lost
+Seat 4: QuietNit (big blind) lost
+Seat 5: SnapFold lost
+Seat 6: RunItTwice lost
+

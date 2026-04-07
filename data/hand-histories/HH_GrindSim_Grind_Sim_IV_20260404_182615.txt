@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:51 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: AcesUpMySleeve ($100.00 in chips)
+Seat 6: NiceCatch88 ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Jh]
+GTO_Wizard: raises $2.00 to $2.00
+AcesUpMySleeve: folds
+NiceCatch88: folds
+Hero: folds
+RiverRat420: folds
+LooseGoose: calls $1.00
+*** FLOP *** [9s Qh 5d]
+LooseGoose: checks
+GTO_Wizard: checks
+*** TURN *** [9s Qh 5d] [Td]
+LooseGoose: checks
+GTO_Wizard: checks
+*** RIVER *** [9s Qh 5d Td] [5h]
+LooseGoose: checks
+GTO_Wizard: checks
+*** SHOW DOWN ***
+Hero: shows [Ts Jh]
+RiverRat420: shows [6c Ad]
+LooseGoose: shows [9c 5c]
+GTO_Wizard: shows [Ac Kc]
+AcesUpMySleeve: shows [8h 2s]
+NiceCatch88: shows [Jd Kh]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [9s Qh 5d Td 5h]
+Seat 1: Hero (button) lost
+Seat 2: RiverRat420 (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: GTO_Wizard lost
+Seat 5: AcesUpMySleeve lost
+Seat 6: NiceCatch88 lost
+

@@ -1,0 +1,132 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:26 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+SnapFold: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 3d]
+DonkeyKong42: folds
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SnapFold (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: DonkeyKong42 lost
+Seat 5: LooseGoose lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:38 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 7s]
+LooseGoose: folds
+ChetFaker99: folds
+Hero: folds
+SnapFold: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold (button) lost
+Seat 3: ValueTown_Mayor (small blind) lost
+Seat 4: DonkeyKong42 (big blind) lost
+Seat 5: LooseGoose lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:53 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 7c]
+ChetFaker99: folds
+Hero: folds
+SnapFold: folds
+ValueTown_Mayor: folds
+DonkeyKong42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: ValueTown_Mayor (button) lost
+Seat 4: DonkeyKong42 (small blind) lost
+Seat 5: LooseGoose (big blind) lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:07 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Ad]
+Hero: raises $2.00 to $2.00
+SnapFold: folds
+ValueTown_Mayor: folds
+DonkeyKong42: folds
+LooseGoose: folds
+ChetFaker99: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: ValueTown_Mayor lost
+Seat 4: DonkeyKong42 (button) lost
+Seat 5: LooseGoose (small blind) lost
+Seat 6: ChetFaker99 (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:16 ET
+Table 'Grind Sim IV' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h Kc]
+SnapFold: folds
+ValueTown_Mayor: folds
+DonkeyKong42: folds
+LooseGoose: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SnapFold lost
+Seat 3: ValueTown_Mayor lost
+Seat 4: DonkeyKong42 lost
+Seat 5: LooseGoose (button) lost
+Seat 6: ChetFaker99 (small blind) lost
+

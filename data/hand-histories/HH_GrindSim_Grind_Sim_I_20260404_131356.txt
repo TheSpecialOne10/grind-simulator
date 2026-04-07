@@ -1,0 +1,88 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:05 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RiverRat420 ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+RiverRat420: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 5s]
+SuitsMe: folds
+NLHE_Grinder: folds
+LooseGoose: folds
+Hero: folds
+DonkeyKong42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: DonkeyKong42 (small blind) lost
+Seat 3: RiverRat420 (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: NLHE_Grinder lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:17 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RiverRat420 ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d As]
+NLHE_Grinder: folds
+LooseGoose: folds
+Hero: raises $2.50 to $2.50
+DonkeyKong42: folds
+RiverRat420: folds
+SuitsMe: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 (button) lost
+Seat 3: RiverRat420 (small blind) lost
+Seat 4: SuitsMe (big blind) lost
+Seat 5: NLHE_Grinder lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:15:00 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RiverRat420 ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh Jc]
+LooseGoose: folds
+Hero: raises $2.00 to $2.00
+DonkeyKong42: raises $6.00 to $6.00
+RiverRat420: folds
+SuitsMe: folds
+NLHE_Grinder: folds
+Hero: calls $4.00
+*** FLOP *** [Ah 5d 3h]
+Hero: checks
+DonkeyKong42: checks
+Hero: folds
+*** TURN *** [Ah 5d 3h] [3d]
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.00
+Board [Ah 5d 3h 3d]
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 lost
+Seat 3: RiverRat420 (button) lost
+Seat 4: SuitsMe (small blind) lost
+Seat 5: NLHE_Grinder (big blind) lost
+Seat 6: LooseGoose lost
+

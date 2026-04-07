@@ -1,0 +1,111 @@
+{
+  "scenario": "vs_4bet",
+  "position": "SB",
+  "vsPosition": "UTG",
+  "description": "SB vs UTG 4-bet (jam or call)",
+  "defaultAction": "fold",
+  "betSizeBB": 100,
+  "ranges": {
+    "66": {
+      "call": 0.105,
+      "fold": 0.895
+    },
+    "77": {
+      "call": 0.185,
+      "fold": 0.815
+    },
+    "88": {
+      "call": 0.25,
+      "fold": 0.75
+    },
+    "99": {
+      "call": 0.545,
+      "fold": 0.455
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 0.035,
+      "call": 0.965
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 0.745,
+      "call": 0.205,
+      "fold": 0.05
+    },
+    "JJ": {
+      "call": 0.91,
+      "fold": 0.09
+    },
+    "TT": {
+      "call": 0.95,
+      "fold": 0.05
+    },
+    "AQs": {
+      "call": 1
+    },
+    "AJs": {
+      "call": 0.855,
+      "fold": 0.145
+    },
+    "ATs": {
+      "call": 0.39,
+      "fold": 0.61
+    },
+    "A5s": {
+      "call": 0.753,
+      "fold": 0.247
+    },
+    "A4s": {
+      "call": 0.463,
+      "fold": 0.537
+    },
+    "A3s": {
+      "call": 0.126,
+      "fold": 0.874
+    },
+    "KQs": {
+      "call": 0.825,
+      "fold": 0.175
+    },
+    "KJs": {
+      "call": 0.72,
+      "fold": 0.28
+    },
+    "JTs": {
+      "call": 0.465,
+      "fold": 0.535
+    },
+    "T9s": {
+      "call": 0.235,
+      "fold": 0.765
+    },
+    "98s": {
+      "call": 0.1,
+      "fold": 0.9
+    },
+    "87s": {
+      "call": 0.23,
+      "fold": 0.77
+    },
+    "76s": {
+      "call": 0.295,
+      "fold": 0.705
+    },
+    "65s": {
+      "call": 0.465,
+      "fold": 0.535
+    },
+    "54s": {
+      "call": 0.35,
+      "fold": 0.65
+    }
+  }
+}

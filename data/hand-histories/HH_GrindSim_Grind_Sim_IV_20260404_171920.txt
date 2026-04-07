@@ -1,0 +1,33 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:19:49 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: MegaTilt ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac Qc]
+SetMiner_Pro: folds
+MegaTilt: folds
+RunBadFeelGood: folds
+Hero: raises $2.50 to $2.50
+SuckoutKid: calls $2.00
+LooseGoose: folds
+*** FLOP *** [8c 6s Qh]
+SuckoutKid: checks
+Hero: bets $4.02
+SuckoutKid: folds
+Uncalled bet ($4.02) returned to Hero
+*** SUMMARY ***
+Total pot $10.02 | Rake $0.00
+Board [8c 6s Qh]
+Seat 1: Hero (button) lost
+Seat 2: SuckoutKid (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: SetMiner_Pro lost
+Seat 5: MegaTilt lost
+Seat 6: RunBadFeelGood lost
+

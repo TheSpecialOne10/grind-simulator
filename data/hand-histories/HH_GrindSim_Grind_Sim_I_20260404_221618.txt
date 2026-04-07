@@ -1,0 +1,146 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:16:23 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+4betJam: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 2h]
+TriplBarrel: raises $2.00 to $2.00
+RunItTwice: folds
+FlopZilla: folds
+Hero: folds
+4betJam: folds
+Button_Clicker: folds
+Uncalled bet ($2.00) returned to TriplBarrel
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 4betJam (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: TriplBarrel lost
+Seat 5: RunItTwice lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:16:33 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: SharkBait55 ($100.00 in chips)
+Seat 5: RiverRat420 ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd 6d]
+RiverRat420: folds
+SlowRoll_Sam: folds
+Hero: raises $2.30 to $2.30
+FlopZilla: folds
+PocketRockets: raises $11.00 to $11.50
+SharkBait55: folds
+Hero: folds
+Uncalled bet ($11.00) returned to PocketRockets
+*** SUMMARY ***
+Total pot $14.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FlopZilla (button) lost
+Seat 3: PocketRockets (small blind) lost
+Seat 4: SharkBait55 (big blind) lost
+Seat 5: RiverRat420 lost
+Seat 6: SlowRoll_Sam lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:16:38 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NLHE_Grinder ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 9c]
+TiltMachine: folds
+Hero: folds
+NLHE_Grinder: folds
+4betJam: raises $2.50 to $2.50
+RunBadFeelGood: folds
+NittyProfessor: folds
+Uncalled bet ($2.50) returned to 4betJam
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NLHE_Grinder lost
+Seat 3: 4betJam (button) lost
+Seat 4: RunBadFeelGood (small blind) lost
+Seat 5: NittyProfessor (big blind) lost
+Seat 6: TiltMachine lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:16:43 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: MegaTilt ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+MegaTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 2s]
+Hero: folds
+TiltMachine: folds
+SetMiner_Pro: raises $2.30 to $2.30
+TriplBarrel: folds
+FlopZilla: folds
+MegaTilt: folds
+Uncalled bet ($2.30) returned to SetMiner_Pro
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TiltMachine lost
+Seat 3: SetMiner_Pro lost
+Seat 4: TriplBarrel (button) lost
+Seat 5: FlopZilla (small blind) lost
+Seat 6: MegaTilt (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:17:09 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NLHE_Grinder ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: MegaTilt ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s Ac]
+NLHE_Grinder: folds
+PotCommitted: raises $2.00 to $2.00
+xXPokerProXx: folds
+3BetBandit: folds
+MegaTilt: folds
+Hero: calls $1.00
+*** FLOP *** [Ad Kd 8h]
+Hero: checks
+PotCommitted: checks
+Hero: folds
+*** TURN *** [Ad Kd 8h] [Ts]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Ad Kd 8h Ts]
+Seat 1: Hero (big blind) lost
+Seat 2: NLHE_Grinder lost
+Seat 3: PotCommitted lost
+Seat 4: xXPokerProXx lost
+Seat 5: 3BetBandit (button) lost
+Seat 6: MegaTilt (small blind) lost
+

@@ -1,0 +1,210 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:36 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h Jd]
+MegaTilt: folds
+FoldPre2024: raises $2.00 to $2.00
+FlushDraw_Hero: folds
+Hero: folds
+Button_Clicker: folds
+CardDead_Chris: calls $1.00
+*** FLOP *** [2d 7c Jh]
+CardDead_Chris: checks
+FoldPre2024: checks
+*** TURN *** [2d 7c Jh] [Ah]
+CardDead_Chris: checks
+FoldPre2024: checks
+*** RIVER *** [2d 7c Jh Ah] [Ad]
+CardDead_Chris: checks
+FoldPre2024: checks
+*** SHOW DOWN ***
+Hero: shows [9h Jd]
+Button_Clicker: shows [2c 5c]
+CardDead_Chris: shows [6h 6s]
+MegaTilt: shows [8h Qc]
+FoldPre2024: shows [As Kh]
+FlushDraw_Hero: shows [9c Kd]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [2d 7c Jh Ah Ad]
+Seat 1: Hero (button) lost
+Seat 2: Button_Clicker (small blind) lost
+Seat 3: CardDead_Chris (big blind) lost
+Seat 4: MegaTilt lost
+Seat 5: FoldPre2024 lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:49 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+MegaTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Kd]
+FoldPre2024: folds
+FlushDraw_Hero: folds
+Hero: folds
+Button_Clicker: folds
+CardDead_Chris: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker (button) lost
+Seat 3: CardDead_Chris (small blind) lost
+Seat 4: MegaTilt (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:17:27 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 9s]
+FlushDraw_Hero: folds
+Hero: folds
+Button_Clicker: folds
+CardDead_Chris: folds
+MegaTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker lost
+Seat 3: CardDead_Chris (button) lost
+Seat 4: MegaTilt (small blind) lost
+Seat 5: FoldPre2024 (big blind) lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:10 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+FlushDraw_Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 9s]
+Hero: folds
+Button_Clicker: raises $2.00 to $2.00
+CardDead_Chris: folds
+MegaTilt: folds
+FoldPre2024: raises $10.50 to $11.00
+FlushDraw_Hero: folds
+Button_Clicker: folds
+Uncalled bet ($10.50) returned to FoldPre2024
+*** SUMMARY ***
+Total pot $14.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker lost
+Seat 3: CardDead_Chris lost
+Seat 4: MegaTilt (button) lost
+Seat 5: FoldPre2024 (small blind) lost
+Seat 6: FlushDraw_Hero (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:50 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+FlushDraw_Hero: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc 9s]
+Button_Clicker: folds
+CardDead_Chris: raises $2.00 to $2.00
+MegaTilt: folds
+FoldPre2024: folds
+FlushDraw_Hero: folds
+Hero: folds
+Uncalled bet ($2.00) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: Button_Clicker lost
+Seat 3: CardDead_Chris lost
+Seat 4: MegaTilt lost
+Seat 5: FoldPre2024 (button) lost
+Seat 6: FlushDraw_Hero (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:34 ET
+Table 'Grind Sim III' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+Hero: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Qd]
+CardDead_Chris: folds
+MegaTilt: raises $2.00 to $2.00
+FoldPre2024: folds
+FlushDraw_Hero: raises $7.50 to $7.50
+Hero: folds
+Button_Clicker: folds
+MegaTilt: folds
+Uncalled bet ($7.50) returned to FlushDraw_Hero
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: Button_Clicker (big blind) lost
+Seat 3: CardDead_Chris lost
+Seat 4: MegaTilt lost
+Seat 5: FoldPre2024 lost
+Seat 6: FlushDraw_Hero (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:56 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 2c]
+MegaTilt: raises $2.00 to $2.00
+FoldPre2024: folds
+FlushDraw_Hero: folds
+Hero: folds
+Button_Clicker: folds
+CardDead_Chris: folds
+Uncalled bet ($2.00) returned to MegaTilt
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: Button_Clicker (small blind) lost
+Seat 3: CardDead_Chris (big blind) lost
+Seat 4: MegaTilt lost
+Seat 5: FoldPre2024 lost
+Seat 6: FlushDraw_Hero lost
+

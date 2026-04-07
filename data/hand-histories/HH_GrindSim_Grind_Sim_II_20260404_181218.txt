@@ -1,0 +1,145 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:12:50 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 4d]
+DonkeyKong42: folds
+PotCommitted: raises $2.00 to $2.00
+ValueTown_Mayor: folds
+Hero: folds
+3BetBandit: folds
+FishOnTilt: calls $1.00
+*** FLOP *** [4s As 3d]
+FishOnTilt: checks
+PotCommitted: checks
+*** TURN *** [4s As 3d] [9s]
+FishOnTilt: checks
+PotCommitted: checks
+*** RIVER *** [4s As 3d 9s] [Ts]
+FishOnTilt: checks
+PotCommitted: checks
+*** SHOW DOWN ***
+Hero: shows [8s 4d]
+3BetBandit: shows [8d Ad]
+FishOnTilt: shows [Tc 3c]
+DonkeyKong42: shows [6d 4c]
+PotCommitted: shows [9h Jh]
+ValueTown_Mayor: shows [5h Qs]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [4s As 3d 9s Ts]
+Seat 1: Hero (button) lost
+Seat 2: 3BetBandit (small blind) lost
+Seat 3: FishOnTilt (big blind) lost
+Seat 4: DonkeyKong42 lost
+Seat 5: PotCommitted lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:33 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 7s]
+PotCommitted: folds
+ValueTown_Mayor: folds
+Hero: folds
+3BetBandit: raises $2.50 to $2.50
+FishOnTilt: folds
+DonkeyKong42: raises $12.00 to $13.00
+3BetBandit: folds
+Uncalled bet ($12.00) returned to DonkeyKong42
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: FishOnTilt (small blind) lost
+Seat 4: DonkeyKong42 (big blind) lost
+Seat 5: PotCommitted lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:14:41 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Ah]
+ValueTown_Mayor: folds
+Hero: folds
+3BetBandit: raises $2.30 to $2.30
+FishOnTilt: folds
+DonkeyKong42: folds
+PotCommitted: calls $1.30
+*** FLOP *** [8c Qc As]
+PotCommitted: checks
+3BetBandit: checks
+*** TURN *** [8c Qc As] [8s]
+PotCommitted: checks
+3BetBandit: checks
+*** RIVER *** [8c Qc As 8s] [7s]
+PotCommitted: checks
+3BetBandit: checks
+*** SHOW DOWN ***
+Hero: shows [5d Ah]
+3BetBandit: shows [9s Ad]
+FishOnTilt: shows [Jh 5h]
+DonkeyKong42: shows [Kh 2h]
+PotCommitted: shows [7h Th]
+ValueTown_Mayor: shows [Kc 2s]
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [8c Qc As 8s 7s]
+Seat 1: Hero lost
+Seat 2: 3BetBandit lost
+Seat 3: FishOnTilt (button) lost
+Seat 4: DonkeyKong42 (small blind) lost
+Seat 5: PotCommitted (big blind) lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:23 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Td]
+Hero: folds
+3BetBandit: folds
+FishOnTilt: folds
+DonkeyKong42: raises $2.50 to $2.50
+PotCommitted: folds
+ValueTown_Mayor: folds
+Uncalled bet ($2.50) returned to DonkeyKong42
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit lost
+Seat 3: FishOnTilt lost
+Seat 4: DonkeyKong42 (button) lost
+Seat 5: PotCommitted (small blind) lost
+Seat 6: ValueTown_Mayor (big blind) lost
+

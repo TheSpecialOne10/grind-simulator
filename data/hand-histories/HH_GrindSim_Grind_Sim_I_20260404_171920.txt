@@ -1,0 +1,62 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:19:45 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: RiverRat420 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+Bluffy_McBluff: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Tc]
+FoldPre2024: folds
+RiverRat420: calls $1.00
+SteadyEddie: folds
+Hero: raises $3.00 to $3.00
+TheGrinder: folds
+Bluffy_McBluff: folds
+RiverRat420: calls $2.00
+*** FLOP *** [9h Qd 3d]
+RiverRat420: checks
+Hero: bets $5.03
+RiverRat420: folds
+Uncalled bet ($5.03) returned to Hero
+*** SUMMARY ***
+Total pot $12.53 | Rake $0.00
+Board [9h Qd 3d]
+Seat 1: Hero (button) lost
+Seat 2: TheGrinder (small blind) lost
+Seat 3: Bluffy_McBluff (big blind) lost
+Seat 4: FoldPre2024 lost
+Seat 5: RiverRat420 lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:20:26 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: RiverRat420 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 5h]
+RiverRat420: folds
+SteadyEddie: raises $100.00 to $100.00
+Hero: folds
+TheGrinder: folds
+Bluffy_McBluff: folds
+FoldPre2024: folds
+Uncalled bet ($100.00) returned to SteadyEddie
+*** SUMMARY ***
+Total pot $101.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder (button) lost
+Seat 3: Bluffy_McBluff (small blind) lost
+Seat 4: FoldPre2024 (big blind) lost
+Seat 5: RiverRat420 lost
+Seat 6: SteadyEddie lost
+

@@ -1,0 +1,80 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:02 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SBvsUTG ($100.00 in chips)
+Seat 4: SuckoutKid ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 2s]
+SuckoutKid: raises $100.00 to $100.00
+FoldPre2024: folds
+SteadyEddie: folds
+Hero: folds
+AcesUpMySleeve: folds
+SBvsUTG: folds
+Uncalled bet ($100.00) returned to SuckoutKid
+*** SUMMARY ***
+Total pot $101.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AcesUpMySleeve (small blind) lost
+Seat 3: SBvsUTG (big blind) lost
+Seat 4: SuckoutKid lost
+Seat 5: FoldPre2024 lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:42 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SBvsUTG ($100.00 in chips)
+Seat 4: SuckoutKid ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 7s]
+FoldPre2024: folds
+SteadyEddie: folds
+Hero: folds
+AcesUpMySleeve: folds
+SBvsUTG: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve (button) lost
+Seat 3: SBvsUTG (small blind) lost
+Seat 4: SuckoutKid (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:50 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SBvsUTG ($100.00 in chips)
+Seat 4: SuckoutKid ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 9s]
+SteadyEddie: folds
+Hero: folds
+AcesUpMySleeve: folds
+SBvsUTG: folds
+SuckoutKid: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SBvsUTG (button) lost
+Seat 4: SuckoutKid (small blind) lost
+Seat 5: FoldPre2024 (big blind) lost
+Seat 6: SteadyEddie lost
+

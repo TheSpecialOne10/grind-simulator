@@ -1,9 +1,9 @@
-import { ipcMain, dialog } from 'electron';
-import type { BrowserWindow } from 'electron';
+import { ipcMain, dialog, BrowserWindow } from 'electron';
 import { IPC } from '../shared/ipc-channels';
 import type { SessionConfig, PlayerActionMessage } from '../shared/types';
 import { TableManager } from './table-manager';
 import { PreflopCharts } from './bot/preflop-charts';
+import { loadSettings, updateSettings } from './settings-store';
 import { join } from 'path';
 
 let tableManager: TableManager | null = null;
@@ -25,7 +25,7 @@ export function registerIPCHandlers(lobbyWindow: BrowserWindow): void {
   // Start session
   ipcMain.on(IPC.START_SESSION, (_event, config: SessionConfig) => {
     tableManager = new TableManager(lobbyWindow, charts);
-    tableManager.startSession(config.tableCount, config.playerName);
+    tableManager.startSession(config.tableCount, config.playerName, undefined, config.revealBotCards, config.zoomMode);
   });
 
   // Stop session
@@ -44,10 +44,27 @@ export function registerIPCHandlers(lobbyWindow: BrowserWindow): void {
     tableManager?.handleTableReady(data.tableId);
   });
 
-  // Settings update
-  ipcMain.on(IPC.UPDATE_SETTINGS, (_event, settings) => {
-    // Will be implemented in Phase 4
-    console.log('Settings update:', settings);
+  // Zoom early fold — hero folds before their turn arrives
+  ipcMain.on(IPC.ZOOM_FOLD_EARLY, (_event, data: { tableId: string }) => {
+    tableManager?.handleEarlyFold(data.tableId);
+  });
+
+  // Focus the BrowserWindow that sent this message (hover-to-focus)
+  ipcMain.on(IPC.FOCUS_WINDOW, (event) => {
+    const win = BrowserWindow.fromWebContents(event.sender);
+    if (win && !win.isDestroyed() && !win.isFocused()) {
+      win.focus();
+    }
+  });
+
+  // Settings update — persist to disk
+  ipcMain.on(IPC.UPDATE_SETTINGS, (_event, partial) => {
+    updateSettings(partial);
+  });
+
+  // Settings get — load from disk (used by both lobby and table windows)
+  ipcMain.handle(IPC.GET_SETTINGS, () => {
+    return loadSettings();
   });
 
   // Directory picker dialog

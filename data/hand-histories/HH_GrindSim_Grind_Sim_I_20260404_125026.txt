@@ -1,0 +1,28 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:50:43 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ValueTown_Mayor ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: SharkBait55 ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 2s]
+SharkBait55: folds
+PotCommitted: folds
+FishOnTilt: folds
+Hero: folds
+ValueTown_Mayor: raises $2.00 to $2.50
+AcesUpMySleeve: folds
+Uncalled bet ($2.00) returned to ValueTown_Mayor
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ValueTown_Mayor (small blind) lost
+Seat 3: AcesUpMySleeve (big blind) lost
+Seat 4: SharkBait55 lost
+Seat 5: PotCommitted lost
+Seat 6: FishOnTilt lost
+

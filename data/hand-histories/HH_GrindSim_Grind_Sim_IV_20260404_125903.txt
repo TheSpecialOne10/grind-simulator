@@ -1,0 +1,75 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:59:11 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: FoldPre2024 ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: BarrelHouse ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 3s]
+NittyProfessor: folds
+DonkeyKong42: folds
+BarrelHouse: folds
+Hero: folds
+Button_Clicker: raises $2.00 to $2.50
+FoldPre2024: folds
+Uncalled bet ($2.00) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: Button_Clicker (small blind) lost
+Seat 3: FoldPre2024 (big blind) lost
+Seat 4: NittyProfessor lost
+Seat 5: DonkeyKong42 lost
+Seat 6: BarrelHouse lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:59:52 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: FoldPre2024 ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: BarrelHouse ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4s]
+DonkeyKong42: raises $2.50 to $2.50
+BarrelHouse: folds
+Hero: folds
+Button_Clicker: folds
+FoldPre2024: raises $7.00 to $7.50
+NittyProfessor: folds
+DonkeyKong42: raises $14.75 to $17.25
+FoldPre2024: raises $92.50 to $100.00
+DonkeyKong42: calls $82.75
+*** FLOP *** [Ac 2c 2s]
+FoldPre2024: checks
+DonkeyKong42: checks
+*** TURN *** [Ac 2c 2s] [7h]
+FoldPre2024: checks
+DonkeyKong42: checks
+*** RIVER *** [Ac 2c 2s 7h] [8h]
+FoldPre2024: checks
+DonkeyKong42: checks
+*** SHOW DOWN ***
+Hero: shows [Jd 4s]
+Button_Clicker: shows [8c Kc]
+FoldPre2024: shows [Qh Qc]
+NittyProfessor: shows [9h 7c]
+DonkeyKong42: shows [Ah Kd]
+BarrelHouse: shows [Ad 7s]
+*** SUMMARY ***
+Total pot $201.00 | Rake $0.00
+Board [Ac 2c 2s 7h 8h]
+Seat 1: Hero lost
+Seat 2: Button_Clicker (button) lost
+Seat 3: FoldPre2024 (small blind) lost
+Seat 4: NittyProfessor (big blind) lost
+Seat 5: DonkeyKong42 lost
+Seat 6: BarrelHouse lost
+

@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:50 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlushDraw_Hero ($100.00 in chips)
+Seat 3: WetBoard_Willy ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: 4betJam ($100.00 in chips)
+FlushDraw_Hero: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s 2h]
+SuitsMe: folds
+TheGrinder: folds
+4betJam: folds
+Hero: folds
+FlushDraw_Hero: calls $0.50
+WetBoard_Willy: checks
+*** FLOP *** [9h 8c 7h]
+FlushDraw_Hero: checks
+WetBoard_Willy: checks
+*** TURN *** [9h 8c 7h] [3c]
+FlushDraw_Hero: checks
+WetBoard_Willy: checks
+*** RIVER *** [9h 8c 7h 3c] [Kc]
+FlushDraw_Hero: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [4s 2h]
+FlushDraw_Hero: shows [Qd As]
+WetBoard_Willy: shows [3s Ts]
+SuitsMe: shows [9c 5d]
+TheGrinder: shows [8d 5c]
+4betJam: shows [Qc 5h]
+*** SUMMARY ***
+Total pot $2.00 | Rake $0.00
+Board [9h 8c 7h 3c Kc]
+Seat 1: Hero (button) lost
+Seat 2: FlushDraw_Hero (small blind) lost
+Seat 3: WetBoard_Willy (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: TheGrinder lost
+Seat 6: 4betJam lost
+

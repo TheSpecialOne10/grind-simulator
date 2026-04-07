@@ -1,0 +1,63 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:54:47 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 3h]
+ValueTown_Mayor: folds
+BarrelHouse: folds
+the_nuts_42: raises $2.30 to $2.30
+Hero: folds
+SuckoutKid: folds
+NittyProfessor: folds
+Uncalled bet ($2.30) returned to the_nuts_42
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuckoutKid (small blind) lost
+Seat 3: NittyProfessor (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: BarrelHouse lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:55:42 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s 4c]
+BarrelHouse: folds
+the_nuts_42: folds
+Hero: raises $2.30 to $2.30
+SuckoutKid: folds
+NittyProfessor: raises $11.00 to $11.50
+ValueTown_Mayor: folds
+Hero: calls $9.20
+*** FLOP *** [9s 2c 7d]
+NittyProfessor: checks
+Hero: checks
+*** TURN *** [9s 2c 7d] [9d]
+NittyProfessor: checks
+Hero: folds
+*** SUMMARY ***
+Total pot $24.00 | Rake $0.00
+Board [9s 2c 7d 9d]
+Seat 1: Hero lost
+Seat 2: SuckoutKid (button) lost
+Seat 3: NittyProfessor (small blind) lost
+Seat 4: ValueTown_Mayor (big blind) lost
+Seat 5: BarrelHouse lost
+Seat 6: the_nuts_42 lost
+

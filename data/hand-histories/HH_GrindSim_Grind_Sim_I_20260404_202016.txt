@@ -1,0 +1,88 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:20:50 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: MegaTilt ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 5c]
+ColdDeck_Carl: folds
+NiceCatch88: folds
+MegaTilt: raises $2.30 to $2.30
+Hero: folds
+SuckoutKid: folds
+NittyProfessor: calls $1.30
+*** FLOP *** [8c Ts Qc]
+NittyProfessor: checks
+MegaTilt: checks
+*** TURN *** [8c Ts Qc] [2c]
+NittyProfessor: checks
+MegaTilt: checks
+*** RIVER *** [8c Ts Qc 2c] [9s]
+NittyProfessor: checks
+MegaTilt: checks
+*** SHOW DOWN ***
+Hero: shows [2d 5c]
+SuckoutKid: shows [Qd 4s]
+NittyProfessor: shows [Js As]
+ColdDeck_Carl: shows [9c 3d]
+NiceCatch88: shows [4d 8s]
+MegaTilt: shows [Ah Jc]
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [8c Ts Qc 2c 9s]
+Seat 1: Hero (button) lost
+Seat 2: SuckoutKid (small blind) lost
+Seat 3: NittyProfessor (big blind) lost
+Seat 4: ColdDeck_Carl lost
+Seat 5: NiceCatch88 lost
+Seat 6: MegaTilt lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:32 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: MegaTilt ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+ColdDeck_Carl: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Jd]
+NiceCatch88: raises $2.00 to $2.00
+MegaTilt: folds
+Hero: folds
+SuckoutKid: folds
+NittyProfessor: folds
+ColdDeck_Carl: calls $1.00
+*** FLOP *** [Kc Ac Ah]
+ColdDeck_Carl: checks
+NiceCatch88: checks
+*** TURN *** [Kc Ac Ah] [Ad]
+ColdDeck_Carl: checks
+NiceCatch88: checks
+*** RIVER *** [Kc Ac Ah Ad] [5s]
+ColdDeck_Carl: checks
+NiceCatch88: checks
+*** SHOW DOWN ***
+Hero: shows [Kh Jd]
+SuckoutKid: shows [3s 5h]
+NittyProfessor: shows [8h 3d]
+ColdDeck_Carl: shows [5c 4d]
+NiceCatch88: shows [9h 9d]
+MegaTilt: shows [Qs 2h]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Kc Ac Ah Ad 5s]
+Seat 1: Hero lost
+Seat 2: SuckoutKid (button) lost
+Seat 3: NittyProfessor (small blind) lost
+Seat 4: ColdDeck_Carl (big blind) lost
+Seat 5: NiceCatch88 lost
+Seat 6: MegaTilt lost
+

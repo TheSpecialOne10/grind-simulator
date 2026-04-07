@@ -1,0 +1,285 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:16:03 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Ts]
+BarrelHouse: folds
+StackEmUp: folds
+SuckoutKid: raises $2.30 to $2.30
+Hero: folds
+FoldPre2024: folds
+3BetBandit: calls $1.30
+*** FLOP *** [5s Kc 2s]
+3BetBandit: checks
+SuckoutKid: checks
+*** TURN *** [5s Kc 2s] [4s]
+3BetBandit: checks
+SuckoutKid: checks
+*** RIVER *** [5s Kc 2s 4s] [5d]
+3BetBandit: checks
+SuckoutKid: checks
+*** SHOW DOWN ***
+Hero: shows [9s Ts]
+FoldPre2024: shows [Js 6s]
+3BetBandit: shows [7c 4c]
+BarrelHouse: shows [Kh 6d]
+StackEmUp: shows [7d Td]
+SuckoutKid: shows [Jh 7h]
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [5s Kc 2s 4s 5d]
+Seat 1: Hero (button) lost
+Seat 2: FoldPre2024 (small blind) lost
+Seat 3: 3BetBandit (big blind) lost
+Seat 4: BarrelHouse lost
+Seat 5: StackEmUp lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:16:45 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h 4d]
+StackEmUp: folds
+SuckoutKid: folds
+Hero: folds
+FoldPre2024: raises $2.50 to $2.50
+3BetBandit: folds
+BarrelHouse: folds
+Uncalled bet ($2.50) returned to FoldPre2024
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FoldPre2024 (button) lost
+Seat 3: 3BetBandit (small blind) lost
+Seat 4: BarrelHouse (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:17:28 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d Ks]
+SuckoutKid: folds
+Hero: folds
+FoldPre2024: folds
+3BetBandit: folds
+BarrelHouse: raises $2.50 to $3.00
+StackEmUp: raises $9.00 to $10.00
+BarrelHouse: folds
+Uncalled bet ($9.00) returned to StackEmUp
+*** SUMMARY ***
+Total pot $13.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FoldPre2024 lost
+Seat 3: 3BetBandit (button) lost
+Seat 4: BarrelHouse (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:18:27 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Td]
+Hero: folds
+FoldPre2024: folds
+3BetBandit: folds
+BarrelHouse: raises $2.50 to $2.50
+StackEmUp: folds
+SuckoutKid: calls $1.50
+*** FLOP *** [8d Jh Ac]
+SuckoutKid: checks
+BarrelHouse: checks
+*** TURN *** [8d Jh Ac] [Jc]
+SuckoutKid: checks
+BarrelHouse: checks
+*** RIVER *** [8d Jh Ac Jc] [9c]
+SuckoutKid: checks
+BarrelHouse: checks
+*** SHOW DOWN ***
+Hero: shows [6c Td]
+FoldPre2024: shows [Ad 8c]
+3BetBandit: shows [2s 9d]
+BarrelHouse: shows [Jd Kd]
+StackEmUp: shows [5c Ts]
+SuckoutKid: shows [2h Ah]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [8d Jh Ac Jc 9c]
+Seat 1: Hero lost
+Seat 2: FoldPre2024 lost
+Seat 3: 3BetBandit lost
+Seat 4: BarrelHouse (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: SuckoutKid (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:19:08 ET
+Table 'Grind Sim II' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 9s]
+FoldPre2024: folds
+3BetBandit: folds
+BarrelHouse: folds
+StackEmUp: folds
+SuckoutKid: raises $2.50 to $3.00
+Hero: folds
+Uncalled bet ($2.50) returned to SuckoutKid
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: FoldPre2024 lost
+Seat 3: 3BetBandit lost
+Seat 4: BarrelHouse lost
+Seat 5: StackEmUp (button) lost
+Seat 6: SuckoutKid (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:19:49 ET
+Table 'Grind Sim II' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+Hero: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 5c]
+3BetBandit: folds
+BarrelHouse: raises $2.00 to $2.00
+StackEmUp: folds
+SuckoutKid: folds
+Hero: folds
+FoldPre2024: raises $11.30 to $12.30
+BarrelHouse: folds
+Uncalled bet ($11.30) returned to FoldPre2024
+*** SUMMARY ***
+Total pot $14.80 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: FoldPre2024 (big blind) lost
+Seat 3: 3BetBandit lost
+Seat 4: BarrelHouse lost
+Seat 5: StackEmUp lost
+Seat 6: SuckoutKid (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:20:32 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 2c]
+BarrelHouse: folds
+StackEmUp: raises $2.00 to $2.00
+SuckoutKid: folds
+Hero: folds
+FoldPre2024: folds
+3BetBandit: folds
+Uncalled bet ($2.00) returned to StackEmUp
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FoldPre2024 (small blind) lost
+Seat 3: 3BetBandit (big blind) lost
+Seat 4: BarrelHouse lost
+Seat 5: StackEmUp lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:21:11 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 5h]
+StackEmUp: folds
+SuckoutKid: folds
+Hero: folds
+FoldPre2024: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FoldPre2024 (button) lost
+Seat 3: 3BetBandit (small blind) lost
+Seat 4: BarrelHouse (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #9: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:21:53 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 4d]
+SuckoutKid: raises $2.00 to $2.00
+Hero: folds
+FoldPre2024: folds
+3BetBandit: raises $7.50 to $7.50
+BarrelHouse: folds
+StackEmUp: folds
+SuckoutKid: folds
+Uncalled bet ($7.50) returned to 3BetBandit
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FoldPre2024 lost
+Seat 3: 3BetBandit (button) lost
+Seat 4: BarrelHouse (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: SuckoutKid lost
+

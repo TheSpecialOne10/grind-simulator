@@ -1,0 +1,54 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:33 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc 5s]
+RunBadFeelGood: folds
+ValueTown_Mayor: folds
+OverBet4Value: raises $2.50 to $2.50
+Hero: folds
+RiverRat420: folds
+TightIsRight: folds
+Uncalled bet ($2.50) returned to OverBet4Value
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RiverRat420 (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: RunBadFeelGood lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:47 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Ts]
+ValueTown_Mayor: folds
+OverBet4Value: folds
+Hero: folds
+RiverRat420: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RiverRat420 (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: RunBadFeelGood (big blind) lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: OverBet4Value lost
+

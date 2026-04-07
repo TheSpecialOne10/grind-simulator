@@ -1,7 +1,7 @@
 import { contextBridge, ipcRenderer } from 'electron';
 import { IPC } from '../shared/ipc-channels';
 import type {
-  ActionType, SessionConfig, Settings, TableSnapshot, SoundTrigger
+  ActionType, PreflopFeedbackData, SessionConfig, Settings, TableSnapshot, SoundTrigger
 } from '../shared/types';
 
 const api = {
@@ -29,6 +29,7 @@ const api = {
   },
 
   // Settings
+  getSettings: (): Promise<Settings> => ipcRenderer.invoke(IPC.GET_SETTINGS),
   updateSettings: (settings: Partial<Settings>) => {
     ipcRenderer.send(IPC.UPDATE_SETTINGS, settings);
   },
@@ -36,6 +37,11 @@ const api = {
   // Dialogs
   selectDirectory: (): Promise<string | null> => ipcRenderer.invoke(IPC.SELECT_DIRECTORY),
   selectFile: (): Promise<string | null> => ipcRenderer.invoke(IPC.SELECT_FILE),
+
+  // Focus this BrowserWindow (called from renderer on mousemove for hover-to-focus)
+  focusWindow: () => {
+    ipcRenderer.send(IPC.FOCUS_WINDOW);
+  },
 
   // Signal that the table renderer is mounted and ready to receive snapshots
   signalTableReady: (tableId: string) => {
@@ -53,6 +59,25 @@ const api = {
     const handler = (_event: Electron.IpcRendererEvent, data: { tableId: string; humanSeatIndex: number }) => callback(data);
     ipcRenderer.on(IPC.TABLE_INIT, handler);
     return () => { ipcRenderer.removeListener(IPC.TABLE_INIT, handler); };
+  },
+
+  // Preflop feedback after each hero preflop action
+  onPreflopFeedback: (callback: (data: PreflopFeedbackData | null) => void) => {
+    const handler = (_event: Electron.IpcRendererEvent, data: PreflopFeedbackData | null) => callback(data);
+    ipcRenderer.on(IPC.PREFLOP_FEEDBACK, handler);
+    return () => { ipcRenderer.removeListener(IPC.PREFLOP_FEEDBACK, handler); };
+  },
+
+  // Zoom early fold — hero pre-folds before their turn
+  zoomFoldEarly: (tableId: string) => {
+    ipcRenderer.send(IPC.ZOOM_FOLD_EARLY, { tableId });
+  },
+
+  // Zoom mode: redirect renderer to a different tableId
+  onZoomRedirect: (callback: (data: { tableId: string }) => void) => {
+    const handler = (_event: Electron.IpcRendererEvent, data: { tableId: string }) => callback(data);
+    ipcRenderer.on(IPC.ZOOM_REDIRECT, handler);
+    return () => { ipcRenderer.removeListener(IPC.ZOOM_REDIRECT, handler); };
   },
 };
 

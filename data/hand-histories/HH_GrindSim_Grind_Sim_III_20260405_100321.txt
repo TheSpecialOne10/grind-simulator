@@ -1,0 +1,162 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 10:03:39 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: QuietNit ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 9s]
+TriplBarrel: folds
+FishOnTilt: folds
+QuietNit: folds
+Hero: raises $2.50 to $2.50
+CardDead_Chris: raises $11.50 to $12.00
+GTO_Wizard: folds
+Hero: folds
+Uncalled bet ($11.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: CardDead_Chris (small blind) lost
+Seat 3: GTO_Wizard (big blind) lost
+Seat 4: TriplBarrel lost
+Seat 5: FishOnTilt lost
+Seat 6: QuietNit lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 10:03:49 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ColdDeck_Carl ($100.00 in chips)
+Seat 3: bluff_catcher ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 7h]
+NittyProfessor: folds
+SlowRoll_Sam: folds
+Hero: folds
+ColdDeck_Carl: raises $2.50 to $2.50
+bluff_catcher: folds
+WetBoard_Willy: raises $12.00 to $13.00
+ColdDeck_Carl: folds
+Uncalled bet ($12.00) returned to WetBoard_Willy
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ColdDeck_Carl (button) lost
+Seat 3: bluff_catcher (small blind) lost
+Seat 4: WetBoard_Willy (big blind) lost
+Seat 5: NittyProfessor lost
+Seat 6: SlowRoll_Sam lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 10:04:01 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PocketRockets ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc Ks]
+SuitsMe: folds
+Hero: raises $2.00 to $2.00
+PocketRockets: raises $6.50 to $6.50
+SteadyEddie: folds
+NittyProfessor: folds
+TriplBarrel: folds
+Hero: folds
+Uncalled bet ($6.50) returned to PocketRockets
+*** SUMMARY ***
+Total pot $10.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PocketRockets lost
+Seat 3: SteadyEddie (button) lost
+Seat 4: NittyProfessor (small blind) lost
+Seat 5: TriplBarrel (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 10:04:02 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+bluff_catcher: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Kd]
+Hero: folds
+SuitsMe: raises $2.00 to $2.00
+AggroManiac: raises $6.50 to $6.50
+SnapFold: folds
+QuadsOrFold: raises $99.50 to $100.00
+bluff_catcher: folds
+SuitsMe: folds
+AggroManiac: calls $93.50
+*** FLOP *** [Jc 7c 9d]
+QuadsOrFold: checks
+AggroManiac: checks
+*** TURN *** [Jc 7c 9d] [7s]
+QuadsOrFold: checks
+AggroManiac: checks
+*** RIVER *** [Jc 7c 9d 7s] [2s]
+QuadsOrFold: checks
+AggroManiac: checks
+*** SHOW DOWN ***
+Hero: shows [5d Kd]
+SuitsMe: shows [5c 5s]
+AggroManiac: shows [Ac Ad]
+SnapFold: shows [7d Ks]
+QuadsOrFold: shows [9h 9c]
+bluff_catcher: shows [Qc 4c]
+*** SUMMARY ***
+Total pot $203.00 | Rake $0.00
+Board [Jc 7c 9d 7s 2s]
+Seat 1: Hero lost
+Seat 2: SuitsMe lost
+Seat 3: AggroManiac lost
+Seat 4: SnapFold (button) lost
+Seat 5: QuadsOrFold (small blind) lost
+Seat 6: bluff_catcher (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 10:04:13 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: SuckoutKid ($100.00 in chips)
+Seat 5: MegaTilt ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 9d]
+QuadsOrFold: folds
+SteadyEddie: folds
+SuckoutKid: raises $2.30 to $2.30
+MegaTilt: folds
+Button_Clicker: raises $11.00 to $11.50
+Hero: folds
+SuckoutKid: folds
+Uncalled bet ($11.00) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $14.80 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: QuadsOrFold lost
+Seat 3: SteadyEddie lost
+Seat 4: SuckoutKid lost
+Seat 5: MegaTilt (button) lost
+Seat 6: Button_Clicker (small blind) lost
+

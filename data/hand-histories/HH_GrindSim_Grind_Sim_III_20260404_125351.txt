@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:28 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: ColdDeck_Carl ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+ColdDeck_Carl: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 6s]
+PotCommitted: folds
+SBvsUTG: folds
+FlopZilla: folds
+Hero: folds
+RiverRat420: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RiverRat420 (small blind) lost
+Seat 3: ColdDeck_Carl (big blind) lost
+Seat 4: PotCommitted lost
+Seat 5: SBvsUTG lost
+Seat 6: FlopZilla lost
+

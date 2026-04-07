@@ -1,0 +1,167 @@
+{
+  "scenario": "vs_3bet",
+  "position": "UTG",
+  "vsPosition": "CO",
+  "description": "UTG vs CO 3-bet (18bb)",
+  "defaultAction": "fold",
+  "betSizeBB": 18,
+  "ranges": {
+    "22": {
+      "call": 0.285,
+      "fold": 0.715
+    },
+    "33": {
+      "call": 0.245,
+      "fold": 0.755
+    },
+    "44": {
+      "call": 0.27,
+      "fold": 0.73
+    },
+    "55": {
+      "call": 0.243,
+      "fold": 0.757
+    },
+    "66": {
+      "call": 0.305,
+      "fold": 0.695
+    },
+    "77": {
+      "raise": 0.025,
+      "call": 0.325,
+      "fold": 0.65
+    },
+    "88": {
+      "raise": 0.12,
+      "call": 0.325,
+      "fold": 0.555
+    },
+    "99": {
+      "raise": 0.245,
+      "call": 0.415,
+      "fold": 0.34
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 0.85,
+      "call": 0.15
+    },
+    "JJ": {
+      "raise": 0.66,
+      "call": 0.34
+    },
+    "TT": {
+      "raise": 0.475,
+      "call": 0.525
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 0.685,
+      "call": 0.315
+    },
+    "AQs": {
+      "raise": 0.525,
+      "call": 0.475
+    },
+    "AQo": {
+      "raise": 0.41,
+      "call": 0.095,
+      "fold": 0.495
+    },
+    "AJs": {
+      "raise": 0.68,
+      "call": 0.32
+    },
+    "ATs": {
+      "raise": 0.45,
+      "call": 0.55
+    },
+    "A5s": {
+      "raise": 0.465,
+      "call": 0.37,
+      "fold": 0.165
+    },
+    "KQs": {
+      "raise": 0.86,
+      "call": 0.14
+    },
+    "KJs": {
+      "raise": 0.535,
+      "call": 0.465
+    },
+    "KTs": {
+      "raise": 0.29,
+      "call": 0.335,
+      "fold": 0.375
+    },
+    "QJs": {
+      "raise": 0.18,
+      "call": 0.43,
+      "fold": 0.39
+    },
+    "JTs": {
+      "raise": 0.075,
+      "call": 0.37,
+      "fold": 0.555
+    },
+    "98s": {
+      "raise": 0.023,
+      "call": 0.267,
+      "fold": 0.71
+    },
+    "87s": {
+      "raise": 0.123,
+      "call": 0.197,
+      "fold": 0.68
+    },
+    "76s": {
+      "raise": 0.102,
+      "call": 0.203,
+      "fold": 0.695
+    },
+    "65s": {
+      "raise": 0.114,
+      "call": 0.266,
+      "fold": 0.62
+    },
+    "A8s": {
+      "call": 0.02,
+      "fold": 0.98
+    },
+    "A4s": {
+      "call": 0.255,
+      "fold": 0.745
+    },
+    "A3s": {
+      "call": 0.025,
+      "fold": 0.975
+    },
+    "QTs": {
+      "call": 0.24,
+      "fold": 0.76
+    },
+    "J9s": {
+      "call": 0.07,
+      "fold": 0.93
+    },
+    "T9s": {
+      "call": 0.25,
+      "fold": 0.75
+    },
+    "97s": {
+      "call": 0.03,
+      "fold": 0.97
+    },
+    "54s": {
+      "call": 0.22,
+      "fold": 0.78
+    }
+  }
+}

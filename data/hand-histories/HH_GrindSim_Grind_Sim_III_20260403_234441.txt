@@ -1,0 +1,106 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:58 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 6d]
+bluff_catcher: folds
+AggroManiac: folds
+TiltMachine: folds
+Hero: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: QuietNit (big blind) lost
+Seat 4: bluff_catcher lost
+Seat 5: AggroManiac lost
+Seat 6: TiltMachine lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:13 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+QuietNit: posts small blind $0.50
+bluff_catcher: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 5c]
+AggroManiac: folds
+TiltMachine: folds
+Hero: folds
+ChetFaker99: folds
+QuietNit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 (button) lost
+Seat 3: QuietNit (small blind) lost
+Seat 4: bluff_catcher (big blind) lost
+Seat 5: AggroManiac lost
+Seat 6: TiltMachine lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:33 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Ac]
+TiltMachine: folds
+Hero: raises $2.00 to $2.00
+ChetFaker99: folds
+QuietNit: folds
+bluff_catcher: folds
+AggroManiac: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 lost
+Seat 3: QuietNit (button) lost
+Seat 4: bluff_catcher (small blind) lost
+Seat 5: AggroManiac (big blind) lost
+Seat 6: TiltMachine lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:48 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Jd]
+Hero: folds
+ChetFaker99: folds
+QuietNit: folds
+bluff_catcher: folds
+AggroManiac: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 lost
+Seat 3: QuietNit lost
+Seat 4: bluff_catcher (button) lost
+Seat 5: AggroManiac (small blind) lost
+Seat 6: TiltMachine (big blind) lost
+

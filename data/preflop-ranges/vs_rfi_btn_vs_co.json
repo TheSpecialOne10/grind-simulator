@@ -1,0 +1,153 @@
+{
+  "scenario": "vs_rfi",
+  "position": "BTN",
+  "vsPosition": "CO",
+  "description": "BTN vs CO open (3bet-or-fold)",
+  "defaultAction": "fold",
+  "betSizeBB": 7.5,
+  "ranges": {
+    "66": {
+      "raise": 0.41,
+      "fold": 0.59
+    },
+    "77": {
+      "raise": 0.405,
+      "fold": 0.595
+    },
+    "88": {
+      "raise": 1
+    },
+    "99": {
+      "raise": 1
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 1
+    },
+    "TT": {
+      "raise": 1
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQs": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 1
+    },
+    "AJs": {
+      "raise": 1
+    },
+    "AJo": {
+      "raise": 1
+    },
+    "ATs": {
+      "raise": 1
+    },
+    "ATo": {
+      "raise": 0.845,
+      "fold": 0.155
+    },
+    "A9s": {
+      "raise": 1
+    },
+    "A8s": {
+      "raise": 1
+    },
+    "A7s": {
+      "raise": 0.705,
+      "fold": 0.295
+    },
+    "A6s": {
+      "raise": 0.3,
+      "fold": 0.7
+    },
+    "A5s": {
+      "raise": 1
+    },
+    "A4s": {
+      "raise": 0.66,
+      "fold": 0.34
+    },
+    "KQs": {
+      "raise": 1
+    },
+    "KQo": {
+      "raise": 1
+    },
+    "KJs": {
+      "raise": 1
+    },
+    "KJo": {
+      "raise": 0.445,
+      "fold": 0.555
+    },
+    "KTs": {
+      "raise": 1
+    },
+    "KTo": {
+      "raise": 0.115,
+      "fold": 0.885
+    },
+    "K9s": {
+      "raise": 1
+    },
+    "K6s": {
+      "raise": 0.375,
+      "fold": 0.625
+    },
+    "QJs": {
+      "raise": 1
+    },
+    "QJo": {
+      "raise": 0.245,
+      "fold": 0.755
+    },
+    "QTs": {
+      "raise": 1
+    },
+    "Q9s": {
+      "raise": 0.475,
+      "fold": 0.525
+    },
+    "JTs": {
+      "raise": 1
+    },
+    "J9s": {
+      "raise": 0.57,
+      "fold": 0.43
+    },
+    "T9s": {
+      "raise": 0.665,
+      "fold": 0.335
+    },
+    "87s": {
+      "raise": 0.105,
+      "fold": 0.895
+    },
+    "76s": {
+      "raise": 0.185,
+      "fold": 0.815
+    },
+    "65s": {
+      "raise": 0.26,
+      "fold": 0.74
+    },
+    "54s": {
+      "raise": 0.325,
+      "fold": 0.675
+    }
+  }
+}

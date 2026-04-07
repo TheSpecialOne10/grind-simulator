@@ -1,0 +1,132 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:01 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 2h]
+3BetBandit: folds
+ValueTown_Mayor: folds
+SharkBait55: folds
+Hero: folds
+GTO_Wizard: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: GTO_Wizard (small blind) lost
+Seat 3: AggroManiac (big blind) lost
+Seat 4: 3BetBandit lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: SharkBait55 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:16 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 5s]
+ValueTown_Mayor: folds
+SharkBait55: folds
+Hero: folds
+GTO_Wizard: folds
+AggroManiac: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard (button) lost
+Seat 3: AggroManiac (small blind) lost
+Seat 4: 3BetBandit (big blind) lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: SharkBait55 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:34 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Ad]
+SharkBait55: folds
+Hero: folds
+GTO_Wizard: folds
+AggroManiac: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: AggroManiac (button) lost
+Seat 4: 3BetBandit (small blind) lost
+Seat 5: ValueTown_Mayor (big blind) lost
+Seat 6: SharkBait55 lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:50 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 9c]
+Hero: raises $2.00 to $2.00
+GTO_Wizard: folds
+AggroManiac: folds
+3BetBandit: folds
+ValueTown_Mayor: folds
+SharkBait55: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: AggroManiac lost
+Seat 4: 3BetBandit (button) lost
+Seat 5: ValueTown_Mayor (small blind) lost
+Seat 6: SharkBait55 (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:00 ET
+Table 'Grind Sim II' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Kd]
+GTO_Wizard: folds
+AggroManiac: folds
+3BetBandit: folds
+ValueTown_Mayor: folds
+SharkBait55: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: GTO_Wizard lost
+Seat 3: AggroManiac lost
+Seat 4: 3BetBandit lost
+Seat 5: ValueTown_Mayor (button) lost
+Seat 6: SharkBait55 (small blind) lost
+

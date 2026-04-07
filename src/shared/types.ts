@@ -10,7 +10,7 @@ export interface Card {
 
 // ── Position & seating ──
 
-export type Position = 'BTN' | 'SB' | 'BB' | 'UTG' | 'MP' | 'CO';
+export type Position = 'BTN' | 'SB' | 'BB' | 'UTG' | 'HJ' | 'CO';
 
 export interface Player {
   seatIndex: number;        // 0–5, fixed physical seat
@@ -105,6 +105,9 @@ export interface TableSnapshot {
   winnerInfo: WinnerInfo[] | null;
   timeRemaining: number;    // Seconds left for current actor
   availableActions: AvailableAction[] | null; // null when not human's turn
+  zoomMode: boolean;
+  preflopRng: number | null;  // 0–99 RNG shown to hero preflop for GTO mixing training
+  heroHasActed: boolean;      // true once hero has taken a voluntary action this hand
 }
 
 // ── IPC messages ──
@@ -112,6 +115,8 @@ export interface TableSnapshot {
 export interface SessionConfig {
   tableCount: number;
   playerName: string;
+  revealBotCards?: boolean;
+  zoomMode?: boolean;
 }
 
 export interface PlayerActionMessage {
@@ -127,6 +132,26 @@ export interface SoundTrigger {
   tableId: string;
 }
 
+export interface Hotkeys {
+  fold: string;
+  checkCall: string;
+  betRaise: string;
+  preset1: string;
+  preset2: string;
+  preset3: string;
+  preset4: string;
+}
+
+export const DEFAULT_HOTKEYS: Hotkeys = {
+  fold: 'f',
+  checkCall: 'c',
+  betRaise: 'r',
+  preset1: '1',
+  preset2: '2',
+  preset3: '3',
+  preset4: '4',
+};
+
 export interface Settings {
   masterVolume: number;
   handHistoryPath: string;
@@ -136,6 +161,7 @@ export interface Settings {
   solverServerHost: string;
   solverServerPort: number;
   playerName: string;
+  hotkeys: Hotkeys;
 }
 
 // ── Bot types ──
@@ -143,6 +169,7 @@ export interface Settings {
 export interface ActionFrequency {
   fold?: number;
   call?: number;
+  check?: number;
   raise?: number;
   allIn?: number;
 }
@@ -151,6 +178,16 @@ export interface BotDecision {
   action: ActionType;
   amount: number;           // cents
   delay: number;            // milliseconds
+}
+
+// ── Preflop feedback ──
+
+export interface PreflopFeedbackData {
+  result: 'correct' | 'mixing' | 'ev_loss';
+  canonicalHand: string;          // e.g. "AJo", "TT", "KQs"
+  frequencies: ActionFrequency;   // Full chart frequencies for this hand
+  rng: number;                    // 0–99, the per-hand RNG used
+  heroAction: ActionType;         // What the hero actually did
 }
 
 // ── Hand evaluation ──

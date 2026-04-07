@@ -1,0 +1,402 @@
+{
+  "scenario": "vs_rfi",
+  "position": "BB",
+  "vsPosition": "BTN",
+  "description": "BB vs BTN open (3bet/call/fold)",
+  "defaultAction": "fold",
+  "betSizeBB": 13,
+  "ranges": {
+    "22": {
+      "call": 1
+    },
+    "33": {
+      "call": 1
+    },
+    "44": {
+      "call": 1
+    },
+    "55": {
+      "call": 1
+    },
+    "66": {
+      "call": 1
+    },
+    "77": {
+      "raise": 0.06,
+      "call": 0.94
+    },
+    "88": {
+      "raise": 0.26,
+      "call": 0.74
+    },
+    "99": {
+      "raise": 0.73,
+      "call": 0.27
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 1
+    },
+    "TT": {
+      "raise": 1
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQs": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 0.94,
+      "call": 0.06
+    },
+    "AJs": {
+      "raise": 1
+    },
+    "AJo": {
+      "raise": 0.44,
+      "call": 0.56
+    },
+    "ATs": {
+      "raise": 0.385,
+      "call": 0.615
+    },
+    "ATo": {
+      "raise": 0.225,
+      "call": 0.775
+    },
+    "A9s": {
+      "raise": 0.035,
+      "call": 0.965
+    },
+    "A9o": {
+      "raise": 0.22,
+      "call": 0.78
+    },
+    "A8s": {
+      "raise": 0.12,
+      "call": 0.88
+    },
+    "A8o": {
+      "raise": 0.165,
+      "call": 0.835
+    },
+    "A7o": {
+      "raise": 0.305,
+      "call": 0.695
+    },
+    "A6s": {
+      "raise": 0.025,
+      "call": 0.975
+    },
+    "A5s": {
+      "raise": 1
+    },
+    "A5o": {
+      "raise": 0.075,
+      "call": 0.925
+    },
+    "A4s": {
+      "raise": 0.65,
+      "call": 0.35
+    },
+    "A3s": {
+      "raise": 0.22,
+      "call": 0.78
+    },
+    "A2s": {
+      "raise": 0.075,
+      "call": 0.925
+    },
+    "KQs": {
+      "raise": 1
+    },
+    "KQo": {
+      "raise": 0.4,
+      "call": 0.6
+    },
+    "KJs": {
+      "raise": 0.915,
+      "call": 0.085
+    },
+    "KJo": {
+      "raise": 0.25,
+      "call": 0.75
+    },
+    "KTs": {
+      "raise": 0.8,
+      "call": 0.2
+    },
+    "KTo": {
+      "raise": 0.325,
+      "call": 0.675
+    },
+    "K9s": {
+      "raise": 0.325,
+      "call": 0.675
+    },
+    "K9o": {
+      "raise": 0.275,
+      "call": 0.725
+    },
+    "K8s": {
+      "raise": 0.085,
+      "call": 0.915
+    },
+    "K7s": {
+      "raise": 0.215,
+      "call": 0.785
+    },
+    "K6s": {
+      "raise": 0.395,
+      "call": 0.605
+    },
+    "K5s": {
+      "raise": 0.095,
+      "call": 0.905
+    },
+    "QJs": {
+      "raise": 0.365,
+      "call": 0.635
+    },
+    "QJo": {
+      "raise": 0.205,
+      "call": 0.795
+    },
+    "QTs": {
+      "raise": 0.785,
+      "call": 0.215
+    },
+    "QTo": {
+      "raise": 0.205,
+      "call": 0.795
+    },
+    "Q9o": {
+      "raise": 0.16,
+      "call": 0.645,
+      "fold": 0.195
+    },
+    "Q8s": {
+      "raise": 0.065,
+      "call": 0.935
+    },
+    "Q6s": {
+      "raise": 0.225,
+      "call": 0.775
+    },
+    "Q5s": {
+      "raise": 0.205,
+      "call": 0.795
+    },
+    "Q4s": {
+      "raise": 0.04,
+      "call": 0.96
+    },
+    "JTs": {
+      "raise": 1
+    },
+    "JTo": {
+      "raise": 0.21,
+      "call": 0.79
+    },
+    "J9s": {
+      "raise": 0.675,
+      "call": 0.325
+    },
+    "J9o": {
+      "raise": 0.22,
+      "call": 0.78
+    },
+    "J8s": {
+      "raise": 0.22,
+      "call": 0.78
+    },
+    "J7s": {
+      "raise": 0.555,
+      "call": 0.445
+    },
+    "J6s": {
+      "raise": 0.255,
+      "call": 0.745
+    },
+    "J5s": {
+      "raise": 0.33,
+      "call": 0.67
+    },
+    "J4s": {
+      "raise": 0.18,
+      "call": 0.82
+    },
+    "T9s": {
+      "raise": 1
+    },
+    "T9o": {
+      "raise": 0.175,
+      "call": 0.825
+    },
+    "T8s": {
+      "raise": 0.48,
+      "call": 0.52
+    },
+    "T7s": {
+      "raise": 0.195,
+      "call": 0.805
+    },
+    "T6s": {
+      "raise": 0.395,
+      "call": 0.605
+    },
+    "98s": {
+      "raise": 0.87,
+      "call": 0.13
+    },
+    "97s": {
+      "raise": 0.18,
+      "call": 0.82
+    },
+    "87s": {
+      "raise": 1
+    },
+    "86s": {
+      "raise": 0.225,
+      "call": 0.775
+    },
+    "76s": {
+      "raise": 0.77,
+      "call": 0.23
+    },
+    "65s": {
+      "raise": 0.66,
+      "call": 0.34
+    },
+    "54s": {
+      "raise": 0.475,
+      "call": 0.525
+    },
+    "A7s": {
+      "call": 1
+    },
+    "A6o": {
+      "call": 0.3,
+      "fold": 0.7
+    },
+    "A4o": {
+      "call": 0.425,
+      "fold": 0.575
+    },
+    "K8o": {
+      "call": 0.25,
+      "fold": 0.75
+    },
+    "K4s": {
+      "call": 1
+    },
+    "K3s": {
+      "call": 1
+    },
+    "K2s": {
+      "call": 1
+    },
+    "Q9s": {
+      "call": 1
+    },
+    "Q7s": {
+      "call": 1
+    },
+    "Q3s": {
+      "call": 1
+    },
+    "Q2s": {
+      "call": 1
+    },
+    "J3s": {
+      "call": 1
+    },
+    "J2s": {
+      "call": 0.855,
+      "fold": 0.145
+    },
+    "T8o": {
+      "call": 0.3,
+      "fold": 0.7
+    },
+    "T5s": {
+      "call": 0.655,
+      "fold": 0.345
+    },
+    "T4s": {
+      "call": 0.31,
+      "fold": 0.69
+    },
+    "T3s": {
+      "call": 0.235,
+      "fold": 0.765
+    },
+    "98o": {
+      "call": 0.425,
+      "fold": 0.575
+    },
+    "96s": {
+      "call": 1
+    },
+    "95s": {
+      "call": 0.385,
+      "fold": 0.615
+    },
+    "87o": {
+      "call": 0.44,
+      "fold": 0.56
+    },
+    "85s": {
+      "call": 1
+    },
+    "76o": {
+      "call": 0.29,
+      "fold": 0.71
+    },
+    "75s": {
+      "call": 1
+    },
+    "74s": {
+      "call": 1
+    },
+    "65o": {
+      "call": 0.035,
+      "fold": 0.965
+    },
+    "64s": {
+      "call": 1
+    },
+    "63s": {
+      "call": 1
+    },
+    "53s": {
+      "call": 1
+    },
+    "52s": {
+      "call": 1
+    },
+    "43s": {
+      "call": 1
+    },
+    "42s": {
+      "call": 0.58,
+      "fold": 0.42
+    },
+    "32s": {
+      "call": 0.12,
+      "fold": 0.88
+    }
+  }
+}

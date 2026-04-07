@@ -1,0 +1,80 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:09 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 6d]
+ColdDeck_Carl: folds
+NiceCatch88: folds
+FoldPre2024: folds
+Hero: folds
+TheGrinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TheGrinder (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: ColdDeck_Carl lost
+Seat 5: NiceCatch88 lost
+Seat 6: FoldPre2024 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:38 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+ColdDeck_Carl: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc Js]
+NiceCatch88: folds
+FoldPre2024: folds
+Hero: raises $2.50 to $2.50
+TheGrinder: folds
+TightIsRight: folds
+ColdDeck_Carl: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: ColdDeck_Carl (big blind) lost
+Seat 5: NiceCatch88 lost
+Seat 6: FoldPre2024 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:00 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+ColdDeck_Carl: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 8s]
+FoldPre2024: folds
+Hero: folds
+TheGrinder: folds
+TightIsRight: folds
+ColdDeck_Carl: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder lost
+Seat 3: TightIsRight (button) lost
+Seat 4: ColdDeck_Carl (small blind) lost
+Seat 5: NiceCatch88 (big blind) lost
+Seat 6: FoldPre2024 lost
+

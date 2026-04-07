@@ -1,0 +1,99 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:48:44 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Ad]
+AcesUpMySleeve: folds
+xXPokerProXx: folds
+SetMiner_Pro: folds
+Hero: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 3BetBandit (small blind) lost
+Seat 3: QuietNit (big blind) lost
+Seat 4: AcesUpMySleeve lost
+Seat 5: xXPokerProXx lost
+Seat 6: SetMiner_Pro lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:48:58 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+QuietNit: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 6s]
+xXPokerProXx: folds
+SetMiner_Pro: folds
+Hero: raises $2.00 to $2.00
+3BetBandit: folds
+QuietNit: folds
+AcesUpMySleeve: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: QuietNit (small blind) lost
+Seat 4: AcesUpMySleeve (big blind) lost
+Seat 5: xXPokerProXx lost
+Seat 6: SetMiner_Pro lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:38 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+xXPokerProXx: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 9c]
+SetMiner_Pro: folds
+Hero: raises $2.00 to $2.00
+3BetBandit: raises $6.00 to $6.00
+QuietNit: folds
+AcesUpMySleeve: folds
+xXPokerProXx: calls $5.00
+Hero: folds
+*** FLOP *** [2d 8h 7h]
+xXPokerProXx: checks
+3BetBandit: checks
+*** TURN *** [2d 8h 7h] [2c]
+xXPokerProXx: checks
+3BetBandit: checks
+*** RIVER *** [2d 8h 7h 2c] [Kd]
+xXPokerProXx: checks
+3BetBandit: checks
+*** SHOW DOWN ***
+Hero: shows [Kc 9c]
+3BetBandit: shows [9d 9h]
+QuietNit: shows [5d 5c]
+AcesUpMySleeve: shows [8c 9s]
+xXPokerProXx: shows [6d 6s]
+SetMiner_Pro: shows [7d 8d]
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.00
+Board [2d 8h 7h 2c Kd]
+Seat 1: Hero lost
+Seat 2: 3BetBandit lost
+Seat 3: QuietNit (button) lost
+Seat 4: AcesUpMySleeve (small blind) lost
+Seat 5: xXPokerProXx (big blind) lost
+Seat 6: SetMiner_Pro lost
+

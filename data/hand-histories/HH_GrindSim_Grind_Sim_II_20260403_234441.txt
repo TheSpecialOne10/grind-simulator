@@ -1,0 +1,82 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:52 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ah]
+AcesUpMySleeve: folds
+3BetBandit: folds
+WetBoard_Willy: folds
+Hero: raises $2.50 to $2.50
+SBvsUTG: folds
+Button_Clicker: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SBvsUTG (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: AcesUpMySleeve lost
+Seat 5: 3BetBandit lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:18 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Js]
+3BetBandit: folds
+WetBoard_Willy: folds
+Hero: folds
+SBvsUTG: folds
+Button_Clicker: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SBvsUTG (button) lost
+Seat 3: Button_Clicker (small blind) lost
+Seat 4: AcesUpMySleeve (big blind) lost
+Seat 5: 3BetBandit lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:42 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SBvsUTG ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h Ac]
+WetBoard_Willy: raises $2.50 to $2.50
+Hero: folds
+SBvsUTG: folds
+Button_Clicker: folds
+AcesUpMySleeve: folds
+3BetBandit: folds
+Uncalled bet ($2.50) returned to WetBoard_Willy
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SBvsUTG lost
+Seat 3: Button_Clicker (button) lost
+Seat 4: AcesUpMySleeve (small blind) lost
+Seat 5: 3BetBandit (big blind) lost
+Seat 6: WetBoard_Willy lost
+

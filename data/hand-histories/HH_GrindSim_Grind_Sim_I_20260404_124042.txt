@@ -1,0 +1,70 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:15 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: CardDead_Chris ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 8d]
+FoldPre2024: folds
+DonkeyKong42: folds
+CardDead_Chris: calls $1.00
+Hero: folds
+SuckoutKid: folds
+AggroManiac: checks
+*** FLOP *** [Th Qc Ad]
+AggroManiac: checks
+CardDead_Chris: checks
+*** TURN *** [Th Qc Ad] [As]
+AggroManiac: checks
+CardDead_Chris: checks
+*** RIVER *** [Th Qc Ad As] [Kd]
+AggroManiac: checks
+CardDead_Chris: checks
+*** SHOW DOWN ***
+Hero: shows [9s 8d]
+SuckoutKid: shows [Jh 4d]
+AggroManiac: shows [6d 9h]
+FoldPre2024: shows [9c 8c]
+DonkeyKong42: shows [5h Qh]
+CardDead_Chris: shows [7c 7h]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Th Qc Ad As Kd]
+Seat 1: Hero (button) lost
+Seat 2: SuckoutKid (small blind) lost
+Seat 3: AggroManiac (big blind) lost
+Seat 4: FoldPre2024 lost
+Seat 5: DonkeyKong42 lost
+Seat 6: CardDead_Chris lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:33 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: CardDead_Chris ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 3d]
+DonkeyKong42: folds
+CardDead_Chris: folds
+Hero: folds
+SuckoutKid: folds
+AggroManiac: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuckoutKid (button) lost
+Seat 3: AggroManiac (small blind) lost
+Seat 4: FoldPre2024 (big blind) lost
+Seat 5: DonkeyKong42 lost
+Seat 6: CardDead_Chris lost
+

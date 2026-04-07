@@ -1,0 +1,104 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:33:40 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Qh]
+SuitsMe: folds
+4betJam: folds
+SuckoutKid: folds
+Hero: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: SlowRoll_Sam (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: 4betJam lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:34:20 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+SlowRoll_Sam: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Ts]
+4betJam: folds
+SuckoutKid: folds
+Hero: folds
+ChetFaker99: folds
+SlowRoll_Sam: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 (button) lost
+Seat 3: SlowRoll_Sam (small blind) lost
+Seat 4: SuitsMe (big blind) lost
+Seat 5: 4betJam lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:34:45 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+4betJam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h Qh]
+SuckoutKid: folds
+Hero: folds
+ChetFaker99: folds
+SlowRoll_Sam: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 lost
+Seat 3: SlowRoll_Sam (button) lost
+Seat 4: SuitsMe (small blind) lost
+Seat 5: 4betJam (big blind) lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:35:17 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+4betJam: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Qh]
+Hero: folds
+ChetFaker99: folds
+SlowRoll_Sam: folds
+SuitsMe: folds
+4betJam: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 lost
+Seat 3: SlowRoll_Sam lost
+Seat 4: SuitsMe (button) lost
+Seat 5: 4betJam (small blind) lost
+Seat 6: SuckoutKid (big blind) lost
+

@@ -1,0 +1,230 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:26:10 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As 8h]
+the_nuts_42: folds
+SuitsMe: folds
+WetBoard_Willy: folds
+Hero: raises $2.50 to $2.50
+NiceCatch88: folds
+RunBadFeelGood: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NiceCatch88 (small blind) lost
+Seat 3: RunBadFeelGood (big blind) lost
+Seat 4: the_nuts_42 lost
+Seat 5: SuitsMe lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:26:46 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 4d]
+SuitsMe: folds
+WetBoard_Willy: calls $1.00
+Hero: folds
+NiceCatch88: folds
+RunBadFeelGood: folds
+the_nuts_42: checks
+*** FLOP *** [Ad 5h Kc]
+the_nuts_42: checks
+WetBoard_Willy: checks
+*** TURN *** [Ad 5h Kc] [3h]
+the_nuts_42: checks
+WetBoard_Willy: checks
+*** RIVER *** [Ad 5h Kc 3h] [8s]
+the_nuts_42: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [Tc 4d]
+NiceCatch88: shows [3d Jh]
+RunBadFeelGood: shows [9h Ts]
+the_nuts_42: shows [4h 8d]
+SuitsMe: shows [Jd 2h]
+WetBoard_Willy: shows [Th Ah]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Ad 5h Kc 3h 8s]
+Seat 1: Hero lost
+Seat 2: NiceCatch88 (button) lost
+Seat 3: RunBadFeelGood (small blind) lost
+Seat 4: the_nuts_42 (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:00 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h 5c]
+WetBoard_Willy: folds
+Hero: folds
+NiceCatch88: folds
+RunBadFeelGood: raises $2.50 to $2.50
+the_nuts_42: folds
+SuitsMe: folds
+Uncalled bet ($2.50) returned to RunBadFeelGood
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: RunBadFeelGood (button) lost
+Seat 4: the_nuts_42 (small blind) lost
+Seat 5: SuitsMe (big blind) lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:13 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8d]
+Hero: folds
+NiceCatch88: folds
+RunBadFeelGood: folds
+the_nuts_42: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: RunBadFeelGood lost
+Seat 4: the_nuts_42 (button) lost
+Seat 5: SuitsMe (small blind) lost
+Seat 6: WetBoard_Willy (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:24 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Qc]
+NiceCatch88: folds
+RunBadFeelGood: folds
+the_nuts_42: folds
+SuitsMe: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: NiceCatch88 lost
+Seat 3: RunBadFeelGood lost
+Seat 4: the_nuts_42 lost
+Seat 5: SuitsMe (button) lost
+Seat 6: WetBoard_Willy (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:33 ET
+Table 'Grind Sim III' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+Hero: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 2c]
+RunBadFeelGood: folds
+the_nuts_42: folds
+SuitsMe: folds
+WetBoard_Willy: folds
+Hero: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: NiceCatch88 (big blind) lost
+Seat 3: RunBadFeelGood lost
+Seat 4: the_nuts_42 lost
+Seat 5: SuitsMe lost
+Seat 6: WetBoard_Willy (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:48 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 6s]
+the_nuts_42: folds
+SuitsMe: folds
+WetBoard_Willy: folds
+Hero: folds
+NiceCatch88: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NiceCatch88 (small blind) lost
+Seat 3: RunBadFeelGood (big blind) lost
+Seat 4: the_nuts_42 lost
+Seat 5: SuitsMe lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:56 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c Ks]
+SuitsMe: folds
+WetBoard_Willy: folds
+Hero: folds
+NiceCatch88: folds
+RunBadFeelGood: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 (button) lost
+Seat 3: RunBadFeelGood (small blind) lost
+Seat 4: the_nuts_42 (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: WetBoard_Willy lost
+

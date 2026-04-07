@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:44:20 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: FlushDraw_Hero ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AcesUpMySleeve ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+FlushDraw_Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 7d]
+StackEmUp: folds
+FoldPre2024: folds
+AcesUpMySleeve: folds
+Hero: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: FlushDraw_Hero (big blind) lost
+Seat 4: StackEmUp lost
+Seat 5: FoldPre2024 lost
+Seat 6: AcesUpMySleeve lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:44:44 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: FlushDraw_Hero ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AcesUpMySleeve ($100.00 in chips)
+FlushDraw_Hero: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Jc]
+FoldPre2024: folds
+AcesUpMySleeve: folds
+Hero: folds
+ChetFaker99: folds
+FlushDraw_Hero: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ChetFaker99 (button) lost
+Seat 3: FlushDraw_Hero (small blind) lost
+Seat 4: StackEmUp (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: AcesUpMySleeve lost
+

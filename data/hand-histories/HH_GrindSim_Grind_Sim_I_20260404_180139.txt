@@ -1,0 +1,56 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:02:19 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TriplBarrel ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: bluff_catcher ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h Kd]
+ValueTown_Mayor: folds
+bluff_catcher: raises $2.00 to $2.00
+AggroManiac: folds
+Hero: folds
+TriplBarrel: folds
+LooseGoose: folds
+Uncalled bet ($2.00) returned to bluff_catcher
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TriplBarrel (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: bluff_catcher lost
+Seat 6: AggroManiac lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:02:52 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TriplBarrel ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: bluff_catcher ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 2d]
+bluff_catcher: folds
+AggroManiac: folds
+Hero: folds
+TriplBarrel: folds
+LooseGoose: raises $2.50 to $3.00
+ValueTown_Mayor: folds
+Uncalled bet ($2.50) returned to LooseGoose
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TriplBarrel (button) lost
+Seat 3: LooseGoose (small blind) lost
+Seat 4: ValueTown_Mayor (big blind) lost
+Seat 5: bluff_catcher lost
+Seat 6: AggroManiac lost
+

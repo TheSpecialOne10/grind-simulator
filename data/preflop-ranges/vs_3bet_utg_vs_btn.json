@@ -1,0 +1,152 @@
+{
+  "scenario": "vs_3bet",
+  "position": "UTG",
+  "vsPosition": "BTN",
+  "description": "UTG vs BTN 3-bet (20bb)",
+  "defaultAction": "fold",
+  "betSizeBB": 20,
+  "ranges": {
+    "22": {
+      "call": 0.248,
+      "fold": 0.752
+    },
+    "33": {
+      "call": 0.178,
+      "fold": 0.822
+    },
+    "44": {
+      "call": 0.132,
+      "fold": 0.868
+    },
+    "55": {
+      "call": 0.108,
+      "fold": 0.892
+    },
+    "66": {
+      "call": 0.16,
+      "fold": 0.84
+    },
+    "77": {
+      "call": 0.175,
+      "fold": 0.825
+    },
+    "88": {
+      "raise": 0.09,
+      "call": 0.185,
+      "fold": 0.725
+    },
+    "99": {
+      "raise": 0.24,
+      "call": 0.2,
+      "fold": 0.56
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 0.955,
+      "call": 0.045
+    },
+    "JJ": {
+      "raise": 0.8,
+      "call": 0.2
+    },
+    "TT": {
+      "raise": 0.69,
+      "call": 0.31
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 0.79,
+      "call": 0.21
+    },
+    "AQs": {
+      "raise": 0.39,
+      "call": 0.61
+    },
+    "AQo": {
+      "raise": 0.575,
+      "call": 0.005,
+      "fold": 0.42
+    },
+    "AJs": {
+      "raise": 0.765,
+      "call": 0.235
+    },
+    "ATs": {
+      "raise": 0.465,
+      "call": 0.21,
+      "fold": 0.325
+    },
+    "A5s": {
+      "raise": 0.265,
+      "call": 0.095,
+      "fold": 0.64
+    },
+    "KQs": {
+      "raise": 0.905,
+      "call": 0.095
+    },
+    "KJs": {
+      "raise": 0.795,
+      "call": 0.205
+    },
+    "KTs": {
+      "raise": 0.125,
+      "call": 0.045,
+      "fold": 0.83
+    },
+    "87s": {
+      "raise": 0.102,
+      "call": 0.118,
+      "fold": 0.78
+    },
+    "76s": {
+      "raise": 0.119,
+      "call": 0.157,
+      "fold": 0.724
+    },
+    "65s": {
+      "raise": 0.16,
+      "call": 0.211,
+      "fold": 0.629
+    },
+    "A4s": {
+      "call": 0.075,
+      "fold": 0.925
+    },
+    "QJs": {
+      "call": 0.065,
+      "fold": 0.935
+    },
+    "QTs": {
+      "call": 0.075,
+      "fold": 0.925
+    },
+    "JTs": {
+      "call": 0.17,
+      "fold": 0.83
+    },
+    "T9s": {
+      "call": 0.14,
+      "fold": 0.86
+    },
+    "98s": {
+      "call": 0.091,
+      "fold": 0.909
+    },
+    "97s": {
+      "call": 0.027,
+      "fold": 0.973
+    },
+    "54s": {
+      "call": 0.195,
+      "fold": 0.805
+    }
+  }
+}

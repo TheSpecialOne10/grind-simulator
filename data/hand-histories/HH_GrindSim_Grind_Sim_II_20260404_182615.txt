@@ -1,0 +1,82 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:28 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Tc]
+FlopZilla: folds
+SetMiner_Pro: folds
+Bluffy_McBluff: folds
+Hero: raises $2.50 to $2.50
+3BetBandit: folds
+AggroManiac: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 3BetBandit (small blind) lost
+Seat 3: AggroManiac (big blind) lost
+Seat 4: FlopZilla lost
+Seat 5: SetMiner_Pro lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:43 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5h]
+SetMiner_Pro: raises $2.00 to $2.00
+Bluffy_McBluff: folds
+Hero: folds
+3BetBandit: folds
+AggroManiac: folds
+FlopZilla: folds
+Uncalled bet ($2.00) returned to SetMiner_Pro
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: AggroManiac (small blind) lost
+Seat 4: FlopZilla (big blind) lost
+Seat 5: SetMiner_Pro lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:57 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Kc]
+Bluffy_McBluff: folds
+Hero: folds
+3BetBandit: folds
+AggroManiac: folds
+FlopZilla: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit lost
+Seat 3: AggroManiac (button) lost
+Seat 4: FlopZilla (small blind) lost
+Seat 5: SetMiner_Pro (big blind) lost
+Seat 6: Bluffy_McBluff lost
+

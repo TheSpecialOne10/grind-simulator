@@ -1,0 +1,55 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:15 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: FlopZilla ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: 3BetBandit ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As Qs]
+OverBet4Value: folds
+DonkeyKong42: raises $2.00 to $2.00
+3BetBandit: folds
+Hero: raises $7.50 to $7.50
+NiceCatch88: folds
+FlopZilla: folds
+DonkeyKong42: folds
+Uncalled bet ($7.50) returned to Hero
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NiceCatch88 (small blind) lost
+Seat 3: FlopZilla (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: DonkeyKong42 lost
+Seat 6: 3BetBandit lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:25 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: FlopZilla ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: 3BetBandit ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d Kc]
+DonkeyKong42: folds
+3BetBandit: folds
+Hero: folds
+NiceCatch88: folds
+FlopZilla: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 (button) lost
+Seat 3: FlopZilla (small blind) lost
+Seat 4: OverBet4Value (big blind) lost
+Seat 5: DonkeyKong42 lost
+Seat 6: 3BetBandit lost
+

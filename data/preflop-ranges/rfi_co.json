@@ -1,0 +1,252 @@
+{
+  "scenario": "rfi",
+  "position": "CO",
+  "vsPosition": null,
+  "description": "CO raise first in (2.3bb)",
+  "defaultAction": "fold",
+  "betSizeBB": 2.3,
+  "ranges": {
+    "22": {
+      "raise": 0.505,
+      "fold": 0.495
+    },
+    "33": {
+      "raise": 0.455,
+      "fold": 0.545
+    },
+    "44": {
+      "raise": 1
+    },
+    "55": {
+      "raise": 1
+    },
+    "66": {
+      "raise": 1
+    },
+    "77": {
+      "raise": 1
+    },
+    "88": {
+      "raise": 1
+    },
+    "99": {
+      "raise": 1
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 1
+    },
+    "TT": {
+      "raise": 1
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQs": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 1
+    },
+    "AJs": {
+      "raise": 1
+    },
+    "AJo": {
+      "raise": 1
+    },
+    "ATs": {
+      "raise": 1
+    },
+    "ATo": {
+      "raise": 1
+    },
+    "A9s": {
+      "raise": 1
+    },
+    "A9o": {
+      "raise": 1
+    },
+    "A8s": {
+      "raise": 1
+    },
+    "A8o": {
+      "raise": 1
+    },
+    "A7s": {
+      "raise": 1
+    },
+    "A7o": {
+      "raise": 0.06,
+      "fold": 0.94
+    },
+    "A6s": {
+      "raise": 1
+    },
+    "A5s": {
+      "raise": 1
+    },
+    "A5o": {
+      "raise": 0.515,
+      "fold": 0.485
+    },
+    "A4s": {
+      "raise": 1
+    },
+    "A3s": {
+      "raise": 1
+    },
+    "A2s": {
+      "raise": 1
+    },
+    "KQs": {
+      "raise": 1
+    },
+    "KQo": {
+      "raise": 1
+    },
+    "KJs": {
+      "raise": 1
+    },
+    "KJo": {
+      "raise": 1
+    },
+    "KTs": {
+      "raise": 1
+    },
+    "KTo": {
+      "raise": 1
+    },
+    "K9s": {
+      "raise": 1
+    },
+    "K9o": {
+      "raise": 0.245,
+      "fold": 0.755
+    },
+    "K8s": {
+      "raise": 1
+    },
+    "K7s": {
+      "raise": 1
+    },
+    "K6s": {
+      "raise": 1
+    },
+    "K5s": {
+      "raise": 1
+    },
+    "K4s": {
+      "raise": 1
+    },
+    "K3s": {
+      "raise": 1
+    },
+    "QJs": {
+      "raise": 1
+    },
+    "QJo": {
+      "raise": 1
+    },
+    "QTs": {
+      "raise": 1
+    },
+    "QTo": {
+      "raise": 1
+    },
+    "Q9s": {
+      "raise": 1
+    },
+    "Q9o": {
+      "raise": 0.01,
+      "fold": 0.99
+    },
+    "Q8s": {
+      "raise": 1
+    },
+    "Q7s": {
+      "raise": 1
+    },
+    "Q6s": {
+      "raise": 1
+    },
+    "Q5s": {
+      "raise": 1
+    },
+    "Q4s": {
+      "raise": 0.175,
+      "fold": 0.825
+    },
+    "JTs": {
+      "raise": 1
+    },
+    "JTo": {
+      "raise": 1
+    },
+    "J9s": {
+      "raise": 1
+    },
+    "J9o": {
+      "raise": 0.29,
+      "fold": 0.71
+    },
+    "J8s": {
+      "raise": 1
+    },
+    "J7s": {
+      "raise": 1
+    },
+    "J6s": {
+      "raise": 0.045,
+      "fold": 0.955
+    },
+    "T9s": {
+      "raise": 1
+    },
+    "T9o": {
+      "raise": 0.19,
+      "fold": 0.81
+    },
+    "T8s": {
+      "raise": 1
+    },
+    "T7s": {
+      "raise": 1
+    },
+    "98s": {
+      "raise": 1
+    },
+    "97s": {
+      "raise": 1
+    },
+    "87s": {
+      "raise": 1
+    },
+    "86s": {
+      "raise": 0.245,
+      "fold": 0.755
+    },
+    "76s": {
+      "raise": 0.415,
+      "fold": 0.585
+    },
+    "65s": {
+      "raise": 0.42,
+      "fold": 0.58
+    },
+    "54s": {
+      "raise": 0.335,
+      "fold": 0.665
+    }
+  }
+}

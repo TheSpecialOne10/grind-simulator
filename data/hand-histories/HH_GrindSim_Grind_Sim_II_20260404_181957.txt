@@ -1,0 +1,127 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:15 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: PocketRockets ($100.00 in chips)
+Seat 5: ChetFaker99 ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c Jd]
+PocketRockets: folds
+ChetFaker99: raises $2.00 to $2.00
+FlopZilla: folds
+Hero: folds
+CardDead_Chris: raises $10.50 to $11.00
+3BetBandit: folds
+ChetFaker99: folds
+Uncalled bet ($10.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $14.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: CardDead_Chris (small blind) lost
+Seat 3: 3BetBandit (big blind) lost
+Seat 4: PocketRockets lost
+Seat 5: ChetFaker99 lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:30 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: PocketRockets ($100.00 in chips)
+Seat 5: ChetFaker99 ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 4s]
+ChetFaker99: folds
+FlopZilla: folds
+Hero: folds
+CardDead_Chris: folds
+3BetBandit: raises $2.50 to $3.00
+PocketRockets: folds
+Uncalled bet ($2.50) returned to 3BetBandit
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: CardDead_Chris (button) lost
+Seat 3: 3BetBandit (small blind) lost
+Seat 4: PocketRockets (big blind) lost
+Seat 5: ChetFaker99 lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:39 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: PocketRockets ($100.00 in chips)
+Seat 5: ChetFaker99 ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h Td]
+FlopZilla: folds
+Hero: folds
+CardDead_Chris: folds
+3BetBandit: folds
+PocketRockets: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: CardDead_Chris lost
+Seat 3: 3BetBandit (button) lost
+Seat 4: PocketRockets (small blind) lost
+Seat 5: ChetFaker99 (big blind) lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:21:17 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: PocketRockets ($100.00 in chips)
+Seat 5: ChetFaker99 ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 6d]
+Hero: folds
+CardDead_Chris: raises $2.00 to $2.00
+3BetBandit: folds
+PocketRockets: folds
+ChetFaker99: folds
+FlopZilla: calls $1.00
+*** FLOP *** [As Kc Ks]
+FlopZilla: checks
+CardDead_Chris: checks
+*** TURN *** [As Kc Ks] [Tc]
+FlopZilla: checks
+CardDead_Chris: checks
+*** RIVER *** [As Kc Ks Tc] [5s]
+FlopZilla: checks
+CardDead_Chris: checks
+*** SHOW DOWN ***
+Hero: shows [5c 6d]
+CardDead_Chris: shows [Ad 4d]
+3BetBandit: shows [5h Td]
+PocketRockets: shows [8c 8h]
+ChetFaker99: shows [3c 2c]
+FlopZilla: shows [Qs 9d]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [As Kc Ks Tc 5s]
+Seat 1: Hero lost
+Seat 2: CardDead_Chris lost
+Seat 3: 3BetBandit lost
+Seat 4: PocketRockets (button) lost
+Seat 5: ChetFaker99 (small blind) lost
+Seat 6: FlopZilla (big blind) lost
+

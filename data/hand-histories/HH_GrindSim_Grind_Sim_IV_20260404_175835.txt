@@ -1,0 +1,85 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:08 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js Kd]
+SetMiner_Pro: folds
+FishOnTilt: folds
+LooseGoose: raises $2.30 to $2.30
+Hero: raises $7.50 to $7.50
+QuadsOrFold: folds
+GTO_Wizard: folds
+LooseGoose: folds
+Uncalled bet ($7.50) returned to Hero
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: QuadsOrFold (small blind) lost
+Seat 3: GTO_Wizard (big blind) lost
+Seat 4: SetMiner_Pro lost
+Seat 5: FishOnTilt lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:26 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 3s]
+FishOnTilt: folds
+LooseGoose: folds
+Hero: folds
+QuadsOrFold: raises $2.50 to $2.50
+GTO_Wizard: folds
+SetMiner_Pro: folds
+Uncalled bet ($2.50) returned to QuadsOrFold
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: QuadsOrFold (button) lost
+Seat 3: GTO_Wizard (small blind) lost
+Seat 4: SetMiner_Pro (big blind) lost
+Seat 5: FishOnTilt lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:58 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 9h]
+LooseGoose: folds
+Hero: folds
+QuadsOrFold: folds
+GTO_Wizard: raises $2.50 to $2.50
+SetMiner_Pro: folds
+FishOnTilt: folds
+Uncalled bet ($2.50) returned to GTO_Wizard
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: QuadsOrFold lost
+Seat 3: GTO_Wizard (button) lost
+Seat 4: SetMiner_Pro (small blind) lost
+Seat 5: FishOnTilt (big blind) lost
+Seat 6: LooseGoose lost
+

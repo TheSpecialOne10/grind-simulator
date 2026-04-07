@@ -1,0 +1,82 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:56 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Kh]
+SnapFold: folds
+SuitsMe: folds
+SteadyEddie: folds
+Hero: raises $2.50 to $2.50
+FishOnTilt: folds
+NiceCatch88: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FishOnTilt (small blind) lost
+Seat 3: NiceCatch88 (big blind) lost
+Seat 4: SnapFold lost
+Seat 5: SuitsMe lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:27 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh 9s]
+SuitsMe: raises $2.50 to $2.50
+SteadyEddie: folds
+Hero: folds
+FishOnTilt: folds
+NiceCatch88: folds
+SnapFold: folds
+Uncalled bet ($2.50) returned to SuitsMe
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt (button) lost
+Seat 3: NiceCatch88 (small blind) lost
+Seat 4: SnapFold (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:45:47 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+SnapFold: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 2s]
+SteadyEddie: folds
+Hero: folds
+FishOnTilt: folds
+NiceCatch88: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt lost
+Seat 3: NiceCatch88 (button) lost
+Seat 4: SnapFold (small blind) lost
+Seat 5: SuitsMe (big blind) lost
+Seat 6: SteadyEddie lost
+

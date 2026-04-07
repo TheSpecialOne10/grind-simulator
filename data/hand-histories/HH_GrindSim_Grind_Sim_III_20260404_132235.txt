@@ -1,0 +1,72 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:15 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: QuadsOrFold ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 5s]
+QuadsOrFold: folds
+StackEmUp: folds
+ChetFaker99: folds
+Hero: raises $2.00 to $2.00
+MegaTilt: folds
+SlowRoll_Sam: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: MegaTilt (small blind) lost
+Seat 3: SlowRoll_Sam (big blind) lost
+Seat 4: QuadsOrFold lost
+Seat 5: StackEmUp lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:57 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: SlowRoll_Sam ($100.00 in chips)
+Seat 4: QuadsOrFold ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+SlowRoll_Sam: posts small blind $0.50
+QuadsOrFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 2s]
+StackEmUp: folds
+ChetFaker99: folds
+Hero: folds
+MegaTilt: calls $1.00
+SlowRoll_Sam: folds
+QuadsOrFold: checks
+*** FLOP *** [5c 7h 8c]
+QuadsOrFold: checks
+MegaTilt: checks
+*** TURN *** [5c 7h 8c] [9h]
+QuadsOrFold: checks
+MegaTilt: checks
+*** RIVER *** [5c 7h 8c 9h] [8s]
+QuadsOrFold: checks
+MegaTilt: checks
+*** SHOW DOWN ***
+Hero: shows [8d 2s]
+MegaTilt: shows [7d 7c]
+SlowRoll_Sam: shows [Qd 2c]
+QuadsOrFold: shows [6d 9c]
+StackEmUp: shows [3d 4s]
+ChetFaker99: shows [Kd 3h]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [5c 7h 8c 9h 8s]
+Seat 1: Hero lost
+Seat 2: MegaTilt (button) lost
+Seat 3: SlowRoll_Sam (small blind) lost
+Seat 4: QuadsOrFold (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: ChetFaker99 lost
+

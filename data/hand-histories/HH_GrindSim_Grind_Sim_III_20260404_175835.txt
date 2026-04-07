@@ -1,0 +1,112 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:58:49 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 4d]
+CheckRaiseKing: raises $2.00 to $2.00
+AggroManiac: folds
+RunBadFeelGood: folds
+Hero: folds
+Button_Clicker: folds
+RunItTwice: folds
+Uncalled bet ($2.00) returned to CheckRaiseKing
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: Button_Clicker (small blind) lost
+Seat 3: RunItTwice (big blind) lost
+Seat 4: CheckRaiseKing lost
+Seat 5: AggroManiac lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:09 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 9s]
+AggroManiac: folds
+RunBadFeelGood: folds
+Hero: raises $2.30 to $2.30
+Button_Clicker: folds
+RunItTwice: folds
+CheckRaiseKing: folds
+Uncalled bet ($2.30) returned to Hero
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker (button) lost
+Seat 3: RunItTwice (small blind) lost
+Seat 4: CheckRaiseKing (big blind) lost
+Seat 5: AggroManiac lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:59:28 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 7s]
+RunBadFeelGood: folds
+Hero: folds
+Button_Clicker: raises $2.30 to $2.30
+RunItTwice: folds
+CheckRaiseKing: folds
+AggroManiac: folds
+Uncalled bet ($2.30) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker lost
+Seat 3: RunItTwice (button) lost
+Seat 4: CheckRaiseKing (small blind) lost
+Seat 5: AggroManiac (big blind) lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:00:00 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 3s]
+Hero: folds
+Button_Clicker: folds
+RunItTwice: folds
+CheckRaiseKing: raises $2.50 to $2.50
+AggroManiac: folds
+RunBadFeelGood: folds
+Uncalled bet ($2.50) returned to CheckRaiseKing
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker lost
+Seat 3: RunItTwice lost
+Seat 4: CheckRaiseKing (button) lost
+Seat 5: AggroManiac (small blind) lost
+Seat 6: RunBadFeelGood (big blind) lost
+

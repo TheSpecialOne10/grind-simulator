@@ -1,0 +1,58 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:02:21 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: FlopZilla ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Tc]
+AcesUpMySleeve: folds
+FishOnTilt: raises $2.00 to $2.00
+OverBet4Value: raises $6.50 to $6.50
+Hero: folds
+the_nuts_42: folds
+FlopZilla: folds
+FishOnTilt: raises $17.00 to $19.00
+OverBet4Value: folds
+Uncalled bet ($17.00) returned to FishOnTilt
+*** SUMMARY ***
+Total pot $27.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: the_nuts_42 (small blind) lost
+Seat 3: FlopZilla (big blind) lost
+Seat 4: AcesUpMySleeve lost
+Seat 5: FishOnTilt lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:02:51 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: FlopZilla ($100.00 in chips)
+Seat 4: AcesUpMySleeve ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Kh]
+FishOnTilt: folds
+OverBet4Value: folds
+Hero: folds
+the_nuts_42: raises $2.50 to $2.50
+FlopZilla: folds
+AcesUpMySleeve: folds
+Uncalled bet ($2.50) returned to the_nuts_42
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: the_nuts_42 (button) lost
+Seat 3: FlopZilla (small blind) lost
+Seat 4: AcesUpMySleeve (big blind) lost
+Seat 5: FishOnTilt lost
+Seat 6: OverBet4Value lost
+

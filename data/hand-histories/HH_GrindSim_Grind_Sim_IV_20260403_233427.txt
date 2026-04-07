@@ -1,0 +1,108 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:34:48 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Qs]
+RiverRat420: folds
+SlowRoll_Sam: folds
+SuitsMe: folds
+Hero: raises $2.50 to $2.50
+TheGrinder: folds
+3BetBandit: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TheGrinder (small blind) lost
+Seat 3: 3BetBandit (big blind) lost
+Seat 4: RiverRat420 lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:35:04 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+RiverRat420: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 4h]
+SlowRoll_Sam: folds
+SuitsMe: folds
+Hero: folds
+TheGrinder: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder (button) lost
+Seat 3: 3BetBandit (small blind) lost
+Seat 4: RiverRat420 (big blind) lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:35:22 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 8d]
+SuitsMe: folds
+Hero: folds
+TheGrinder: folds
+3BetBandit: folds
+RiverRat420: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder lost
+Seat 3: 3BetBandit (button) lost
+Seat 4: RiverRat420 (small blind) lost
+Seat 5: SlowRoll_Sam (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:35:51 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SlowRoll_Sam: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Js]
+Hero: raises $2.00 to $2.00
+TheGrinder: folds
+3BetBandit: folds
+RiverRat420: folds
+SlowRoll_Sam: folds
+SuitsMe: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder lost
+Seat 3: 3BetBandit lost
+Seat 4: RiverRat420 (button) lost
+Seat 5: SlowRoll_Sam (small blind) lost
+Seat 6: SuitsMe (big blind) lost
+

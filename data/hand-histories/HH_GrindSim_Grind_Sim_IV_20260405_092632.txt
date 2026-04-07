@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/05 09:26:45 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: Button_Clicker ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Ks]
+Button_Clicker: raises $2.00 to $2.00
+SBvsUTG: folds
+TiltMachine: folds
+Hero: folds
+LooseGoose: folds
+PotCommitted: calls $1.00
+*** FLOP *** [3c 6h 2h]
+PotCommitted: checks
+Button_Clicker: checks
+*** TURN *** [3c 6h 2h] [Ac]
+PotCommitted: checks
+Button_Clicker: checks
+*** RIVER *** [3c 6h 2h Ac] [Jh]
+PotCommitted: checks
+Button_Clicker: checks
+*** SHOW DOWN ***
+Hero: shows [6d Ks]
+LooseGoose: shows [Kh 7h]
+PotCommitted: shows [Th Td]
+Button_Clicker: shows [6c 6s]
+SBvsUTG: shows [8c 9d]
+TiltMachine: shows [As 9h]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [3c 6h 2h Ac Jh]
+Seat 1: Hero (button) lost
+Seat 2: LooseGoose (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: Button_Clicker lost
+Seat 5: SBvsUTG lost
+Seat 6: TiltMachine lost
+

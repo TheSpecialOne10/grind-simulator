@@ -1,0 +1,168 @@
+{
+  "scenario": "vs_4bet",
+  "position": "BB",
+  "vsPosition": "BTN",
+  "description": "BB vs BTN 4-bet (jam or call)",
+  "defaultAction": "fold",
+  "betSizeBB": 100,
+  "ranges": {
+    "77": {
+      "call": 0.059,
+      "fold": 0.941
+    },
+    "88": {
+      "call": 0.26,
+      "fold": 0.74
+    },
+    "99": {
+      "raise": 0.08,
+      "call": 0.646,
+      "fold": 0.274
+    },
+    "AA": {
+      "raise": 0.135,
+      "call": 0.855,
+      "fold": 0.01
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 0.885,
+      "call": 0.115
+    },
+    "TT": {
+      "raise": 0.585,
+      "call": 0.415
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 0.014,
+      "call": 0.926,
+      "fold": 0.06
+    },
+    "A5s": {
+      "raise": 0.925,
+      "call": 0.075
+    },
+    "A4s": {
+      "raise": 0.306,
+      "call": 0.345,
+      "fold": 0.349
+    },
+    "AQs": {
+      "call": 1
+    },
+    "AJs": {
+      "call": 1
+    },
+    "ATs": {
+      "call": 0.383,
+      "fold": 0.617
+    },
+    "A9s": {
+      "call": 0.035,
+      "fold": 0.965
+    },
+    "A8s": {
+      "call": 0.12,
+      "fold": 0.88
+    },
+    "A6s": {
+      "call": 0.025,
+      "fold": 0.975
+    },
+    "A3s": {
+      "call": 0.22,
+      "fold": 0.78
+    },
+    "A2s": {
+      "call": 0.075,
+      "fold": 0.925
+    },
+    "KQs": {
+      "call": 1
+    },
+    "KJs": {
+      "call": 0.915,
+      "fold": 0.085
+    },
+    "KTs": {
+      "call": 0.8,
+      "fold": 0.2
+    },
+    "K9s": {
+      "call": 0.325,
+      "fold": 0.675
+    },
+    "K7s": {
+      "call": 0.215,
+      "fold": 0.785
+    },
+    "K6s": {
+      "call": 0.395,
+      "fold": 0.605
+    },
+    "K5s": {
+      "call": 0.055,
+      "fold": 0.945
+    },
+    "QJs": {
+      "call": 0.365,
+      "fold": 0.635
+    },
+    "QTs": {
+      "call": 0.785,
+      "fold": 0.215
+    },
+    "JTs": {
+      "call": 1
+    },
+    "J9s": {
+      "call": 0.419,
+      "fold": 0.581
+    },
+    "T9s": {
+      "call": 1
+    },
+    "T8s": {
+      "call": 0.41,
+      "fold": 0.59
+    },
+    "98s": {
+      "call": 0.87,
+      "fold": 0.13
+    },
+    "97s": {
+      "call": 0.18,
+      "fold": 0.82
+    },
+    "87s": {
+      "call": 1
+    },
+    "86s": {
+      "call": 0.225,
+      "fold": 0.775
+    },
+    "76s": {
+      "call": 0.77,
+      "fold": 0.23
+    },
+    "65s": {
+      "call": 0.66,
+      "fold": 0.34
+    },
+    "54s": {
+      "call": 0.475,
+      "fold": 0.525
+    }
+  }
+}

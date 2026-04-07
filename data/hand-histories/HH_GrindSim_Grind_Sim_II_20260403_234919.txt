@@ -1,0 +1,80 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:28 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: xXPokerProXx ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+xXPokerProXx: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 5h]
+DonkeyKong42: folds
+Bluffy_McBluff: folds
+GTO_Wizard: folds
+Hero: folds
+FishOnTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FishOnTilt (small blind) lost
+Seat 3: xXPokerProXx (big blind) lost
+Seat 4: DonkeyKong42 lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:40 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: xXPokerProXx ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+xXPokerProXx: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h 5c]
+Bluffy_McBluff: folds
+GTO_Wizard: folds
+Hero: raises $2.00 to $2.00
+FishOnTilt: folds
+xXPokerProXx: folds
+DonkeyKong42: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt (button) lost
+Seat 3: xXPokerProXx (small blind) lost
+Seat 4: DonkeyKong42 (big blind) lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:53 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: xXPokerProXx ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+Bluffy_McBluff: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2s Kc]
+GTO_Wizard: folds
+Hero: folds
+FishOnTilt: folds
+xXPokerProXx: folds
+DonkeyKong42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt lost
+Seat 3: xXPokerProXx (button) lost
+Seat 4: DonkeyKong42 (small blind) lost
+Seat 5: Bluffy_McBluff (big blind) lost
+Seat 6: GTO_Wizard lost
+

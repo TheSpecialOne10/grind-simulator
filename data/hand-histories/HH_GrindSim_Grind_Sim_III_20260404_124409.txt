@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:44:24 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 3s]
+NittyProfessor: folds
+the_nuts_42: folds
+TiltMachine: folds
+Hero: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuitsMe (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: NittyProfessor lost
+Seat 5: the_nuts_42 lost
+Seat 6: TiltMachine lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:44:44 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: TiltMachine ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 8s]
+the_nuts_42: folds
+TiltMachine: folds
+Hero: folds
+SuitsMe: folds
+LooseGoose: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe (button) lost
+Seat 3: LooseGoose (small blind) lost
+Seat 4: NittyProfessor (big blind) lost
+Seat 5: the_nuts_42 lost
+Seat 6: TiltMachine lost
+

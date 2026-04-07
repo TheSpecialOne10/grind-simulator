@@ -1,0 +1,106 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:21 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 9h]
+PotCommitted: folds
+StackEmUp: folds
+FishOnTilt: folds
+Hero: folds
+BarrelHouse: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: BarrelHouse (small blind) lost
+Seat 3: TheGrinder (big blind) lost
+Seat 4: PotCommitted lost
+Seat 5: StackEmUp lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:33 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h Ts]
+StackEmUp: folds
+FishOnTilt: folds
+Hero: folds
+BarrelHouse: folds
+TheGrinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse (button) lost
+Seat 3: TheGrinder (small blind) lost
+Seat 4: PotCommitted (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:52 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 6d]
+FishOnTilt: folds
+Hero: folds
+BarrelHouse: folds
+TheGrinder: folds
+PotCommitted: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse lost
+Seat 3: TheGrinder (button) lost
+Seat 4: PotCommitted (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:07 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 6d]
+Hero: folds
+BarrelHouse: folds
+TheGrinder: folds
+PotCommitted: raises $100.00 to $100.00
+StackEmUp: folds
+FishOnTilt: folds
+Uncalled bet ($100.00) returned to PotCommitted
+*** SUMMARY ***
+Total pot $101.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse lost
+Seat 3: TheGrinder lost
+Seat 4: PotCommitted (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: FishOnTilt (big blind) lost
+

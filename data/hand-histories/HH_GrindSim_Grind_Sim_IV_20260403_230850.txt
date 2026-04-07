@@ -1,0 +1,106 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:09:25 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Ad]
+TightIsRight: folds
+FoldPre2024: folds
+AggroManiac: folds
+Hero: raises $2.50 to $2.50
+PotCommitted: folds
+SteadyEddie: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: PotCommitted (small blind) lost
+Seat 3: SteadyEddie (big blind) lost
+Seat 4: TightIsRight lost
+Seat 5: FoldPre2024 lost
+Seat 6: AggroManiac lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:05 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+SteadyEddie: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 7d]
+FoldPre2024: folds
+AggroManiac: folds
+Hero: folds
+PotCommitted: folds
+SteadyEddie: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted (button) lost
+Seat 3: SteadyEddie (small blind) lost
+Seat 4: TightIsRight (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: AggroManiac lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:16 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Qh]
+AggroManiac: folds
+Hero: folds
+PotCommitted: folds
+SteadyEddie: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted lost
+Seat 3: SteadyEddie (button) lost
+Seat 4: TightIsRight (small blind) lost
+Seat 5: FoldPre2024 (big blind) lost
+Seat 6: AggroManiac lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:48 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: AggroManiac ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Jd]
+Hero: folds
+PotCommitted: folds
+SteadyEddie: folds
+TightIsRight: folds
+FoldPre2024: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted lost
+Seat 3: SteadyEddie lost
+Seat 4: TightIsRight (button) lost
+Seat 5: FoldPre2024 (small blind) lost
+Seat 6: AggroManiac (big blind) lost
+

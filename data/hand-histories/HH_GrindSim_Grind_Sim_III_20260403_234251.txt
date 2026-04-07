@@ -1,0 +1,78 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:08 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+SnapFold: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 2h]
+SuitsMe: folds
+SlowRoll_Sam: folds
+Bluffy_McBluff: folds
+Hero: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SnapFold (small blind) lost
+Seat 3: TiltMachine (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:43:38 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Ah]
+SlowRoll_Sam: folds
+Bluffy_McBluff: folds
+Hero: folds
+SnapFold: folds
+TiltMachine: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold (button) lost
+Seat 3: TiltMachine (small blind) lost
+Seat 4: SuitsMe (big blind) lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:44:02 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Ad]
+Bluffy_McBluff: folds
+Hero: folds
+SnapFold: folds
+TiltMachine: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: TiltMachine (button) lost
+Seat 4: SuitsMe (small blind) lost
+Seat 5: SlowRoll_Sam (big blind) lost
+Seat 6: Bluffy_McBluff lost
+

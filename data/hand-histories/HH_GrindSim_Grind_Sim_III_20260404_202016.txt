@@ -1,0 +1,112 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:20:30 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 6s]
+OverBet4Value: folds
+StackEmUp: folds
+TriplBarrel: folds
+Hero: folds
+TheGrinder: raises $2.50 to $3.00
+LooseGoose: folds
+Uncalled bet ($2.50) returned to TheGrinder
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TheGrinder (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: StackEmUp lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:01 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 7s]
+StackEmUp: folds
+TriplBarrel: folds
+Hero: raises $2.30 to $2.30
+TheGrinder: folds
+LooseGoose: folds
+OverBet4Value: folds
+Uncalled bet ($2.30) returned to Hero
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder (button) lost
+Seat 3: LooseGoose (small blind) lost
+Seat 4: OverBet4Value (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:15 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 9d]
+TriplBarrel: raises $2.00 to $2.00
+Hero: folds
+TheGrinder: folds
+LooseGoose: folds
+OverBet4Value: folds
+StackEmUp: folds
+Uncalled bet ($2.00) returned to TriplBarrel
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder lost
+Seat 3: LooseGoose (button) lost
+Seat 4: OverBet4Value (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:32 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TheGrinder ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 5s]
+Hero: folds
+TheGrinder: folds
+LooseGoose: folds
+OverBet4Value: raises $2.50 to $2.50
+StackEmUp: folds
+TriplBarrel: folds
+Uncalled bet ($2.50) returned to OverBet4Value
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TheGrinder lost
+Seat 3: LooseGoose lost
+Seat 4: OverBet4Value (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: TriplBarrel (big blind) lost
+

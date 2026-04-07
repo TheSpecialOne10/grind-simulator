@@ -1,0 +1,70 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:17 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: CheckRaiseKing ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 8d]
+RiverRat420: folds
+CheckRaiseKing: folds
+LooseGoose: folds
+Hero: folds
+RunItTwice: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RunItTwice (small blind) lost
+Seat 3: CardDead_Chris (big blind) lost
+Seat 4: RiverRat420 lost
+Seat 5: CheckRaiseKing lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:55 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: CheckRaiseKing ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+RiverRat420: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc 7d]
+CheckRaiseKing: raises $2.00 to $2.00
+LooseGoose: folds
+Hero: folds
+RunItTwice: folds
+CardDead_Chris: folds
+RiverRat420: calls $1.00
+*** FLOP *** [Ac 5d 4h]
+RiverRat420: checks
+CheckRaiseKing: checks
+*** TURN *** [Ac 5d 4h] [7h]
+RiverRat420: checks
+CheckRaiseKing: checks
+*** RIVER *** [Ac 5d 4h 7h] [3c]
+RiverRat420: checks
+CheckRaiseKing: checks
+*** SHOW DOWN ***
+Hero: shows [Qc 7d]
+RunItTwice: shows [4c Th]
+CardDead_Chris: shows [Qh 8s]
+RiverRat420: shows [5h Jh]
+CheckRaiseKing: shows [Kd Kh]
+LooseGoose: shows [2s 9s]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Ac 5d 4h 7h 3c]
+Seat 1: Hero lost
+Seat 2: RunItTwice (button) lost
+Seat 3: CardDead_Chris (small blind) lost
+Seat 4: RiverRat420 (big blind) lost
+Seat 5: CheckRaiseKing lost
+Seat 6: LooseGoose lost
+

@@ -1,0 +1,75 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:20:51 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuietNit ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+QuietNit: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 5h]
+SteadyEddie: raises $2.00 to $2.00
+FoldPre2024: folds
+SBvsUTG: folds
+Hero: folds
+QuietNit: folds
+RunItTwice: calls $1.00
+*** FLOP *** [Ad 7s 7d]
+RunItTwice: checks
+SteadyEddie: checks
+*** TURN *** [Ad 7s 7d] [Jc]
+RunItTwice: checks
+SteadyEddie: checks
+*** RIVER *** [Ad 7s 7d Jc] [2d]
+RunItTwice: checks
+SteadyEddie: checks
+*** SHOW DOWN ***
+Hero: shows [4c 5h]
+QuietNit: shows [7h 9h]
+RunItTwice: shows [7c Kc]
+SteadyEddie: shows [6c 6d]
+FoldPre2024: shows [Ts 8s]
+SBvsUTG: shows [Qs 9s]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Ad 7s 7d Jc 2d]
+Seat 1: Hero (button) lost
+Seat 2: QuietNit (small blind) lost
+Seat 3: RunItTwice (big blind) lost
+Seat 4: SteadyEddie lost
+Seat 5: FoldPre2024 lost
+Seat 6: SBvsUTG lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:23 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuietNit ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js Kh]
+FoldPre2024: folds
+SBvsUTG: folds
+Hero: raises $2.30 to $2.30
+QuietNit: folds
+RunItTwice: folds
+SteadyEddie: calls $1.30
+*** FLOP *** [Jd 5s 5c]
+SteadyEddie: checks
+Hero: folds
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [Jd 5s 5c]
+Seat 1: Hero lost
+Seat 2: QuietNit (button) lost
+Seat 3: RunItTwice (small blind) lost
+Seat 4: SteadyEddie (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: SBvsUTG lost
+

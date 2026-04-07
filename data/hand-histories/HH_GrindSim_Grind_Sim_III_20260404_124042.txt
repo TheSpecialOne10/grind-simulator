@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:31 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: QuadsOrFold ($100.00 in chips)
+Seat 5: SteadyEddie ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Tc]
+QuadsOrFold: folds
+SteadyEddie: folds
+ColdDeck_Carl: calls $1.00
+Hero: folds
+bluff_catcher: folds
+TightIsRight: checks
+*** FLOP *** [Ah 3s 8s]
+TightIsRight: checks
+ColdDeck_Carl: checks
+*** TURN *** [Ah 3s 8s] [2s]
+TightIsRight: checks
+ColdDeck_Carl: checks
+*** RIVER *** [Ah 3s 8s 2s] [4s]
+TightIsRight: checks
+ColdDeck_Carl: checks
+*** SHOW DOWN ***
+Hero: shows [6d Tc]
+bluff_catcher: shows [Td 8h]
+TightIsRight: shows [Jh 7h]
+QuadsOrFold: shows [7s Ad]
+SteadyEddie: shows [Jc Ts]
+ColdDeck_Carl: shows [6h 6c]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Ah 3s 8s 2s 4s]
+Seat 1: Hero (button) lost
+Seat 2: bluff_catcher (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: QuadsOrFold lost
+Seat 5: SteadyEddie lost
+Seat 6: ColdDeck_Carl lost
+

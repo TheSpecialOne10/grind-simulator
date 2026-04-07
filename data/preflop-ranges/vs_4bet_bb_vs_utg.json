@@ -1,0 +1,128 @@
+{
+  "scenario": "vs_4bet",
+  "position": "BB",
+  "vsPosition": "UTG",
+  "description": "BB vs UTG 4-bet (jam or call)",
+  "defaultAction": "fold",
+  "betSizeBB": 100,
+  "ranges": {
+    "AA": {
+      "raise": 0.82,
+      "call": 0.18
+    },
+    "KK": {
+      "raise": 0.88,
+      "call": 0.12
+    },
+    "QQ": {
+      "raise": 0.093,
+      "call": 0.792,
+      "fold": 0.115
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 0.474,
+      "call": 0.17,
+      "fold": 0.356
+    },
+    "AQs": {
+      "raise": 0.119,
+      "call": 0.411,
+      "fold": 0.47
+    },
+    "AJs": {
+      "raise": 0.015,
+      "call": 0.15,
+      "fold": 0.835
+    },
+    "ATs": {
+      "raise": 0.022,
+      "call": 0.093,
+      "fold": 0.885
+    },
+    "A8s": {
+      "raise": 0.018,
+      "call": 0.012,
+      "fold": 0.97
+    },
+    "A7s": {
+      "raise": 0.019,
+      "fold": 0.981
+    },
+    "A5s": {
+      "raise": 0.056,
+      "call": 0.045,
+      "fold": 0.899
+    },
+    "A4s": {
+      "raise": 0.08,
+      "call": 0.17,
+      "fold": 0.75
+    },
+    "A3s": {
+      "raise": 0.046,
+      "call": 0.124,
+      "fold": 0.83
+    },
+    "A2s": {
+      "raise": 0.006,
+      "fold": 0.994
+    },
+    "KQs": {
+      "raise": 0.066,
+      "call": 0.124,
+      "fold": 0.81
+    },
+    "65s": {
+      "raise": 0.028,
+      "call": 0.592,
+      "fold": 0.38
+    },
+    "JJ": {
+      "call": 0.13,
+      "fold": 0.87
+    },
+    "QJs": {
+      "call": 0.161,
+      "fold": 0.839
+    },
+    "QTs": {
+      "call": 0.032,
+      "fold": 0.968
+    },
+    "JTs": {
+      "call": 0.345,
+      "fold": 0.655
+    },
+    "J9s": {
+      "call": 0.062,
+      "fold": 0.938
+    },
+    "T9s": {
+      "call": 0.386,
+      "fold": 0.614
+    },
+    "98s": {
+      "call": 0.184,
+      "fold": 0.816
+    },
+    "87s": {
+      "call": 0.442,
+      "fold": 0.558
+    },
+    "86s": {
+      "call": 0.023,
+      "fold": 0.977
+    },
+    "76s": {
+      "call": 0.505,
+      "fold": 0.495
+    },
+    "54s": {
+      "call": 0.402,
+      "fold": 0.598
+    }
+  }
+}

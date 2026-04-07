@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:10:30 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SharkBait55 ($100.00 in chips)
+Seat 3: the_nuts_42 ($100.00 in chips)
+Seat 4: NittyProfessor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: StackEmUp ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 5c]
+NittyProfessor: folds
+Bluffy_McBluff: folds
+StackEmUp: folds
+Hero: folds
+SharkBait55: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SharkBait55 (small blind) lost
+Seat 3: the_nuts_42 (big blind) lost
+Seat 4: NittyProfessor lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: StackEmUp lost
+

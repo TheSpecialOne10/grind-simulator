@@ -1,0 +1,3026 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:41:09 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Qd]
+OverBet4Value: folds
+NLHE_Grinder: folds
+the_nuts_42: raises $2.30 to $2.30
+Hero: folds
+Bluffy_McBluff: folds
+LooseGoose: folds
+Uncalled bet ($2.30) returned to the_nuts_42
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: Bluffy_McBluff (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: NLHE_Grinder lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:41:55 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NLHE_Grinder ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Jh]
+RunBadFeelGood: folds
+GTO_Wizard: folds
+Hero: raises $2.30 to $2.30
+NLHE_Grinder: folds
+OverBet4Value: folds
+the_nuts_42: calls $1.30
+*** FLOP *** [2s 3s 4c]
+the_nuts_42: checks
+Hero: bets $3.42
+the_nuts_42: folds
+Uncalled bet ($3.42) returned to Hero
+*** SUMMARY ***
+Total pot $8.52 | Rake $0.00
+Board [2s 3s 4c]
+Seat 1: Hero lost
+Seat 2: NLHE_Grinder (button) lost
+Seat 3: OverBet4Value (small blind) lost
+Seat 4: the_nuts_42 (big blind) lost
+Seat 5: RunBadFeelGood lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:42:02 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: xXPokerProXx ($100.00 in chips)
+QuietNit: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s Tc]
+xXPokerProXx: folds
+Hero: folds
+FishOnTilt: raises $2.30 to $2.30
+CardDead_Chris: raises $7.50 to $7.50
+QuietNit: folds
+LooseGoose: folds
+FishOnTilt: folds
+Uncalled bet ($7.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt lost
+Seat 3: CardDead_Chris (button) lost
+Seat 4: QuietNit (small blind) lost
+Seat 5: LooseGoose (big blind) lost
+Seat 6: xXPokerProXx lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:42:08 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: TiltMachine ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 3d]
+Hero: folds
+Bluffy_McBluff: folds
+MegaTilt: folds
+FlopZilla: raises $2.50 to $2.50
+TiltMachine: folds
+TightIsRight: raises $12.00 to $13.00
+FlopZilla: calls $10.50
+*** FLOP *** [7c 4c 5c]
+TightIsRight: checks
+FlopZilla: checks
+*** TURN *** [7c 4c 5c] [2h]
+TightIsRight: checks
+FlopZilla: checks
+*** RIVER *** [7c 4c 5c 2h] [3s]
+TightIsRight: checks
+FlopZilla: checks
+*** SHOW DOWN ***
+Hero: shows [7d 3d]
+Bluffy_McBluff: shows [Ac 7s]
+MegaTilt: shows [8d 3h]
+FlopZilla: shows [Kc Tc]
+TiltMachine: shows [Js 2c]
+TightIsRight: shows [Jh Jd]
+*** SUMMARY ***
+Total pot $26.50 | Rake $0.00
+Board [7c 4c 5c 2h 3s]
+Seat 1: Hero lost
+Seat 2: Bluffy_McBluff lost
+Seat 3: MegaTilt lost
+Seat 4: FlopZilla (button) lost
+Seat 5: TiltMachine (small blind) lost
+Seat 6: TightIsRight (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:42:21 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: Button_Clicker ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 3d]
+TiltMachine: folds
+Bluffy_McBluff: folds
+the_nuts_42: folds
+Button_Clicker: raises $2.50 to $2.50
+LooseGoose: raises $11.50 to $12.00
+Hero: folds
+Button_Clicker: folds
+Uncalled bet ($11.50) returned to LooseGoose
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: TiltMachine lost
+Seat 3: Bluffy_McBluff lost
+Seat 4: the_nuts_42 lost
+Seat 5: Button_Clicker (button) lost
+Seat 6: LooseGoose (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:42:50 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: RiverRat420 ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+Hero: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd As]
+RiverRat420: folds
+SuitsMe: raises $2.00 to $2.00
+RunBadFeelGood: folds
+RunItTwice: folds
+Hero: raises $10.50 to $11.00
+ChetFaker99: folds
+SuitsMe: calls $9.00
+*** FLOP *** [Jd Ts 2h]
+Hero: bets $11.50
+SuitsMe: calls $11.50
+*** TURN *** [Jd Ts 2h] [3h]
+Hero: bets $34.50
+SuitsMe: folds
+Uncalled bet ($34.50) returned to Hero
+*** SUMMARY ***
+Total pot $80.50 | Rake $0.00
+Board [Jd Ts 2h 3h]
+Seat 1: Hero (small blind) lost
+Seat 2: ChetFaker99 (big blind) lost
+Seat 3: RiverRat420 lost
+Seat 4: SuitsMe lost
+Seat 5: RunBadFeelGood lost
+Seat 6: RunItTwice (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:42:59 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: the_nuts_42 ($100.00 in chips)
+Seat 4: RiverRat420 ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 6s]
+RiverRat420: raises $2.00 to $2.00
+FoldPre2024: folds
+ColdDeck_Carl: folds
+Hero: folds
+bluff_catcher: folds
+the_nuts_42: folds
+Uncalled bet ($2.00) returned to RiverRat420
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: bluff_catcher (small blind) lost
+Seat 3: the_nuts_42 (big blind) lost
+Seat 4: RiverRat420 lost
+Seat 5: FoldPre2024 lost
+Seat 6: ColdDeck_Carl lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:05 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 4d]
+Bluffy_McBluff: folds
+NittyProfessor: raises $2.00 to $2.00
+Hero: folds
+DonkeyKong42: folds
+RunBadFeelGood: folds
+CheckRaiseKing: folds
+Uncalled bet ($2.00) returned to NittyProfessor
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 (button) lost
+Seat 3: RunBadFeelGood (small blind) lost
+Seat 4: CheckRaiseKing (big blind) lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: NittyProfessor lost
+
+PokerStars Hand #9: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:09 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 4d]
+ValueTown_Mayor: folds
+Hero: folds
+Button_Clicker: folds
+OverBet4Value: folds
+StackEmUp: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Button_Clicker lost
+Seat 3: OverBet4Value (button) lost
+Seat 4: StackEmUp (small blind) lost
+Seat 5: TriplBarrel (big blind) lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #10: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:12 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: bluff_catcher ($100.00 in chips)
+Seat 4: CardDead_Chris ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 3s]
+Hero: folds
+GTO_Wizard: folds
+bluff_catcher: folds
+CardDead_Chris: raises $2.50 to $2.50
+RunItTwice: folds
+SharkBait55: folds
+Uncalled bet ($2.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: bluff_catcher lost
+Seat 4: CardDead_Chris (button) lost
+Seat 5: RunItTwice (small blind) lost
+Seat 6: SharkBait55 (big blind) lost
+
+PokerStars Hand #11: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:20 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: 4betJam ($100.00 in chips)
+Seat 6: StackEmUp ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 4c]
+Button_Clicker: folds
+GTO_Wizard: raises $2.00 to $2.00
+AggroManiac: folds
+4betJam: folds
+StackEmUp: folds
+Hero: folds
+Uncalled bet ($2.00) returned to GTO_Wizard
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: Button_Clicker lost
+Seat 3: GTO_Wizard lost
+Seat 4: AggroManiac lost
+Seat 5: 4betJam (button) lost
+Seat 6: StackEmUp (small blind) lost
+
+PokerStars Hand #12: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:28 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TriplBarrel ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: RiverRat420 ($100.00 in chips)
+Hero: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Kd]
+OverBet4Value: raises $2.00 to $2.00
+SetMiner_Pro: folds
+GTO_Wizard: folds
+RiverRat420: folds
+Hero: folds
+TriplBarrel: calls $1.00
+*** FLOP *** [Qc 9c 3h]
+TriplBarrel: checks
+OverBet4Value: checks
+*** TURN *** [Qc 9c 3h] [Th]
+TriplBarrel: checks
+OverBet4Value: checks
+*** RIVER *** [Qc 9c 3h Th] [Ad]
+TriplBarrel: checks
+OverBet4Value: checks
+*** SHOW DOWN ***
+Hero: shows [9s Kd]
+TriplBarrel: shows [Ah 2h]
+OverBet4Value: shows [6d 5d]
+SetMiner_Pro: shows [7s 6c]
+GTO_Wizard: shows [4h 8c]
+RiverRat420: shows [9h 4c]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Qc 9c 3h Th Ad]
+Seat 1: Hero (small blind) lost
+Seat 2: TriplBarrel (big blind) lost
+Seat 3: OverBet4Value lost
+Seat 4: SetMiner_Pro lost
+Seat 5: GTO_Wizard lost
+Seat 6: RiverRat420 (button) lost
+
+PokerStars Hand #13: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:40 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: StackEmUp ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: NLHE_Grinder ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Jc]
+xXPokerProXx: folds
+TheGrinder: raises $2.00 to $2.00
+NLHE_Grinder: folds
+Hero: folds
+the_nuts_42: folds
+StackEmUp: calls $1.00
+*** FLOP *** [Jh 8c Jd]
+StackEmUp: checks
+TheGrinder: checks
+*** TURN *** [Jh 8c Jd] [4d]
+StackEmUp: checks
+TheGrinder: checks
+*** RIVER *** [Jh 8c Jd 4d] [5h]
+StackEmUp: checks
+TheGrinder: checks
+*** SHOW DOWN ***
+Hero: shows [9d Jc]
+the_nuts_42: shows [Kh 4h]
+StackEmUp: shows [Td 8h]
+xXPokerProXx: shows [5c 2d]
+TheGrinder: shows [Ac Ks]
+NLHE_Grinder: shows [4s Ah]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Jh 8c Jd 4d 5h]
+Seat 1: Hero (button) lost
+Seat 2: the_nuts_42 (small blind) lost
+Seat 3: StackEmUp (big blind) lost
+Seat 4: xXPokerProXx lost
+Seat 5: TheGrinder lost
+Seat 6: NLHE_Grinder lost
+
+PokerStars Hand #14: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:43:51 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 6d]
+OverBet4Value: folds
+SlowRoll_Sam: raises $2.00 to $2.00
+Hero: folds
+3BetBandit: folds
+SharkBait55: folds
+ValueTown_Mayor: folds
+Uncalled bet ($2.00) returned to SlowRoll_Sam
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: SharkBait55 (small blind) lost
+Seat 4: ValueTown_Mayor (big blind) lost
+Seat 5: OverBet4Value lost
+Seat 6: SlowRoll_Sam lost
+
+PokerStars Hand #15: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:44:03 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: ChetFaker99 ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac Jc]
+FishOnTilt: folds
+Hero: raises $2.00 to $2.00
+RunBadFeelGood: folds
+SuckoutKid: folds
+GTO_Wizard: folds
+ChetFaker99: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood lost
+Seat 3: SuckoutKid (button) lost
+Seat 4: GTO_Wizard (small blind) lost
+Seat 5: ChetFaker99 (big blind) lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #16: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:44:08 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: QuadsOrFold ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: TheGrinder ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 9d]
+Hero: folds
+GTO_Wizard: folds
+QuadsOrFold: folds
+ChetFaker99: folds
+AggroManiac: raises $2.50 to $3.00
+TheGrinder: raises $9.00 to $10.00
+AggroManiac: folds
+Uncalled bet ($9.00) returned to TheGrinder
+*** SUMMARY ***
+Total pot $13.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: QuadsOrFold lost
+Seat 4: ChetFaker99 (button) lost
+Seat 5: AggroManiac (small blind) lost
+Seat 6: TheGrinder (big blind) lost
+
+PokerStars Hand #17: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:44:49 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: xXPokerProXx ($100.00 in chips)
+xXPokerProXx: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Qs]
+RunBadFeelGood: folds
+SuitsMe: folds
+GTO_Wizard: folds
+ValueTown_Mayor: raises $2.50 to $2.50
+xXPokerProXx: raises $11.50 to $12.00
+Hero: folds
+ValueTown_Mayor: folds
+Uncalled bet ($11.50) returned to xXPokerProXx
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: RunBadFeelGood lost
+Seat 3: SuitsMe lost
+Seat 4: GTO_Wizard lost
+Seat 5: ValueTown_Mayor (button) lost
+Seat 6: xXPokerProXx (small blind) lost
+
+PokerStars Hand #18: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:45:38 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+Hero: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s Ah]
+RunBadFeelGood: folds
+bluff_catcher: raises $2.00 to $2.00
+FoldPre2024: folds
+ColdDeck_Carl: raises $7.50 to $7.50
+Hero: folds
+FishOnTilt: folds
+bluff_catcher: raises $18.00 to $20.00
+ColdDeck_Carl: folds
+Uncalled bet ($18.00) returned to bluff_catcher
+*** SUMMARY ***
+Total pot $29.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: FishOnTilt (big blind) lost
+Seat 3: RunBadFeelGood lost
+Seat 4: bluff_catcher lost
+Seat 5: FoldPre2024 lost
+Seat 6: ColdDeck_Carl (button) lost
+
+PokerStars Hand #19: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:46:51 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 5h]
+ChetFaker99: folds
+RunBadFeelGood: folds
+TriplBarrel: raises $2.30 to $2.30
+Hero: raises $7.50 to $7.50
+QuadsOrFold: folds
+SuitsMe: folds
+TriplBarrel: raises $18.70 to $21.00
+Hero: calls $13.50
+*** FLOP *** [Qs 5c 7h]
+TriplBarrel: checks
+Hero: bets $14.36
+TriplBarrel: calls $14.36
+*** TURN *** [Qs 5c 7h] [Kh]
+TriplBarrel: checks
+Hero: bets $36.11
+TriplBarrel: calls $36.11
+*** RIVER *** [Qs 5c 7h Kh] [Ts]
+TriplBarrel: checks
+Hero: bets $28.53
+TriplBarrel: calls $28.53
+*** SHOW DOWN ***
+Hero: shows [6h 5h]
+QuadsOrFold: shows [8d 3c]
+SuitsMe: shows [8c 7s]
+ChetFaker99: shows [6c Jh]
+RunBadFeelGood: shows [3d 2s]
+TriplBarrel: shows [Ac As]
+*** SUMMARY ***
+Total pot $201.50 | Rake $0.00
+Board [Qs 5c 7h Kh Ts]
+Seat 1: Hero (button) lost
+Seat 2: QuadsOrFold (small blind) lost
+Seat 3: SuitsMe (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: RunBadFeelGood lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #20: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:47:01 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h Qs]
+AggroManiac: folds
+FoldPre2024: raises $2.00 to $2.00
+Hero: folds
+RunItTwice: folds
+PotCommitted: folds
+ChetFaker99: calls $1.00
+*** FLOP *** [Qh 4d Ad]
+ChetFaker99: checks
+FoldPre2024: checks
+*** TURN *** [Qh 4d Ad] [4s]
+ChetFaker99: checks
+FoldPre2024: checks
+*** RIVER *** [Qh 4d Ad 4s] [Jc]
+ChetFaker99: checks
+FoldPre2024: checks
+*** SHOW DOWN ***
+Hero: shows [8h Qs]
+RunItTwice: shows [4h 3h]
+PotCommitted: shows [Ks 7c]
+ChetFaker99: shows [7s 8d]
+AggroManiac: shows [9s 3c]
+FoldPre2024: shows [Js Kh]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Qh 4d Ad 4s Jc]
+Seat 1: Hero lost
+Seat 2: RunItTwice (button) lost
+Seat 3: PotCommitted (small blind) lost
+Seat 4: ChetFaker99 (big blind) lost
+Seat 5: AggroManiac lost
+Seat 6: FoldPre2024 lost
+
+PokerStars Hand #21: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:47:06 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: Button_Clicker ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Qc]
+FoldPre2024: folds
+Hero: folds
+NiceCatch88: folds
+SuckoutKid: raises $2.50 to $2.50
+Button_Clicker: folds
+3BetBandit: folds
+Uncalled bet ($2.50) returned to SuckoutKid
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: SuckoutKid (button) lost
+Seat 4: Button_Clicker (small blind) lost
+Seat 5: 3BetBandit (big blind) lost
+Seat 6: FoldPre2024 lost
+
+PokerStars Hand #22: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:47:19 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: QuadsOrFold ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: 3BetBandit ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 5h]
+Hero: folds
+SuitsMe: folds
+QuietNit: folds
+QuadsOrFold: raises $2.50 to $2.50
+PocketRockets: raises $11.50 to $12.00
+3BetBandit: folds
+QuadsOrFold: calls $9.50
+*** FLOP *** [2h 6c 2d]
+PocketRockets: checks
+QuadsOrFold: checks
+*** TURN *** [2h 6c 2d] [Qc]
+PocketRockets: checks
+QuadsOrFold: checks
+*** RIVER *** [2h 6c 2d Qc] [Qd]
+PocketRockets: checks
+QuadsOrFold: checks
+*** SHOW DOWN ***
+Hero: shows [9h 5h]
+SuitsMe: shows [9d Kh]
+QuietNit: shows [7d 6d]
+QuadsOrFold: shows [5s As]
+PocketRockets: shows [Ad Ks]
+3BetBandit: shows [2s Kc]
+*** SUMMARY ***
+Total pot $25.00 | Rake $0.00
+Board [2h 6c 2d Qc Qd]
+Seat 1: Hero lost
+Seat 2: SuitsMe lost
+Seat 3: QuietNit lost
+Seat 4: QuadsOrFold (button) lost
+Seat 5: PocketRockets (small blind) lost
+Seat 6: 3BetBandit (big blind) lost
+
+PokerStars Hand #23: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:47:25 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: CardDead_Chris ($100.00 in chips)
+Seat 5: 3BetBandit ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d As]
+the_nuts_42: folds
+MegaTilt: folds
+CardDead_Chris: folds
+3BetBandit: folds
+bluff_catcher: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: the_nuts_42 lost
+Seat 3: MegaTilt lost
+Seat 4: CardDead_Chris lost
+Seat 5: 3BetBandit (button) lost
+Seat 6: bluff_catcher (small blind) lost
+
+PokerStars Hand #24: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:47:46 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: 3BetBandit ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: Button_Clicker ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Hero: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 8d]
+3BetBandit: raises $2.00 to $2.00
+QuietNit: raises $6.50 to $6.50
+Button_Clicker: folds
+SuitsMe: folds
+Hero: folds
+CardDead_Chris: folds
+3BetBandit: calls $4.50
+*** FLOP *** [3c Qs 5c]
+3BetBandit: checks
+QuietNit: checks
+*** TURN *** [3c Qs 5c] [8c]
+3BetBandit: checks
+QuietNit: checks
+*** RIVER *** [3c Qs 5c 8c] [9c]
+3BetBandit: checks
+QuietNit: checks
+*** SHOW DOWN ***
+Hero: shows [Qd 8d]
+CardDead_Chris: shows [5s 4s]
+3BetBandit: shows [6h 6d]
+QuietNit: shows [Qc Kd]
+Button_Clicker: shows [Ad 2c]
+SuitsMe: shows [6s Qh]
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.00
+Board [3c Qs 5c 8c 9c]
+Seat 1: Hero (small blind) lost
+Seat 2: CardDead_Chris (big blind) lost
+Seat 3: 3BetBandit lost
+Seat 4: QuietNit lost
+Seat 5: Button_Clicker lost
+Seat 6: SuitsMe (button) lost
+
+PokerStars Hand #25: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:48:10 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 8s]
+ChetFaker99: raises $2.00 to $2.00
+QuadsOrFold: folds
+SlowRoll_Sam: folds
+Hero: folds
+FlopZilla: folds
+SharkBait55: folds
+Uncalled bet ($2.00) returned to ChetFaker99
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FlopZilla (small blind) lost
+Seat 3: SharkBait55 (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: QuadsOrFold lost
+Seat 6: SlowRoll_Sam lost
+
+PokerStars Hand #26: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:48:17 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: ColdDeck_Carl ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+ColdDeck_Carl: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 9d]
+LooseGoose: folds
+ValueTown_Mayor: folds
+Hero: folds
+the_nuts_42: raises $2.50 to $2.50
+ColdDeck_Carl: folds
+StackEmUp: calls $1.50
+*** FLOP *** [Js 5h 9h]
+StackEmUp: checks
+the_nuts_42: checks
+*** TURN *** [Js 5h 9h] [Qc]
+StackEmUp: checks
+the_nuts_42: checks
+*** RIVER *** [Js 5h 9h Qc] [3c]
+StackEmUp: checks
+the_nuts_42: checks
+*** SHOW DOWN ***
+Hero: shows [Ks 9d]
+the_nuts_42: shows [8c Ts]
+ColdDeck_Carl: shows [Qd 2c]
+StackEmUp: shows [2d Ad]
+LooseGoose: shows [4d 3s]
+ValueTown_Mayor: shows [5c 6s]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [Js 5h 9h Qc 3c]
+Seat 1: Hero lost
+Seat 2: the_nuts_42 (button) lost
+Seat 3: ColdDeck_Carl (small blind) lost
+Seat 4: StackEmUp (big blind) lost
+Seat 5: LooseGoose lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #27: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:48:21 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: NiceCatch88 ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 6h]
+NiceCatch88: folds
+Hero: folds
+RunBadFeelGood: raises $2.30 to $2.30
+CardDead_Chris: folds
+3BetBandit: folds
+NLHE_Grinder: folds
+Uncalled bet ($2.30) returned to RunBadFeelGood
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood lost
+Seat 3: CardDead_Chris (button) lost
+Seat 4: 3BetBandit (small blind) lost
+Seat 5: NLHE_Grinder (big blind) lost
+Seat 6: NiceCatch88 lost
+
+PokerStars Hand #28: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:49:26 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: MegaTilt ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+bluff_catcher: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 4d]
+Hero: folds
+FoldPre2024: raises $2.00 to $2.00
+CardDead_Chris: folds
+SuitsMe: raises $7.50 to $7.50
+MegaTilt: folds
+bluff_catcher: calls $6.50
+FoldPre2024: folds
+*** FLOP *** [3c 3d 6d]
+bluff_catcher: checks
+SuitsMe: checks
+*** TURN *** [3c 3d 6d] [8s]
+bluff_catcher: checks
+SuitsMe: checks
+*** RIVER *** [3c 3d 6d 8s] [Kc]
+bluff_catcher: checks
+SuitsMe: checks
+*** SHOW DOWN ***
+Hero: shows [3s 4d]
+FoldPre2024: shows [9h Qh]
+CardDead_Chris: shows [Qs 7s]
+SuitsMe: shows [Jh Ad]
+MegaTilt: shows [Ks 7d]
+bluff_catcher: shows [Th Ah]
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.00
+Board [3c 3d 6d 8s Kc]
+Seat 1: Hero lost
+Seat 2: FoldPre2024 lost
+Seat 3: CardDead_Chris lost
+Seat 4: SuitsMe (button) lost
+Seat 5: MegaTilt (small blind) lost
+Seat 6: bluff_catcher (big blind) lost
+
+PokerStars Hand #29: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:49:42 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SteadyEddie ($100.00 in chips)
+Seat 3: ColdDeck_Carl ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: DonkeyKong42 ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh Td]
+SteadyEddie: folds
+ColdDeck_Carl: folds
+RunBadFeelGood: raises $2.30 to $2.30
+RunItTwice: folds
+DonkeyKong42: folds
+Hero: raises $12.50 to $13.50
+RunBadFeelGood: folds
+Uncalled bet ($12.50) returned to Hero
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SteadyEddie lost
+Seat 3: ColdDeck_Carl lost
+Seat 4: RunBadFeelGood lost
+Seat 5: RunItTwice (button) lost
+Seat 6: DonkeyKong42 (small blind) lost
+
+PokerStars Hand #30: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:50:10 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: OverBet4Value ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+Hero: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h Tc]
+SteadyEddie: folds
+the_nuts_42: raises $2.00 to $2.00
+FoldPre2024: folds
+RunBadFeelGood: folds
+Hero: folds
+OverBet4Value: folds
+Uncalled bet ($2.00) returned to the_nuts_42
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: OverBet4Value (big blind) lost
+Seat 3: SteadyEddie lost
+Seat 4: the_nuts_42 lost
+Seat 5: FoldPre2024 lost
+Seat 6: RunBadFeelGood (button) lost
+
+PokerStars Hand #31: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:50:23 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc Qs]
+FlopZilla: folds
+FoldPre2024: folds
+ValueTown_Mayor: folds
+Hero: raises $2.50 to $2.50
+FishOnTilt: folds
+OverBet4Value: raises $12.00 to $13.00
+Hero: folds
+Uncalled bet ($12.00) returned to OverBet4Value
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FishOnTilt (small blind) lost
+Seat 3: OverBet4Value (big blind) lost
+Seat 4: FlopZilla lost
+Seat 5: FoldPre2024 lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #32: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:51:45 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: SteadyEddie ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Ks]
+SteadyEddie: raises $2.00 to $2.00
+CheckRaiseKing: folds
+Hero: raises $6.50 to $6.50
+the_nuts_42: folds
+GTO_Wizard: folds
+TightIsRight: folds
+SteadyEddie: raises $16.00 to $18.00
+Hero: raises $93.50 to $100.00
+SteadyEddie: calls $82.00
+*** FLOP *** [9c Ad 8d]
+SteadyEddie: checks
+Hero: checks
+*** TURN *** [9c Ad 8d] [Qh]
+SteadyEddie: checks
+Hero: checks
+*** RIVER *** [9c Ad 8d Qh] [4s]
+SteadyEddie: checks
+Hero: checks
+*** SHOW DOWN ***
+Hero: shows [Kc Ks]
+the_nuts_42: shows [Js 5c]
+GTO_Wizard: shows [9d 7h]
+TightIsRight: shows [7s Qd]
+SteadyEddie: shows [Kd Ah]
+CheckRaiseKing: shows [Ts 3s]
+*** SUMMARY ***
+Total pot $201.50 | Rake $0.00
+Board [9c Ad 8d Qh 4s]
+Seat 1: Hero lost
+Seat 2: the_nuts_42 (button) lost
+Seat 3: GTO_Wizard (small blind) lost
+Seat 4: TightIsRight (big blind) lost
+Seat 5: SteadyEddie lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #33: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:51:50 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: NiceCatch88 ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2s Ts]
+SuitsMe: folds
+Hero: folds
+the_nuts_42: raises $2.30 to $2.30
+SharkBait55: raises $7.50 to $7.50
+NiceCatch88: folds
+FishOnTilt: folds
+the_nuts_42: folds
+Uncalled bet ($7.50) returned to SharkBait55
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: the_nuts_42 lost
+Seat 3: SharkBait55 (button) lost
+Seat 4: NiceCatch88 (small blind) lost
+Seat 5: FishOnTilt (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #34: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:51:57 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: NLHE_Grinder ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Th]
+Hero: folds
+bluff_catcher: raises $2.00 to $2.00
+AcesUpMySleeve: folds
+FoldPre2024: folds
+QuadsOrFold: folds
+NLHE_Grinder: calls $1.00
+*** FLOP *** [Ah 9s 7d]
+NLHE_Grinder: checks
+bluff_catcher: checks
+*** TURN *** [Ah 9s 7d] [8s]
+NLHE_Grinder: checks
+bluff_catcher: checks
+*** RIVER *** [Ah 9s 7d 8s] [6s]
+NLHE_Grinder: checks
+bluff_catcher: checks
+*** SHOW DOWN ***
+Hero: shows [Ks Th]
+bluff_catcher: shows [Jd Ac]
+AcesUpMySleeve: shows [Jc Qh]
+FoldPre2024: shows [Qc 7s]
+QuadsOrFold: shows [7c 3h]
+NLHE_Grinder: shows [Td 8d]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Ah 9s 7d 8s 6s]
+Seat 1: Hero lost
+Seat 2: bluff_catcher lost
+Seat 3: AcesUpMySleeve lost
+Seat 4: FoldPre2024 (button) lost
+Seat 5: QuadsOrFold (small blind) lost
+Seat 6: NLHE_Grinder (big blind) lost
+
+PokerStars Hand #35: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:52:18 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: QuietNit ($100.00 in chips)
+Seat 6: 4betJam ($100.00 in chips)
+4betJam: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 8h]
+ChetFaker99: folds
+AggroManiac: folds
+OverBet4Value: folds
+QuietNit: raises $2.50 to $2.50
+4betJam: folds
+Hero: folds
+Uncalled bet ($2.50) returned to QuietNit
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: ChetFaker99 lost
+Seat 3: AggroManiac lost
+Seat 4: OverBet4Value lost
+Seat 5: QuietNit (button) lost
+Seat 6: 4betJam (small blind) lost
+
+PokerStars Hand #36: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:52:27 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+Hero: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 3d]
+TriplBarrel: raises $2.00 to $2.00
+AggroManiac: raises $6.50 to $6.50
+the_nuts_42: folds
+ColdDeck_Carl: folds
+Hero: folds
+TiltMachine: folds
+TriplBarrel: folds
+Uncalled bet ($6.50) returned to AggroManiac
+*** SUMMARY ***
+Total pot $10.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: TiltMachine (big blind) lost
+Seat 3: TriplBarrel lost
+Seat 4: AggroManiac lost
+Seat 5: the_nuts_42 lost
+Seat 6: ColdDeck_Carl (button) lost
+
+PokerStars Hand #37: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:52:34 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: SharkBait55 ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: DonkeyKong42 ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 8s]
+SharkBait55: folds
+QuadsOrFold: folds
+DonkeyKong42: folds
+Hero: folds
+NiceCatch88: raises $2.50 to $3.00
+PocketRockets: folds
+Uncalled bet ($2.50) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NiceCatch88 (small blind) lost
+Seat 3: PocketRockets (big blind) lost
+Seat 4: SharkBait55 lost
+Seat 5: QuadsOrFold lost
+Seat 6: DonkeyKong42 lost
+
+PokerStars Hand #38: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:52:39 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: DonkeyKong42 ($100.00 in chips)
+SuckoutKid: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Jd]
+ValueTown_Mayor: folds
+DonkeyKong42: raises $2.00 to $2.00
+Hero: folds
+GTO_Wizard: folds
+SuckoutKid: folds
+BarrelHouse: folds
+Uncalled bet ($2.00) returned to DonkeyKong42
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard (button) lost
+Seat 3: SuckoutKid (small blind) lost
+Seat 4: BarrelHouse (big blind) lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: DonkeyKong42 lost
+
+PokerStars Hand #39: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:01 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+SnapFold: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 8c]
+TightIsRight: folds
+Hero: raises $2.00 to $2.00
+NiceCatch88: folds
+Button_Clicker: folds
+SnapFold: folds
+BarrelHouse: calls $1.00
+*** FLOP *** [5h 3c 7h]
+BarrelHouse: checks
+Hero: bets $3.02
+BarrelHouse: folds
+Uncalled bet ($3.02) returned to Hero
+*** SUMMARY ***
+Total pot $7.52 | Rake $0.00
+Board [5h 3c 7h]
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: Button_Clicker (button) lost
+Seat 4: SnapFold (small blind) lost
+Seat 5: BarrelHouse (big blind) lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #40: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:04 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuckoutKid ($100.00 in chips)
+Seat 3: FlushDraw_Hero ($100.00 in chips)
+Seat 4: TheGrinder ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: StackEmUp ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 9c]
+Hero: folds
+SuckoutKid: folds
+FlushDraw_Hero: folds
+TheGrinder: folds
+TriplBarrel: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuckoutKid lost
+Seat 3: FlushDraw_Hero lost
+Seat 4: TheGrinder (button) lost
+Seat 5: TriplBarrel (small blind) lost
+Seat 6: StackEmUp (big blind) lost
+
+PokerStars Hand #41: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:15 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: the_nuts_42 ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+SlowRoll_Sam: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 6c]
+SetMiner_Pro: folds
+the_nuts_42: folds
+DonkeyKong42: folds
+SharkBait55: raises $2.50 to $2.50
+SlowRoll_Sam: folds
+Hero: folds
+Uncalled bet ($2.50) returned to SharkBait55
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SetMiner_Pro lost
+Seat 3: the_nuts_42 lost
+Seat 4: DonkeyKong42 lost
+Seat 5: SharkBait55 (button) lost
+Seat 6: SlowRoll_Sam (small blind) lost
+
+PokerStars Hand #42: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:21 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: StackEmUp ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: FishOnTilt ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: QuadsOrFold ($100.00 in chips)
+Hero: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c 6s]
+MegaTilt: raises $2.00 to $2.00
+FishOnTilt: folds
+AggroManiac: folds
+QuadsOrFold: folds
+Hero: folds
+StackEmUp: folds
+Uncalled bet ($2.00) returned to MegaTilt
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: StackEmUp (big blind) lost
+Seat 3: MegaTilt lost
+Seat 4: FishOnTilt lost
+Seat 5: AggroManiac lost
+Seat 6: QuadsOrFold (button) lost
+
+PokerStars Hand #43: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:27 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SharkBait55 ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s 4h]
+SnapFold: folds
+RunItTwice: folds
+NittyProfessor: raises $2.30 to $2.30
+Hero: folds
+SharkBait55: folds
+PotCommitted: folds
+Uncalled bet ($2.30) returned to NittyProfessor
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SharkBait55 (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: SnapFold lost
+Seat 5: RunItTwice lost
+Seat 6: NittyProfessor lost
+
+PokerStars Hand #44: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:35 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: ColdDeck_Carl ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: SteadyEddie ($100.00 in chips)
+Seat 6: PocketRockets ($100.00 in chips)
+ColdDeck_Carl: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 8c]
+SteadyEddie: folds
+PocketRockets: folds
+Hero: folds
+BarrelHouse: folds
+ColdDeck_Carl: raises $2.50 to $3.00
+FoldPre2024: calls $2.00
+*** FLOP *** [Js 6c 3h]
+ColdDeck_Carl: checks
+FoldPre2024: checks
+*** TURN *** [Js 6c 3h] [Jh]
+ColdDeck_Carl: checks
+FoldPre2024: checks
+*** RIVER *** [Js 6c 3h Jh] [Qs]
+ColdDeck_Carl: checks
+FoldPre2024: checks
+*** SHOW DOWN ***
+Hero: shows [3c 8c]
+BarrelHouse: shows [7s 2c]
+ColdDeck_Carl: shows [7d 7c]
+FoldPre2024: shows [9d Jd]
+SteadyEddie: shows [4s 6s]
+PocketRockets: shows [9c Th]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [Js 6c 3h Jh Qs]
+Seat 1: Hero lost
+Seat 2: BarrelHouse (button) lost
+Seat 3: ColdDeck_Carl (small blind) lost
+Seat 4: FoldPre2024 (big blind) lost
+Seat 5: SteadyEddie lost
+Seat 6: PocketRockets lost
+
+PokerStars Hand #45: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:37 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuckoutKid ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 3c]
+ChetFaker99: folds
+Hero: folds
+the_nuts_42: raises $2.30 to $2.30
+TiltMachine: folds
+WetBoard_Willy: folds
+SuckoutKid: folds
+Uncalled bet ($2.30) returned to the_nuts_42
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: the_nuts_42 lost
+Seat 3: TiltMachine (button) lost
+Seat 4: WetBoard_Willy (small blind) lost
+Seat 5: SuckoutKid (big blind) lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #46: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:41 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: ColdDeck_Carl ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+ColdDeck_Carl: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Tc]
+Hero: folds
+RunBadFeelGood: folds
+Bluffy_McBluff: folds
+SuitsMe: folds
+ColdDeck_Carl: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood lost
+Seat 3: Bluffy_McBluff lost
+Seat 4: SuitsMe (button) lost
+Seat 5: ColdDeck_Carl (small blind) lost
+Seat 6: FoldPre2024 (big blind) lost
+
+PokerStars Hand #47: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:53:58 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SlowRoll_Sam ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: CheckRaiseKing ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Kh]
+SlowRoll_Sam: folds
+QuietNit: folds
+AggroManiac: folds
+CheckRaiseKing: raises $2.50 to $2.50
+Button_Clicker: folds
+Hero: raises $12.00 to $13.00
+CheckRaiseKing: folds
+Uncalled bet ($12.00) returned to Hero
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SlowRoll_Sam lost
+Seat 3: QuietNit lost
+Seat 4: AggroManiac lost
+Seat 5: CheckRaiseKing (button) lost
+Seat 6: Button_Clicker (small blind) lost
+
+PokerStars Hand #48: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:54:19 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuietNit ($100.00 in chips)
+Seat 3: SBvsUTG ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: MegaTilt ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+Hero: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Tc]
+SBvsUTG: raises $2.00 to $2.00
+FlopZilla: folds
+MegaTilt: folds
+FishOnTilt: folds
+Hero: folds
+QuietNit: calls $1.00
+*** FLOP *** [3d Qh Td]
+QuietNit: checks
+SBvsUTG: checks
+*** TURN *** [3d Qh Td] [4d]
+QuietNit: checks
+SBvsUTG: checks
+*** RIVER *** [3d Qh Td 4d] [Ah]
+QuietNit: checks
+SBvsUTG: checks
+*** SHOW DOWN ***
+Hero: shows [8c Tc]
+QuietNit: shows [3c Ac]
+SBvsUTG: shows [7c 7s]
+FlopZilla: shows [Ks 7h]
+MegaTilt: shows [6s 5d]
+FishOnTilt: shows [Kh 8h]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [3d Qh Td 4d Ah]
+Seat 1: Hero (small blind) lost
+Seat 2: QuietNit (big blind) lost
+Seat 3: SBvsUTG lost
+Seat 4: FlopZilla lost
+Seat 5: MegaTilt lost
+Seat 6: FishOnTilt (button) lost
+
+PokerStars Hand #49: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:54:54 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: CheckRaiseKing ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h Kc]
+ValueTown_Mayor: folds
+QuadsOrFold: folds
+Button_Clicker: folds
+Hero: raises $2.50 to $2.50
+RunBadFeelGood: folds
+CheckRaiseKing: calls $1.50
+*** FLOP *** [Ad 2h 4d]
+CheckRaiseKing: checks
+Hero: checks
+*** TURN *** [Ad 2h 4d] [Td]
+CheckRaiseKing: checks
+Hero: checks
+*** RIVER *** [Ad 2h 4d Td] [Ac]
+CheckRaiseKing: checks
+Hero: bets $3.69
+CheckRaiseKing: folds
+Uncalled bet ($3.69) returned to Hero
+*** SHOW DOWN ***
+Hero: shows [9h Kc]
+RunBadFeelGood: shows [8c 5c]
+CheckRaiseKing: shows [8s 6s]
+ValueTown_Mayor: shows [3d 2s]
+QuadsOrFold: shows [3h Qd]
+Button_Clicker: shows [6d 7h]
+*** SUMMARY ***
+Total pot $9.19 | Rake $0.00
+Board [Ad 2h 4d Td Ac]
+Seat 1: Hero (button) lost
+Seat 2: RunBadFeelGood (small blind) lost
+Seat 3: CheckRaiseKing (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: QuadsOrFold lost
+Seat 6: Button_Clicker lost
+
+PokerStars Hand #50: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:01 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: DonkeyKong42 ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 2d]
+NittyProfessor: folds
+DonkeyKong42: folds
+Hero: folds
+SetMiner_Pro: folds
+RunItTwice: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: RunItTwice (small blind) lost
+Seat 4: SuitsMe (big blind) lost
+Seat 5: NittyProfessor lost
+Seat 6: DonkeyKong42 lost
+
+PokerStars Hand #51: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:04 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ValueTown_Mayor ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: Button_Clicker ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 2h]
+LooseGoose: folds
+Hero: folds
+ValueTown_Mayor: raises $2.30 to $2.30
+BarrelHouse: folds
+Button_Clicker: folds
+DonkeyKong42: folds
+Uncalled bet ($2.30) returned to ValueTown_Mayor
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ValueTown_Mayor lost
+Seat 3: BarrelHouse (button) lost
+Seat 4: Button_Clicker (small blind) lost
+Seat 5: DonkeyKong42 (big blind) lost
+Seat 6: LooseGoose lost
+
+PokerStars Hand #52: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:06 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 6c]
+Hero: folds
+PotCommitted: folds
+CardDead_Chris: folds
+bluff_catcher: folds
+TheGrinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted lost
+Seat 3: CardDead_Chris lost
+Seat 4: bluff_catcher (button) lost
+Seat 5: TheGrinder (small blind) lost
+Seat 6: TightIsRight (big blind) lost
+
+PokerStars Hand #53: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:31 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: 4betJam ($100.00 in chips)
+Seat 5: FishOnTilt ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+SnapFold: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 8h]
+SuitsMe: folds
+TriplBarrel: raises $2.00 to $2.00
+4betJam: folds
+FishOnTilt: folds
+SnapFold: folds
+Hero: calls $1.00
+*** FLOP *** [9d Tc Jh]
+Hero: checks
+TriplBarrel: checks
+*** TURN *** [9d Tc Jh] [Ts]
+Hero: bets $3.38
+TriplBarrel: folds
+Uncalled bet ($3.38) returned to Hero
+*** SUMMARY ***
+Total pot $7.88 | Rake $0.00
+Board [9d Tc Jh Ts]
+Seat 1: Hero (big blind) lost
+Seat 2: SuitsMe lost
+Seat 3: TriplBarrel lost
+Seat 4: 4betJam lost
+Seat 5: FishOnTilt (button) lost
+Seat 6: SnapFold (small blind) lost
+
+PokerStars Hand #54: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:44 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: DonkeyKong42 ($100.00 in chips)
+Seat 5: ColdDeck_Carl ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+Hero: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 8s]
+CardDead_Chris: raises $2.00 to $2.00
+DonkeyKong42: folds
+ColdDeck_Carl: folds
+SteadyEddie: folds
+Hero: folds
+RunItTwice: folds
+Uncalled bet ($2.00) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: RunItTwice (big blind) lost
+Seat 3: CardDead_Chris lost
+Seat 4: DonkeyKong42 lost
+Seat 5: ColdDeck_Carl lost
+Seat 6: SteadyEddie (button) lost
+
+PokerStars Hand #55: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:55:56 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: TightIsRight ($100.00 in chips)
+Seat 5: QuietNit ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As Js]
+TightIsRight: folds
+QuietNit: raises $2.00 to $2.00
+NittyProfessor: folds
+Hero: raises $7.50 to $7.50
+PotCommitted: folds
+LooseGoose: folds
+QuietNit: folds
+Uncalled bet ($7.50) returned to Hero
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: PotCommitted (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: TightIsRight lost
+Seat 5: QuietNit lost
+Seat 6: NittyProfessor lost
+
+PokerStars Hand #56: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:56:06 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: the_nuts_42 ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: ValueTown_Mayor ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 8s]
+xXPokerProXx: folds
+ValueTown_Mayor: folds
+Hero: folds
+3BetBandit: folds
+the_nuts_42: raises $2.50 to $3.00
+StackEmUp: calls $2.00
+*** FLOP *** [9s Js Jh]
+the_nuts_42: checks
+StackEmUp: checks
+*** TURN *** [9s Js Jh] [5d]
+the_nuts_42: checks
+StackEmUp: checks
+*** RIVER *** [9s Js Jh 5d] [7c]
+the_nuts_42: checks
+StackEmUp: checks
+*** SHOW DOWN ***
+Hero: shows [2h 8s]
+3BetBandit: shows [3c 2c]
+the_nuts_42: shows [Qc Jd]
+StackEmUp: shows [Ah 9d]
+xXPokerProXx: shows [6c 8c]
+ValueTown_Mayor: shows [6h 8d]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [9s Js Jh 5d 7c]
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: the_nuts_42 (small blind) lost
+Seat 4: StackEmUp (big blind) lost
+Seat 5: xXPokerProXx lost
+Seat 6: ValueTown_Mayor lost
+
+PokerStars Hand #57: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:56:10 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: CardDead_Chris ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: 4betJam ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d Qs]
+4betJam: folds
+Hero: folds
+RunItTwice: folds
+AcesUpMySleeve: raises $2.50 to $2.50
+CardDead_Chris: folds
+ValueTown_Mayor: folds
+Uncalled bet ($2.50) returned to AcesUpMySleeve
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunItTwice lost
+Seat 3: AcesUpMySleeve (button) lost
+Seat 4: CardDead_Chris (small blind) lost
+Seat 5: ValueTown_Mayor (big blind) lost
+Seat 6: 4betJam lost
+
+PokerStars Hand #58: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:56:15 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: FoldPre2024 ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: CardDead_Chris ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 2h]
+Hero: folds
+MegaTilt: raises $2.00 to $2.00
+FoldPre2024: folds
+BarrelHouse: folds
+TightIsRight: folds
+CardDead_Chris: folds
+Uncalled bet ($2.00) returned to MegaTilt
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt lost
+Seat 3: FoldPre2024 lost
+Seat 4: BarrelHouse (button) lost
+Seat 5: TightIsRight (small blind) lost
+Seat 6: CardDead_Chris (big blind) lost
+
+PokerStars Hand #59: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:56:48 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: LooseGoose ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 4s]
+FishOnTilt: folds
+SuckoutKid: folds
+RunItTwice: folds
+FlopZilla: raises $2.50 to $2.50
+LooseGoose: folds
+Hero: calls $1.50
+*** FLOP *** [8h 3s Jh]
+Hero: checks
+FlopZilla: checks
+*** TURN *** [8h 3s Jh] [Td]
+Hero: checks
+FlopZilla: checks
+*** RIVER *** [8h 3s Jh Td] [4h]
+Hero: bets $3.69
+FlopZilla: folds
+Uncalled bet ($3.69) returned to Hero
+*** SHOW DOWN ***
+Hero: shows [4c 4s]
+FishOnTilt: shows [3c 2d]
+SuckoutKid: shows [6s 7h]
+RunItTwice: shows [2c Qs]
+FlopZilla: shows [9s Jc]
+LooseGoose: shows [9d 8d]
+*** SUMMARY ***
+Total pot $9.19 | Rake $0.00
+Board [8h 3s Jh Td 4h]
+Seat 1: Hero (big blind) lost
+Seat 2: FishOnTilt lost
+Seat 3: SuckoutKid lost
+Seat 4: RunItTwice lost
+Seat 5: FlopZilla (button) lost
+Seat 6: LooseGoose (small blind) lost
+
+PokerStars Hand #60: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:04 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: Bluffy_McBluff ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+Hero: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Qs]
+Bluffy_McBluff: raises $2.00 to $2.00
+LooseGoose: folds
+QuadsOrFold: folds
+TightIsRight: raises $7.50 to $7.50
+Hero: folds
+SnapFold: folds
+Bluffy_McBluff: raises $18.00 to $20.00
+TightIsRight: folds
+Uncalled bet ($18.00) returned to Bluffy_McBluff
+*** SUMMARY ***
+Total pot $29.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: SnapFold (big blind) lost
+Seat 3: Bluffy_McBluff lost
+Seat 4: LooseGoose lost
+Seat 5: QuadsOrFold lost
+Seat 6: TightIsRight (button) lost
+
+PokerStars Hand #61: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:13 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: MegaTilt ($100.00 in chips)
+Seat 5: FlushDraw_Hero ($100.00 in chips)
+Seat 6: AcesUpMySleeve ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js Ac]
+MegaTilt: folds
+FlushDraw_Hero: folds
+AcesUpMySleeve: folds
+Hero: raises $2.50 to $2.50
+the_nuts_42: folds
+DonkeyKong42: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: the_nuts_42 (small blind) lost
+Seat 3: DonkeyKong42 (big blind) lost
+Seat 4: MegaTilt lost
+Seat 5: FlushDraw_Hero lost
+Seat 6: AcesUpMySleeve lost
+
+PokerStars Hand #62: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:23 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NLHE_Grinder ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: FlushDraw_Hero ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 8c]
+FlushDraw_Hero: folds
+FlopZilla: folds
+Hero: folds
+NLHE_Grinder: folds
+BarrelHouse: raises $2.50 to $3.00
+RunItTwice: folds
+Uncalled bet ($2.50) returned to BarrelHouse
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NLHE_Grinder (button) lost
+Seat 3: BarrelHouse (small blind) lost
+Seat 4: RunItTwice (big blind) lost
+Seat 5: FlushDraw_Hero lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #63: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:27 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: FoldPre2024 ($100.00 in chips)
+Seat 4: PotCommitted ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: SlowRoll_Sam ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 3s]
+SlowRoll_Sam: raises $2.00 to $2.00
+Hero: folds
+DonkeyKong42: folds
+FoldPre2024: folds
+PotCommitted: raises $9.50 to $10.00
+BarrelHouse: folds
+SlowRoll_Sam: folds
+Uncalled bet ($9.50) returned to PotCommitted
+*** SUMMARY ***
+Total pot $13.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 lost
+Seat 3: FoldPre2024 (button) lost
+Seat 4: PotCommitted (small blind) lost
+Seat 5: BarrelHouse (big blind) lost
+Seat 6: SlowRoll_Sam lost
+
+PokerStars Hand #64: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:31 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: FoldPre2024 ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s 7c]
+Hero: folds
+LooseGoose: raises $2.00 to $2.00
+SetMiner_Pro: folds
+RunItTwice: folds
+WetBoard_Willy: folds
+FoldPre2024: folds
+Uncalled bet ($2.00) returned to LooseGoose
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: LooseGoose lost
+Seat 3: SetMiner_Pro lost
+Seat 4: RunItTwice (button) lost
+Seat 5: WetBoard_Willy (small blind) lost
+Seat 6: FoldPre2024 (big blind) lost
+
+PokerStars Hand #65: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:45 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: CheckRaiseKing ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: CardDead_Chris ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td Jh]
+NiceCatch88: raises $2.00 to $2.00
+CheckRaiseKing: folds
+LooseGoose: folds
+CardDead_Chris: folds
+NittyProfessor: raises $9.50 to $10.00
+Hero: folds
+NiceCatch88: calls $8.00
+*** FLOP *** [Kh 3d 8h]
+NittyProfessor: checks
+NiceCatch88: checks
+*** TURN *** [Kh 3d 8h] [As]
+NittyProfessor: checks
+NiceCatch88: checks
+*** RIVER *** [Kh 3d 8h As] [8s]
+NittyProfessor: checks
+NiceCatch88: checks
+*** SHOW DOWN ***
+Hero: shows [Td Jh]
+NiceCatch88: shows [Ts Tc]
+CheckRaiseKing: shows [9h Ad]
+LooseGoose: shows [Ac 7c]
+CardDead_Chris: shows [4c 6d]
+NittyProfessor: shows [9s 9c]
+*** SUMMARY ***
+Total pot $21.00 | Rake $0.00
+Board [Kh 3d 8h As 8s]
+Seat 1: Hero (big blind) lost
+Seat 2: NiceCatch88 lost
+Seat 3: CheckRaiseKing lost
+Seat 4: LooseGoose lost
+Seat 5: CardDead_Chris (button) lost
+Seat 6: NittyProfessor (small blind) lost
+
+PokerStars Hand #66: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:57:53 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Button_Clicker ($100.00 in chips)
+Seat 3: CheckRaiseKing ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+Hero: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Jc]
+CheckRaiseKing: folds
+FlopZilla: folds
+RunBadFeelGood: folds
+SteadyEddie: folds
+Hero: raises $2.50 to $3.00
+Button_Clicker: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: Button_Clicker (big blind) lost
+Seat 3: CheckRaiseKing lost
+Seat 4: FlopZilla lost
+Seat 5: RunBadFeelGood lost
+Seat 6: SteadyEddie (button) lost
+
+PokerStars Hand #67: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:58:01 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: SteadyEddie ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: PotCommitted ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 6c]
+QuietNit: folds
+TightIsRight: folds
+PotCommitted: folds
+Hero: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuitsMe (small blind) lost
+Seat 3: SteadyEddie (big blind) lost
+Seat 4: QuietNit lost
+Seat 5: TightIsRight lost
+Seat 6: PotCommitted lost
+
+PokerStars Hand #68: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:58:08 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SharkBait55 ($100.00 in chips)
+Seat 3: StackEmUp ($100.00 in chips)
+Seat 4: CardDead_Chris ($100.00 in chips)
+Seat 5: AggroManiac ($100.00 in chips)
+Seat 6: QuadsOrFold ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 4s]
+AggroManiac: folds
+QuadsOrFold: folds
+Hero: folds
+SharkBait55: folds
+StackEmUp: raises $2.50 to $3.00
+CardDead_Chris: calls $2.00
+*** FLOP *** [Td 2d Ts]
+StackEmUp: checks
+CardDead_Chris: checks
+*** TURN *** [Td 2d Ts] [Qd]
+StackEmUp: checks
+CardDead_Chris: checks
+*** RIVER *** [Td 2d Ts Qd] [Ah]
+StackEmUp: checks
+CardDead_Chris: checks
+*** SHOW DOWN ***
+Hero: shows [3d 4s]
+SharkBait55: shows [3h 2s]
+StackEmUp: shows [9c 9h]
+CardDead_Chris: shows [Kd 7h]
+AggroManiac: shows [9s 7c]
+QuadsOrFold: shows [9d 3s]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [Td 2d Ts Qd Ah]
+Seat 1: Hero lost
+Seat 2: SharkBait55 (button) lost
+Seat 3: StackEmUp (small blind) lost
+Seat 4: CardDead_Chris (big blind) lost
+Seat 5: AggroManiac lost
+Seat 6: QuadsOrFold lost
+
+PokerStars Hand #69: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:58:17 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: TiltMachine ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 8c]
+SuckoutKid: folds
+Hero: raises $2.00 to $2.00
+PotCommitted: folds
+FishOnTilt: folds
+TiltMachine: folds
+GTO_Wizard: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted lost
+Seat 3: FishOnTilt (button) lost
+Seat 4: TiltMachine (small blind) lost
+Seat 5: GTO_Wizard (big blind) lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #72: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:58:38 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ChetFaker99 ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+SnapFold: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s 4d]
+ValueTown_Mayor: folds
+OverBet4Value: raises $2.00 to $2.00
+Hero: folds
+SnapFold: folds
+ChetFaker99: calls $1.00
+ChetFaker99: checks
+OverBet4Value: checks
+ChetFaker99: checks
+OverBet4Value: checks
+ChetFaker99: checks
+OverBet4Value: checks
+*** FLOP *** [6h 4c 2d]
+*** TURN *** [6h 4c 2d] [5c]
+*** RIVER *** [6h 4c 2d 5c] [7c]
+*** SHOW DOWN ***
+Hero: shows [5s 4d]
+SnapFold: shows [Jh 8s]
+ChetFaker99: shows [Ac 6c]
+ValueTown_Mayor: shows [9d 3h]
+OverBet4Value: shows [8h 7h]
+CheckRaiseKing: shows [5d 4h]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [6h 4c 2d 5c 7c]
+Seat 1: Hero (button) lost
+Seat 2: SnapFold (small blind) lost
+Seat 3: ChetFaker99 (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: OverBet4Value lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #70: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:58:55 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: ChetFaker99 ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd Ac]
+Hero: folds
+SnapFold: folds
+ChetFaker99: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: ChetFaker99 lost
+Seat 4: ValueTown_Mayor (button) lost
+Seat 5: OverBet4Value (small blind) lost
+Seat 6: CheckRaiseKing (big blind) lost
+
+PokerStars Hand #74: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:59:10 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: xXPokerProXx ($100.00 in chips)
+Seat 3: SharkBait55 ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 8d]
+OverBet4Value: folds
+Hero: folds
+xXPokerProXx: folds
+SharkBait55: raises $2.50 to $2.50
+ChetFaker99: folds
+ValueTown_Mayor: calls $1.50
+*** FLOP *** [3d Ac 5h]
+ValueTown_Mayor: checks
+SharkBait55: checks
+*** TURN *** [3d Ac 5h] [7s]
+ValueTown_Mayor: checks
+SharkBait55: checks
+*** RIVER *** [3d Ac 5h 7s] [Qd]
+ValueTown_Mayor: checks
+SharkBait55: checks
+*** SHOW DOWN ***
+Hero: shows [9s 8d]
+xXPokerProXx: shows [Tc 2s]
+SharkBait55: shows [Ks Qs]
+ChetFaker99: shows [Td 7d]
+ValueTown_Mayor: shows [8s 7c]
+OverBet4Value: shows [Ts 3c]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [3d Ac 5h 7s Qd]
+Seat 1: Hero lost
+Seat 2: xXPokerProXx lost
+Seat 3: SharkBait55 (button) lost
+Seat 4: ChetFaker99 (small blind) lost
+Seat 5: ValueTown_Mayor (big blind) lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #73: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:59:42 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: SlowRoll_Sam ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 2d]
+RunItTwice: raises $2.00 to $2.00
+SBvsUTG: folds
+Hero: folds
+MegaTilt: folds
+TightIsRight: folds
+SlowRoll_Sam: folds
+*** FLOP *** [Qd 2h Jc]
+RunItTwice: checks
+*** TURN *** [Qd 2h Jc] [8c]
+SBvsUTG: checks
+RunItTwice: checks
+*** RIVER *** [Qd 2h Jc 8c] [Js]
+SBvsUTG: checks
+RunItTwice: checks
+SBvsUTG: checks
+Uncalled bet ($2.00) returned to RunItTwice
+*** SHOW DOWN ***
+Hero: shows [Ks 2d]
+MegaTilt: shows [4s 3s]
+TightIsRight: shows [7h 8d]
+SlowRoll_Sam: shows [9s 7c]
+RunItTwice: shows [As Ah]
+SBvsUTG: shows [6c 9c]
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Board [Qd 2h Jc 8c Js]
+Seat 1: Hero lost
+Seat 2: MegaTilt (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: SlowRoll_Sam (big blind) lost
+Seat 5: RunItTwice lost
+Seat 6: SBvsUTG lost
+
+PokerStars Hand #76: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:59:56 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: NiceCatch88 ($100.00 in chips)
+Seat 5: DonkeyKong42 ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 8s]
+GTO_Wizard: folds
+OverBet4Value: folds
+NiceCatch88: raises $2.30 to $2.30
+DonkeyKong42: folds
+RunItTwice: folds
+Hero: folds
+Uncalled bet ($2.30) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: GTO_Wizard lost
+Seat 3: OverBet4Value lost
+Seat 4: NiceCatch88 lost
+Seat 5: DonkeyKong42 (button) lost
+Seat 6: RunItTwice (small blind) lost
+
+PokerStars Hand #77: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:00:04 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: LooseGoose ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+Hero: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 3c]
+Button_Clicker: folds
+ColdDeck_Carl: folds
+LooseGoose: folds
+NittyProfessor: raises $2.50 to $2.50
+Hero: folds
+NiceCatch88: folds
+Uncalled bet ($2.50) returned to NittyProfessor
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: NiceCatch88 (big blind) lost
+Seat 3: Button_Clicker lost
+Seat 4: ColdDeck_Carl lost
+Seat 5: LooseGoose lost
+Seat 6: NittyProfessor (button) lost
+
+PokerStars Hand #78: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:00:23 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: FoldPre2024 ($100.00 in chips)
+Seat 5: BarrelHouse ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 2s]
+FoldPre2024: folds
+BarrelHouse: folds
+RunItTwice: raises $2.30 to $2.30
+Hero: folds
+GTO_Wizard: folds
+PotCommitted: folds
+Uncalled bet ($2.30) returned to RunItTwice
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: GTO_Wizard (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: FoldPre2024 lost
+Seat 5: BarrelHouse lost
+Seat 6: RunItTwice lost
+
+PokerStars Hand #79: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:00:39 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlushDraw_Hero ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SlowRoll_Sam ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: TheGrinder ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 9d]
+GTO_Wizard: folds
+TheGrinder: folds
+Hero: folds
+FlushDraw_Hero: folds
+DonkeyKong42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FlushDraw_Hero (button) lost
+Seat 3: DonkeyKong42 (small blind) lost
+Seat 4: SlowRoll_Sam (big blind) lost
+Seat 5: GTO_Wizard lost
+Seat 6: TheGrinder lost
+
+PokerStars Hand #80: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:01:45 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: FlushDraw_Hero ($100.00 in chips)
+Seat 4: 4betJam ($100.00 in chips)
+Seat 5: SteadyEddie ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+4betJam: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 4h]
+WetBoard_Willy: folds
+Hero: folds
+RunItTwice: raises $2.30 to $2.30
+FlushDraw_Hero: raises $7.50 to $7.50
+4betJam: folds
+SteadyEddie: folds
+RunItTwice: raises $18.70 to $21.00
+FlushDraw_Hero: calls $13.50
+*** FLOP *** [2c Jd Ks]
+RunItTwice: checks
+FlushDraw_Hero: checks
+*** TURN *** [2c Jd Ks] [7c]
+RunItTwice: checks
+FlushDraw_Hero: checks
+*** RIVER *** [2c Jd Ks 7c] [Tc]
+RunItTwice: checks
+FlushDraw_Hero: checks
+*** SHOW DOWN ***
+Hero: shows [Jh 4h]
+RunItTwice: shows [Ad Ac]
+FlushDraw_Hero: shows [Qh Ah]
+4betJam: shows [Qd 8c]
+SteadyEddie: shows [Qc 6d]
+WetBoard_Willy: shows [Jc 3d]
+*** SUMMARY ***
+Total pot $43.50 | Rake $0.00
+Board [2c Jd Ks 7c Tc]
+Seat 1: Hero lost
+Seat 2: RunItTwice lost
+Seat 3: FlushDraw_Hero (button) lost
+Seat 4: 4betJam (small blind) lost
+Seat 5: SteadyEddie (big blind) lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #81: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:02:30 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FishOnTilt ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 6s]
+Hero: raises $2.00 to $2.00
+FishOnTilt: folds
+LooseGoose: folds
+SuitsMe: raises $7.50 to $7.50
+SBvsUTG: folds
+WetBoard_Willy: folds
+Hero: folds
+Uncalled bet ($7.50) returned to SuitsMe
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FishOnTilt lost
+Seat 3: LooseGoose lost
+Seat 4: SuitsMe (button) lost
+Seat 5: SBvsUTG (small blind) lost
+Seat 6: WetBoard_Willy (big blind) lost
+
+PokerStars Hand #82: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:02:39 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: AcesUpMySleeve ($100.00 in chips)
+Seat 6: CardDead_Chris ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 3s]
+Bluffy_McBluff: folds
+NittyProfessor: folds
+SBvsUTG: folds
+AcesUpMySleeve: folds
+CardDead_Chris: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: Bluffy_McBluff lost
+Seat 3: NittyProfessor lost
+Seat 4: SBvsUTG lost
+Seat 5: AcesUpMySleeve (button) lost
+Seat 6: CardDead_Chris (small blind) lost
+
+PokerStars Hand #83: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:03:02 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: Bluffy_McBluff ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: BarrelHouse ($100.00 in chips)
+Hero: posts small blind $0.50
+RiverRat420: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 6c]
+4betJam: folds
+Bluffy_McBluff: folds
+PocketRockets: folds
+BarrelHouse: raises $2.50 to $2.50
+Hero: folds
+RiverRat420: folds
+Uncalled bet ($2.50) returned to BarrelHouse
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: RiverRat420 (big blind) lost
+Seat 3: 4betJam lost
+Seat 4: Bluffy_McBluff lost
+Seat 5: PocketRockets lost
+Seat 6: BarrelHouse (button) lost
+
+PokerStars Hand #84: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:03:40 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: GTO_Wizard ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: SuckoutKid ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 3h]
+TriplBarrel: folds
+SuckoutKid: folds
+SuitsMe: raises $2.30 to $2.30
+Hero: folds
+3BetBandit: folds
+GTO_Wizard: folds
+Uncalled bet ($2.30) returned to SuitsMe
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 3BetBandit (small blind) lost
+Seat 3: GTO_Wizard (big blind) lost
+Seat 4: TriplBarrel lost
+Seat 5: SuckoutKid lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #85: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:04:00 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: OverBet4Value ($100.00 in chips)
+Seat 3: NLHE_Grinder ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: SteadyEddie ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+NLHE_Grinder: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 5c]
+SteadyEddie: folds
+ChetFaker99: raises $2.00 to $2.00
+Hero: folds
+OverBet4Value: folds
+NLHE_Grinder: folds
+RunItTwice: calls $1.00
+*** FLOP *** [Qh Js 7c]
+RunItTwice: checks
+ChetFaker99: checks
+*** TURN *** [Qh Js 7c] [6c]
+RunItTwice: checks
+ChetFaker99: checks
+*** RIVER *** [Qh Js 7c 6c] [8c]
+RunItTwice: checks
+ChetFaker99: checks
+*** SHOW DOWN ***
+Hero: shows [3h 5c]
+OverBet4Value: shows [Kc 9h]
+NLHE_Grinder: shows [5s 9c]
+RunItTwice: shows [4d 2d]
+SteadyEddie: shows [8d 9s]
+ChetFaker99: shows [As Qc]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [Qh Js 7c 6c 8c]
+Seat 1: Hero lost
+Seat 2: OverBet4Value (button) lost
+Seat 3: NLHE_Grinder (small blind) lost
+Seat 4: RunItTwice (big blind) lost
+Seat 5: SteadyEddie lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #86: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:04:03 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: PotCommitted ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: CardDead_Chris ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+SnapFold: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 9s]
+bluff_catcher: folds
+Hero: folds
+PotCommitted: raises $2.30 to $2.30
+MegaTilt: folds
+SnapFold: folds
+CardDead_Chris: raises $12.50 to $13.50
+PotCommitted: folds
+Uncalled bet ($12.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: PotCommitted lost
+Seat 3: MegaTilt (button) lost
+Seat 4: SnapFold (small blind) lost
+Seat 5: CardDead_Chris (big blind) lost
+Seat 6: bluff_catcher lost
+
+PokerStars Hand #87: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:04:06 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CardDead_Chris ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: 4betJam ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Qc]
+Hero: folds
+CardDead_Chris: folds
+PotCommitted: folds
+4betJam: folds
+PocketRockets: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: CardDead_Chris lost
+Seat 3: PotCommitted lost
+Seat 4: 4betJam (button) lost
+Seat 5: PocketRockets (small blind) lost
+Seat 6: RunItTwice (big blind) lost
+
+PokerStars Hand #88: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:04:15 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 7c]
+MegaTilt: folds
+TheGrinder: folds
+LooseGoose: raises $2.30 to $2.30
+SBvsUTG: folds
+WetBoard_Willy: folds
+Hero: folds
+Uncalled bet ($2.30) returned to LooseGoose
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: MegaTilt lost
+Seat 3: TheGrinder lost
+Seat 4: LooseGoose lost
+Seat 5: SBvsUTG (button) lost
+Seat 6: WetBoard_Willy (small blind) lost
+
+PokerStars Hand #89: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:04:53 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: AggroManiac ($100.00 in chips)
+Seat 4: NiceCatch88 ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+Hero: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 9d]
+AggroManiac: folds
+NiceCatch88: raises $2.00 to $2.00
+NittyProfessor: folds
+SuckoutKid: folds
+Hero: folds
+3BetBandit: folds
+Uncalled bet ($2.00) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: 3BetBandit (big blind) lost
+Seat 3: AggroManiac lost
+Seat 4: NiceCatch88 lost
+Seat 5: NittyProfessor lost
+Seat 6: SuckoutKid (button) lost
+
+PokerStars Hand #90: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:05:08 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: OverBet4Value ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: NiceCatch88 ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+4betJam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh Qd]
+ChetFaker99: folds
+FoldPre2024: raises $2.00 to $2.00
+NiceCatch88: folds
+Hero: raises $7.50 to $7.50
+OverBet4Value: folds
+4betJam: folds
+FoldPre2024: folds
+Uncalled bet ($7.50) returned to Hero
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: OverBet4Value (small blind) lost
+Seat 3: 4betJam (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: FoldPre2024 lost
+Seat 6: NiceCatch88 lost
+
+PokerStars Hand #91: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:05:21 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NittyProfessor ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 8c]
+xXPokerProXx: folds
+FlopZilla: raises $2.00 to $2.00
+Hero: raises $6.50 to $6.50
+NittyProfessor: folds
+AcesUpMySleeve: folds
+ValueTown_Mayor: folds
+FlopZilla: folds
+Uncalled bet ($6.50) returned to Hero
+*** SUMMARY ***
+Total pot $10.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NittyProfessor (button) lost
+Seat 3: AcesUpMySleeve (small blind) lost
+Seat 4: ValueTown_Mayor (big blind) lost
+Seat 5: xXPokerProXx lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #92: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:05:26 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: CheckRaiseKing ($100.00 in chips)
+Seat 4: BarrelHouse ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: TheGrinder ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 7c]
+TheGrinder: folds
+Hero: folds
+SuitsMe: folds
+CheckRaiseKing: folds
+BarrelHouse: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe lost
+Seat 3: CheckRaiseKing (button) lost
+Seat 4: BarrelHouse (small blind) lost
+Seat 5: SBvsUTG (big blind) lost
+Seat 6: TheGrinder lost
+
+PokerStars Hand #93: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:05:35 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: Button_Clicker ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 9c]
+Hero: folds
+NiceCatch88: folds
+SuitsMe: folds
+Button_Clicker: folds
+ValueTown_Mayor: raises $2.50 to $3.00
+ChetFaker99: raises $9.00 to $10.00
+ValueTown_Mayor: folds
+Uncalled bet ($9.00) returned to ChetFaker99
+*** SUMMARY ***
+Total pot $13.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: SuitsMe lost
+Seat 4: Button_Clicker (button) lost
+Seat 5: ValueTown_Mayor (small blind) lost
+Seat 6: ChetFaker99 (big blind) lost
+
+PokerStars Hand #94: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:05:43 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: FlushDraw_Hero ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: QuietNit ($100.00 in chips)
+Seat 6: NiceCatch88 ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 6h]
+WetBoard_Willy: folds
+FlushDraw_Hero: folds
+SetMiner_Pro: folds
+QuietNit: raises $2.50 to $2.50
+NiceCatch88: folds
+Hero: folds
+Uncalled bet ($2.50) returned to QuietNit
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: WetBoard_Willy lost
+Seat 3: FlushDraw_Hero lost
+Seat 4: SetMiner_Pro lost
+Seat 5: QuietNit (button) lost
+Seat 6: NiceCatch88 (small blind) lost
+
+PokerStars Hand #95: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 23:06:09 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: RunBadFeelGood ($100.00 in chips)
+Seat 4: TiltMachine ($100.00 in chips)
+Seat 5: RunItTwice ($100.00 in chips)
+Seat 6: PocketRockets ($100.00 in chips)
+Hero: posts small blind $0.50
+QuadsOrFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2s As]
+RunBadFeelGood: raises $2.00 to $2.00
+TiltMachine: folds
+RunItTwice: folds
+PocketRockets: folds
+Hero: folds
+QuadsOrFold: calls $1.00
+*** FLOP *** [9s 3h 5h]
+QuadsOrFold: checks
+RunBadFeelGood: checks
+*** TURN *** [9s 3h 5h] [6d]
+QuadsOrFold: checks
+RunBadFeelGood: checks
+*** RIVER *** [9s 3h 5h 6d] [3s]
+QuadsOrFold: checks
+RunBadFeelGood: checks
+*** SHOW DOWN ***
+Hero: shows [2s As]
+QuadsOrFold: shows [Ks 7s]
+RunBadFeelGood: shows [Kh Th]
+TiltMachine: shows [4d 7d]
+RunItTwice: shows [6c 6h]
+PocketRockets: shows [Td 4c]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [9s 3h 5h 6d 3s]
+Seat 1: Hero (small blind) lost
+Seat 2: QuadsOrFold (big blind) lost
+Seat 3: RunBadFeelGood lost
+Seat 4: TiltMachine lost
+Seat 5: RunItTwice lost
+Seat 6: PocketRockets (button) lost
+

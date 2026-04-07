@@ -1,0 +1,148 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:05:31 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 2h]
+TriplBarrel: calls $1.00
+QuadsOrFold: folds
+FlushDraw_Hero: folds
+Hero: folds
+SuitsMe: folds
+TheGrinder: checks
+*** FLOP *** [8h Jh 7s]
+TheGrinder: checks
+TriplBarrel: checks
+*** TURN *** [8h Jh 7s] [6h]
+TheGrinder: checks
+TriplBarrel: checks
+*** RIVER *** [8h Jh 7s 6h] [As]
+TheGrinder: checks
+TriplBarrel: checks
+*** SHOW DOWN ***
+Hero: shows [6s 2h]
+SuitsMe: shows [Js 4d]
+TheGrinder: shows [9c 3d]
+TriplBarrel: shows [Ac Qd]
+QuadsOrFold: shows [9h 7c]
+FlushDraw_Hero: shows [3h 4c]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [8h Jh 7s 6h As]
+Seat 1: Hero (button) lost
+Seat 2: SuitsMe (small blind) lost
+Seat 3: TheGrinder (big blind) lost
+Seat 4: TriplBarrel lost
+Seat 5: QuadsOrFold lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:05:47 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+TheGrinder: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As 5d]
+QuadsOrFold: folds
+FlushDraw_Hero: folds
+Hero: folds
+SuitsMe: folds
+TheGrinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe (button) lost
+Seat 3: TheGrinder (small blind) lost
+Seat 4: TriplBarrel (big blind) lost
+Seat 5: QuadsOrFold lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:06:15 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+QuadsOrFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 9c]
+FlushDraw_Hero: folds
+Hero: folds
+SuitsMe: folds
+TheGrinder: folds
+TriplBarrel: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe lost
+Seat 3: TheGrinder (button) lost
+Seat 4: TriplBarrel (small blind) lost
+Seat 5: QuadsOrFold (big blind) lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:06:27 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+FlushDraw_Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7c 8h]
+Hero: folds
+SuitsMe: folds
+TheGrinder: folds
+TriplBarrel: folds
+QuadsOrFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe lost
+Seat 3: TheGrinder lost
+Seat 4: TriplBarrel (button) lost
+Seat 5: QuadsOrFold (small blind) lost
+Seat 6: FlushDraw_Hero (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:06:37 ET
+Table 'Grind Sim IV' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: TriplBarrel ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+FlushDraw_Hero: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Ks]
+SuitsMe: folds
+TheGrinder: folds
+TriplBarrel: folds
+QuadsOrFold: folds
+FlushDraw_Hero: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SuitsMe lost
+Seat 3: TheGrinder lost
+Seat 4: TriplBarrel lost
+Seat 5: QuadsOrFold (button) lost
+Seat 6: FlushDraw_Hero (small blind) lost
+

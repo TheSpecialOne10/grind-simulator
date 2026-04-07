@@ -1,0 +1,136 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:01 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h As]
+ValueTown_Mayor: folds
+Bluffy_McBluff: folds
+RunBadFeelGood: folds
+Hero: raises $2.50 to $2.50
+WetBoard_Willy: folds
+PotCommitted: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: WetBoard_Willy (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:14 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2s 2c]
+Bluffy_McBluff: folds
+RunBadFeelGood: folds
+Hero: raises $2.50 to $2.50
+WetBoard_Willy: folds
+PotCommitted: folds
+ValueTown_Mayor: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: WetBoard_Willy (button) lost
+Seat 3: PotCommitted (small blind) lost
+Seat 4: ValueTown_Mayor (big blind) lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:26 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+Bluffy_McBluff: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs As]
+RunBadFeelGood: folds
+Hero: raises $2.00 to $2.00
+WetBoard_Willy: folds
+PotCommitted: folds
+ValueTown_Mayor: folds
+Bluffy_McBluff: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: WetBoard_Willy lost
+Seat 3: PotCommitted (button) lost
+Seat 4: ValueTown_Mayor (small blind) lost
+Seat 5: Bluffy_McBluff (big blind) lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:36 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 5c]
+Hero: folds
+WetBoard_Willy: folds
+PotCommitted: folds
+ValueTown_Mayor: folds
+Bluffy_McBluff: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: WetBoard_Willy lost
+Seat 3: PotCommitted lost
+Seat 4: ValueTown_Mayor (button) lost
+Seat 5: Bluffy_McBluff (small blind) lost
+Seat 6: RunBadFeelGood (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:36:46 ET
+Table 'Grind Sim IV' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ValueTown_Mayor ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 6h]
+WetBoard_Willy: folds
+PotCommitted: folds
+ValueTown_Mayor: folds
+Bluffy_McBluff: folds
+RunBadFeelGood: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: WetBoard_Willy lost
+Seat 3: PotCommitted lost
+Seat 4: ValueTown_Mayor lost
+Seat 5: Bluffy_McBluff (button) lost
+Seat 6: RunBadFeelGood (small blind) lost
+

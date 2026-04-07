@@ -1,0 +1,103 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:20 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+Bluffy_McBluff: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 2h]
+LooseGoose: calls $1.00
+PocketRockets: folds
+TriplBarrel: folds
+Hero: raises $4.00 to $4.00
+Bluffy_McBluff: folds
+FishOnTilt: folds
+LooseGoose: calls $3.00
+*** FLOP *** [8c Ad Kh]
+LooseGoose: checks
+Hero: bets $3.14
+LooseGoose: calls $3.14
+*** TURN *** [8c Ad Kh] [Qd]
+LooseGoose: checks
+Hero: checks
+*** RIVER *** [8c Ad Kh Qd] [Kc]
+LooseGoose: checks
+Hero: bets $7.89
+LooseGoose: calls $7.89
+*** SHOW DOWN ***
+Hero: shows [Ah 2h]
+Bluffy_McBluff: shows [3d 4d]
+FishOnTilt: shows [4h 5h]
+LooseGoose: shows [8d 8s]
+PocketRockets: shows [7h 9h]
+TriplBarrel: shows [Th Qs]
+*** SUMMARY ***
+Total pot $31.56 | Rake $0.00
+Board [8c Ad Kh Qd Kc]
+Seat 1: Hero (button) lost
+Seat 2: Bluffy_McBluff (small blind) lost
+Seat 3: FishOnTilt (big blind) lost
+Seat 4: LooseGoose lost
+Seat 5: PocketRockets lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:42 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 6h]
+PocketRockets: folds
+TriplBarrel: raises $2.50 to $2.50
+Hero: folds
+Bluffy_McBluff: folds
+FishOnTilt: folds
+LooseGoose: folds
+Uncalled bet ($2.50) returned to TriplBarrel
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Bluffy_McBluff (button) lost
+Seat 3: FishOnTilt (small blind) lost
+Seat 4: LooseGoose (big blind) lost
+Seat 5: PocketRockets lost
+Seat 6: TriplBarrel lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:59 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Bluffy_McBluff ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: LooseGoose ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th Td]
+TriplBarrel: folds
+Hero: raises $2.00 to $2.00
+Bluffy_McBluff: folds
+FishOnTilt: folds
+LooseGoose: folds
+PocketRockets: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: Bluffy_McBluff lost
+Seat 3: FishOnTilt (button) lost
+Seat 4: LooseGoose (small blind) lost
+Seat 5: PocketRockets (big blind) lost
+Seat 6: TriplBarrel lost
+

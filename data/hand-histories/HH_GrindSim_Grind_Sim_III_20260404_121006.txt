@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:10:31 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: QuietNit ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h Ts]
+SBvsUTG: folds
+OverBet4Value: folds
+WetBoard_Willy: folds
+Hero: folds
+bluff_catcher: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: bluff_catcher (small blind) lost
+Seat 3: QuietNit (big blind) lost
+Seat 4: SBvsUTG lost
+Seat 5: OverBet4Value lost
+Seat 6: WetBoard_Willy lost
+

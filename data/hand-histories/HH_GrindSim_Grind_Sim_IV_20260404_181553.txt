@@ -1,0 +1,331 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:14 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Ad]
+WetBoard_Willy: folds
+SuitsMe: raises $2.00 to $2.00
+GTO_Wizard: folds
+Hero: raises $7.50 to $7.50
+AcesUpMySleeve: folds
+SetMiner_Pro: folds
+SuitsMe: folds
+Uncalled bet ($7.50) returned to Hero
+*** SUMMARY ***
+Total pot $11.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AcesUpMySleeve (small blind) lost
+Seat 3: SetMiner_Pro (big blind) lost
+Seat 4: WetBoard_Willy lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:28 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 8s]
+SuitsMe: raises $2.00 to $2.00
+GTO_Wizard: folds
+Hero: folds
+AcesUpMySleeve: folds
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+Uncalled bet ($2.00) returned to SuitsMe
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve (button) lost
+Seat 3: SetMiner_Pro (small blind) lost
+Seat 4: WetBoard_Willy (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:49 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8d]
+GTO_Wizard: folds
+Hero: folds
+AcesUpMySleeve: raises $2.30 to $2.30
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+SuitsMe: folds
+Uncalled bet ($2.30) returned to AcesUpMySleeve
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SetMiner_Pro (button) lost
+Seat 4: WetBoard_Willy (small blind) lost
+Seat 5: SuitsMe (big blind) lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:17:46 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 3h]
+Hero: folds
+AcesUpMySleeve: folds
+SetMiner_Pro: folds
+WetBoard_Willy: raises $2.50 to $2.50
+SuitsMe: raises $11.50 to $12.00
+GTO_Wizard: folds
+WetBoard_Willy: calls $9.50
+*** FLOP *** [Ad Qs 6h]
+SuitsMe: checks
+WetBoard_Willy: checks
+*** TURN *** [Ad Qs 6h] [4c]
+SuitsMe: checks
+WetBoard_Willy: checks
+*** RIVER *** [Ad Qs 6h 4c] [4h]
+SuitsMe: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [Kh 3h]
+AcesUpMySleeve: shows [3c Qh]
+SetMiner_Pro: shows [Kc 5d]
+WetBoard_Willy: shows [Qc 9c]
+SuitsMe: shows [7c 8c]
+GTO_Wizard: shows [9s 6s]
+*** SUMMARY ***
+Total pot $25.00 | Rake $0.00
+Board [Ad Qs 6h 4c 4h]
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SetMiner_Pro lost
+Seat 4: WetBoard_Willy (button) lost
+Seat 5: SuitsMe (small blind) lost
+Seat 6: GTO_Wizard (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:04 ET
+Table 'Grind Sim IV' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c 9h]
+AcesUpMySleeve: raises $2.00 to $2.00
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+SuitsMe: folds
+GTO_Wizard: folds
+Hero: folds
+Uncalled bet ($2.00) returned to AcesUpMySleeve
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SetMiner_Pro lost
+Seat 4: WetBoard_Willy lost
+Seat 5: SuitsMe (button) lost
+Seat 6: GTO_Wizard (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:22 ET
+Table 'Grind Sim IV' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+Hero: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c Tc]
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+SuitsMe: raises $2.30 to $2.30
+GTO_Wizard: folds
+Hero: folds
+AcesUpMySleeve: folds
+Uncalled bet ($2.30) returned to SuitsMe
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: AcesUpMySleeve (big blind) lost
+Seat 3: SetMiner_Pro lost
+Seat 4: WetBoard_Willy lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:47 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Qs]
+WetBoard_Willy: raises $2.00 to $2.00
+SuitsMe: folds
+GTO_Wizard: folds
+Hero: folds
+AcesUpMySleeve: folds
+SetMiner_Pro: folds
+Uncalled bet ($2.00) returned to WetBoard_Willy
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: AcesUpMySleeve (small blind) lost
+Seat 3: SetMiner_Pro (big blind) lost
+Seat 4: WetBoard_Willy lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:28 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 8h]
+SuitsMe: folds
+GTO_Wizard: folds
+Hero: folds
+AcesUpMySleeve: folds
+SetMiner_Pro: raises $2.50 to $3.00
+WetBoard_Willy: calls $2.00
+*** FLOP *** [2d Jd 9h]
+SetMiner_Pro: checks
+WetBoard_Willy: checks
+*** TURN *** [2d Jd 9h] [6s]
+SetMiner_Pro: checks
+WetBoard_Willy: checks
+*** RIVER *** [2d Jd 9h 6s] [4s]
+SetMiner_Pro: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [2c 8h]
+AcesUpMySleeve: shows [5s 8s]
+SetMiner_Pro: shows [Js Kh]
+WetBoard_Willy: shows [As 5c]
+SuitsMe: shows [6d 3c]
+GTO_Wizard: shows [8c 5d]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [2d Jd 9h 6s 4s]
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve (button) lost
+Seat 3: SetMiner_Pro (small blind) lost
+Seat 4: WetBoard_Willy (big blind) lost
+Seat 5: SuitsMe lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #9: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:48 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Jd]
+GTO_Wizard: folds
+Hero: raises $2.00 to $2.00
+AcesUpMySleeve: folds
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+SuitsMe: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SetMiner_Pro (button) lost
+Seat 4: WetBoard_Willy (small blind) lost
+Seat 5: SuitsMe (big blind) lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #10: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:35 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: AcesUpMySleeve ($100.00 in chips)
+Seat 3: SetMiner_Pro ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 4h]
+Hero: folds
+AcesUpMySleeve: raises $2.00 to $2.00
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+SuitsMe: folds
+GTO_Wizard: raises $11.30 to $12.30
+AcesUpMySleeve: calls $10.30
+*** FLOP *** [Ac 6c 3h]
+GTO_Wizard: checks
+AcesUpMySleeve: checks
+*** TURN *** [Ac 6c 3h] [3s]
+GTO_Wizard: checks
+AcesUpMySleeve: checks
+*** RIVER *** [Ac 6c 3h 3s] [8c]
+GTO_Wizard: checks
+AcesUpMySleeve: checks
+*** SHOW DOWN ***
+Hero: shows [6s 4h]
+AcesUpMySleeve: shows [Ad 8d]
+SetMiner_Pro: shows [5c 8s]
+WetBoard_Willy: shows [9h Qh]
+SuitsMe: shows [2c Th]
+GTO_Wizard: shows [5d 4d]
+*** SUMMARY ***
+Total pot $25.10 | Rake $0.00
+Board [Ac 6c 3h 3s 8c]
+Seat 1: Hero lost
+Seat 2: AcesUpMySleeve lost
+Seat 3: SetMiner_Pro lost
+Seat 4: WetBoard_Willy (button) lost
+Seat 5: SuitsMe (small blind) lost
+Seat 6: GTO_Wizard (big blind) lost
+

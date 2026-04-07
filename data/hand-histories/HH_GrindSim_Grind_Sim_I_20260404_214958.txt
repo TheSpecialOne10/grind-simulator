@@ -1,0 +1,568 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:50:34 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 3s]
+ChetFaker99: raises $2.00 to $2.00
+StackEmUp: folds
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: calls $1.00
+*** FLOP *** [8s 4c Qh]
+Button_Clicker: checks
+ChetFaker99: checks
+*** TURN *** [8s 4c Qh] [6c]
+Button_Clicker: checks
+ChetFaker99: checks
+*** RIVER *** [8s 4c Qh 6c] [2s]
+Button_Clicker: checks
+ChetFaker99: checks
+*** SHOW DOWN ***
+Hero: shows [9s 3s]
+SetMiner_Pro: shows [Ks 7c]
+Button_Clicker: shows [5c Tc]
+ChetFaker99: shows [Jd Kh]
+StackEmUp: shows [Qc 4h]
+SuitsMe: shows [9c Qd]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [8s 4c Qh 6c 2s]
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:51:06 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 5h]
+StackEmUp: folds
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: raises $2.50 to $3.00
+ChetFaker99: calls $2.00
+*** FLOP *** [Ks 8h 9h]
+Button_Clicker: checks
+ChetFaker99: checks
+*** TURN *** [Ks 8h 9h] [2s]
+Button_Clicker: checks
+ChetFaker99: checks
+*** RIVER *** [Ks 8h 9h 2s] [4c]
+Button_Clicker: checks
+ChetFaker99: checks
+*** SHOW DOWN ***
+Hero: shows [5c 5h]
+SetMiner_Pro: shows [3h 2d]
+Button_Clicker: shows [As 5s]
+ChetFaker99: shows [7c 3c]
+StackEmUp: shows [4d 9d]
+SuitsMe: shows [5d Th]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [Ks 8h 9h 2s 4c]
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: Button_Clicker (small blind) lost
+Seat 4: ChetFaker99 (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:51:45 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 9d]
+ChetFaker99: folds
+SuitsMe: raises $2.00 to $2.00
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: folds
+Uncalled bet ($2.00) returned to SuitsMe
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:52:25 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 6c]
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: raises $2.50 to $2.50
+ChetFaker99: folds
+StackEmUp: folds
+Uncalled bet ($2.50) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker (button) lost
+Seat 4: ChetFaker99 (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:53:03 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd Ad]
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: SuitsMe (big blind) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:53:46 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 9s]
+SetMiner_Pro: folds
+Button_Clicker: folds
+ChetFaker99: raises $2.30 to $2.30
+StackEmUp: folds
+SuitsMe: folds
+Hero: folds
+Uncalled bet ($2.30) returned to ChetFaker99
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp (button) lost
+Seat 6: SuitsMe (small blind) lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:54:29 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Hero: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Td]
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: raises $2.30 to $2.30
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Uncalled bet ($2.30) returned to StackEmUp
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: SetMiner_Pro (big blind) lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe (button) lost
+
+PokerStars Hand #9: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:55:07 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 6h]
+ChetFaker99: folds
+StackEmUp: folds
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #10: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:56:20 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Qd]
+StackEmUp: raises $2.00 to $2.00
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: raises $7.50 to $7.50
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: raises $18.00 to $20.00
+SetMiner_Pro: calls $12.50
+*** FLOP *** [Jh Ah 4s]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** TURN *** [Jh Ah 4s] [2c]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** RIVER *** [Jh Ah 4s 2c] [2h]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** SHOW DOWN ***
+Hero: shows [Jc Qd]
+SetMiner_Pro: shows [Tc Ts]
+Button_Clicker: shows [7h Qh]
+ChetFaker99: shows [8s 2s]
+StackEmUp: shows [Ks Js]
+SuitsMe: shows [4h 3d]
+*** SUMMARY ***
+Total pot $41.50 | Rake $0.00
+Board [Jh Ah 4s 2c 2h]
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: Button_Clicker (small blind) lost
+Seat 4: ChetFaker99 (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #11: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:57:02 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Ks]
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: raises $2.50 to $2.50
+ChetFaker99: folds
+StackEmUp: raises $12.00 to $13.00
+Button_Clicker: folds
+Uncalled bet ($12.00) returned to StackEmUp
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker (button) lost
+Seat 4: ChetFaker99 (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #12: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:57:42 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Jd]
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: raises $2.30 to $2.30
+ChetFaker99: folds
+StackEmUp: folds
+SuitsMe: folds
+Uncalled bet ($2.30) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: SuitsMe (big blind) lost
+
+PokerStars Hand #13: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:58:23 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8h]
+SetMiner_Pro: folds
+Button_Clicker: raises $2.00 to $2.00
+ChetFaker99: folds
+StackEmUp: folds
+SuitsMe: folds
+Hero: folds
+Uncalled bet ($2.00) returned to Button_Clicker
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp (button) lost
+Seat 6: SuitsMe (small blind) lost
+
+PokerStars Hand #14: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:59:09 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Hero: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 3h]
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: raises $2.30 to $2.30
+SuitsMe: raises $7.50 to $7.50
+Hero: folds
+SetMiner_Pro: folds
+StackEmUp: folds
+Uncalled bet ($7.50) returned to SuitsMe
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: SetMiner_Pro (big blind) lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe (button) lost
+
+PokerStars Hand #15: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 21:59:50 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+Button_Clicker: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 6d]
+ChetFaker99: folds
+StackEmUp: raises $2.00 to $2.00
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: folds
+Uncalled bet ($2.00) returned to StackEmUp
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: Button_Clicker (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #16: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:00:30 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+Button_Clicker: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5s]
+StackEmUp: raises $2.00 to $2.00
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: folds
+ChetFaker99: folds
+Uncalled bet ($2.00) returned to StackEmUp
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: Button_Clicker (small blind) lost
+Seat 4: ChetFaker99 (big blind) lost
+Seat 5: StackEmUp lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #17: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:01:32 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Jd]
+SuitsMe: folds
+Hero: folds
+SetMiner_Pro: raises $2.30 to $2.30
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: calls $1.30
+*** FLOP *** [6s 7h 9c]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** TURN *** [6s 7h 9c] [4c]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** RIVER *** [6s 7h 9c 4c] [Ah]
+StackEmUp: checks
+SetMiner_Pro: checks
+*** SHOW DOWN ***
+Hero: shows [4d Jd]
+SetMiner_Pro: shows [Jc 9s]
+Button_Clicker: shows [2s 7c]
+ChetFaker99: shows [8s 5h]
+StackEmUp: shows [Ac 8d]
+SuitsMe: shows [Qs 8c]
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [6s 7h 9c 4c Ah]
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker (button) lost
+Seat 4: ChetFaker99 (small blind) lost
+Seat 5: StackEmUp (big blind) lost
+Seat 6: SuitsMe lost
+
+PokerStars Hand #18: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:02:20 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c 9s]
+Hero: folds
+SetMiner_Pro: folds
+Button_Clicker: folds
+ChetFaker99: raises $2.50 to $2.50
+StackEmUp: raises $11.50 to $12.00
+SuitsMe: folds
+ChetFaker99: folds
+Uncalled bet ($11.50) returned to StackEmUp
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 (button) lost
+Seat 5: StackEmUp (small blind) lost
+Seat 6: SuitsMe (big blind) lost
+
+PokerStars Hand #19: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 22:02:36 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: Button_Clicker ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: StackEmUp ($100.00 in chips)
+Seat 6: SuitsMe ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 5c]
+SetMiner_Pro: folds
+Button_Clicker: folds
+ChetFaker99: folds
+StackEmUp: raises $2.50 to $2.50
+SuitsMe: folds
+Hero: folds
+Uncalled bet ($2.50) returned to StackEmUp
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: SetMiner_Pro lost
+Seat 3: Button_Clicker lost
+Seat 4: ChetFaker99 lost
+Seat 5: StackEmUp (button) lost
+Seat 6: SuitsMe (small blind) lost
+

@@ -1,0 +1,57 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:54:50 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+QuadsOrFold: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Js]
+3BetBandit: folds
+NLHE_Grinder: folds
+Button_Clicker: folds
+Hero: raises $2.50 to $2.50
+QuadsOrFold: folds
+RunItTwice: raises $12.00 to $13.00
+Hero: folds
+Uncalled bet ($12.00) returned to RunItTwice
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: QuadsOrFold (small blind) lost
+Seat 3: RunItTwice (big blind) lost
+Seat 4: 3BetBandit lost
+Seat 5: NLHE_Grinder lost
+Seat 6: Button_Clicker lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:55:19 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: QuadsOrFold ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: Button_Clicker ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5c]
+NLHE_Grinder: raises $2.00 to $2.00
+Button_Clicker: folds
+Hero: folds
+QuadsOrFold: folds
+RunItTwice: folds
+3BetBandit: folds
+Uncalled bet ($2.00) returned to NLHE_Grinder
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: QuadsOrFold (button) lost
+Seat 3: RunItTwice (small blind) lost
+Seat 4: 3BetBandit (big blind) lost
+Seat 5: NLHE_Grinder lost
+Seat 6: Button_Clicker lost
+

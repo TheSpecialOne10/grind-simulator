@@ -1,0 +1,113 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:30 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+SnapFold: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7h]
+RunItTwice: folds
+TightIsRight: folds
+bluff_catcher: raises $2.30 to $2.30
+Hero: folds
+SnapFold: folds
+CardDead_Chris: raises $12.50 to $13.50
+bluff_catcher: folds
+Uncalled bet ($12.50) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SnapFold (small blind) lost
+Seat 3: CardDead_Chris (big blind) lost
+Seat 4: RunItTwice lost
+Seat 5: TightIsRight lost
+Seat 6: bluff_catcher lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:45 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Th]
+TightIsRight: folds
+bluff_catcher: folds
+Hero: folds
+SnapFold: raises $2.50 to $2.50
+CardDead_Chris: folds
+RunItTwice: folds
+Uncalled bet ($2.50) returned to SnapFold
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold (button) lost
+Seat 3: CardDead_Chris (small blind) lost
+Seat 4: RunItTwice (big blind) lost
+Seat 5: TightIsRight lost
+Seat 6: bluff_catcher lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:56 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Qc]
+bluff_catcher: folds
+Hero: folds
+SnapFold: folds
+CardDead_Chris: folds
+RunItTwice: raises $2.50 to $3.00
+TightIsRight: folds
+Uncalled bet ($2.50) returned to RunItTwice
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: CardDead_Chris (button) lost
+Seat 4: RunItTwice (small blind) lost
+Seat 5: TightIsRight (big blind) lost
+Seat 6: bluff_catcher lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:27:11 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: bluff_catcher ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+bluff_catcher: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 9h]
+Hero: folds
+SnapFold: folds
+CardDead_Chris: raises $2.30 to $2.30
+RunItTwice: folds
+TightIsRight: folds
+bluff_catcher: folds
+Uncalled bet ($2.30) returned to CardDead_Chris
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SnapFold lost
+Seat 3: CardDead_Chris lost
+Seat 4: RunItTwice (button) lost
+Seat 5: TightIsRight (small blind) lost
+Seat 6: bluff_catcher (big blind) lost
+

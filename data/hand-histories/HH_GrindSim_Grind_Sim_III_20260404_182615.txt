@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:26:59 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: FoldPre2024 ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: TriplBarrel ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d Td]
+SuitsMe: raises $2.00 to $2.00
+NittyProfessor: folds
+TriplBarrel: folds
+Hero: folds
+RunBadFeelGood: folds
+FoldPre2024: calls $1.00
+*** FLOP *** [2s Qh 5h]
+FoldPre2024: checks
+SuitsMe: checks
+*** TURN *** [2s Qh 5h] [Qs]
+FoldPre2024: checks
+SuitsMe: checks
+*** RIVER *** [2s Qh 5h Qs] [Ac]
+FoldPre2024: checks
+SuitsMe: checks
+*** SHOW DOWN ***
+Hero: shows [3d Td]
+RunBadFeelGood: shows [Tc 4d]
+FoldPre2024: shows [As 8c]
+SuitsMe: shows [9d 8d]
+NittyProfessor: shows [3s Qc]
+TriplBarrel: shows [7h 5c]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [2s Qh 5h Qs Ac]
+Seat 1: Hero (button) lost
+Seat 2: RunBadFeelGood (small blind) lost
+Seat 3: FoldPre2024 (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: NittyProfessor lost
+Seat 6: TriplBarrel lost
+

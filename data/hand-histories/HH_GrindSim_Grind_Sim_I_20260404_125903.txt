@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:59:20 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Ts]
+ChetFaker99: folds
+GTO_Wizard: folds
+CheckRaiseKing: folds
+Hero: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: WetBoard_Willy (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: ChetFaker99 lost
+Seat 5: GTO_Wizard lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:59:50 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: WetBoard_Willy ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: ChetFaker99 ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac Js]
+GTO_Wizard: folds
+CheckRaiseKing: folds
+Hero: folds
+WetBoard_Willy: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: WetBoard_Willy (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: ChetFaker99 (big blind) lost
+Seat 5: GTO_Wizard lost
+Seat 6: CheckRaiseKing lost
+

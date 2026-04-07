@@ -12,11 +12,11 @@ interface Props {
 export const PlayerCards: React.FC<Props> = React.memo(({ holeCards, isHidden, isHero }) => {
   if (!holeCards) return null;
 
-  // Hero gets full-size cards, bots get small
   const small = !isHero;
+  const containerClass = isHero ? styles.holeCardsHero : styles.holeCards;
 
   return (
-    <div className={styles.holeCards}>
+    <div className={containerClass}>
       <CardComponent card={holeCards[0]} faceDown={isHidden} small={small} animate="deal" />
       <CardComponent card={holeCards[1]} faceDown={isHidden} small={small} animate="deal" />
     </div>

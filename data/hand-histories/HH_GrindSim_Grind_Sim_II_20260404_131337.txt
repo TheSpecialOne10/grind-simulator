@@ -1,0 +1,44 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:24 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SnapFold ($100.00 in chips)
+Seat 3: SuckoutKid ($100.00 in chips)
+Seat 4: WetBoard_Willy ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: AcesUpMySleeve ($100.00 in chips)
+SnapFold: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Kh]
+WetBoard_Willy: calls $1.00
+FlopZilla: folds
+AcesUpMySleeve: folds
+Hero: folds
+SnapFold: folds
+SuckoutKid: checks
+*** FLOP *** [4s Ks 4d]
+SuckoutKid: checks
+WetBoard_Willy: checks
+*** TURN *** [4s Ks 4d] [8s]
+SuckoutKid: checks
+WetBoard_Willy: checks
+*** RIVER *** [4s Ks 4d 8s] [7h]
+SuckoutKid: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [2h Kh]
+SnapFold: shows [Ts Ah]
+SuckoutKid: shows [8c 6c]
+WetBoard_Willy: shows [Jc Ac]
+FlopZilla: shows [5s 3h]
+AcesUpMySleeve: shows [Qd 9h]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [4s Ks 4d 8s 7h]
+Seat 1: Hero (button) lost
+Seat 2: SnapFold (small blind) lost
+Seat 3: SuckoutKid (big blind) lost
+Seat 4: WetBoard_Willy lost
+Seat 5: FlopZilla lost
+Seat 6: AcesUpMySleeve lost
+

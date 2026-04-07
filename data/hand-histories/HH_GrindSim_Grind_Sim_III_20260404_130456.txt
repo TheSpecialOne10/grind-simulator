@@ -1,0 +1,134 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:05:08 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+MegaTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 2s]
+SteadyEddie: folds
+RunBadFeelGood: folds
+SBvsUTG: folds
+Hero: folds
+BarrelHouse: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: BarrelHouse (small blind) lost
+Seat 3: MegaTilt (big blind) lost
+Seat 4: SteadyEddie lost
+Seat 5: RunBadFeelGood lost
+Seat 6: SBvsUTG lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:05:21 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d Ks]
+RunBadFeelGood: folds
+SBvsUTG: folds
+Hero: folds
+BarrelHouse: folds
+MegaTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse (button) lost
+Seat 3: MegaTilt (small blind) lost
+Seat 4: SteadyEddie (big blind) lost
+Seat 5: RunBadFeelGood lost
+Seat 6: SBvsUTG lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:05:52 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+SteadyEddie: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd Kc]
+SBvsUTG: folds
+Hero: raises $2.00 to $2.00
+BarrelHouse: folds
+MegaTilt: folds
+SteadyEddie: folds
+RunBadFeelGood: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse lost
+Seat 3: MegaTilt (button) lost
+Seat 4: SteadyEddie (small blind) lost
+Seat 5: RunBadFeelGood (big blind) lost
+Seat 6: SBvsUTG lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:06:22 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 8c]
+Hero: folds
+BarrelHouse: folds
+MegaTilt: folds
+SteadyEddie: folds
+RunBadFeelGood: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: BarrelHouse lost
+Seat 3: MegaTilt lost
+Seat 4: SteadyEddie (button) lost
+Seat 5: RunBadFeelGood (small blind) lost
+Seat 6: SBvsUTG (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:07:05 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: BarrelHouse ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: SteadyEddie ($100.00 in chips)
+Seat 5: RunBadFeelGood ($100.00 in chips)
+Seat 6: SBvsUTG ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 9h]
+BarrelHouse: raises $2.50 to $2.50
+MegaTilt: folds
+SteadyEddie: folds
+RunBadFeelGood: folds
+SBvsUTG: folds
+Hero: folds
+Uncalled bet ($2.50) returned to BarrelHouse
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: BarrelHouse lost
+Seat 3: MegaTilt lost
+Seat 4: SteadyEddie lost
+Seat 5: RunBadFeelGood (button) lost
+Seat 6: SBvsUTG (small blind) lost
+

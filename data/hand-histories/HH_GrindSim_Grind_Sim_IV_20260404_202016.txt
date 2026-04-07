@@ -1,0 +1,81 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:20:29 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+4betJam: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 2d]
+CheckRaiseKing: folds
+SlowRoll_Sam: folds
+GTO_Wizard: folds
+Hero: folds
+4betJam: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 4betJam (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: CheckRaiseKing lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:00 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c 7s]
+SlowRoll_Sam: folds
+GTO_Wizard: folds
+Hero: folds
+4betJam: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: CheckRaiseKing (big blind) lost
+Seat 5: SlowRoll_Sam lost
+Seat 6: GTO_Wizard lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 20:21:23 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: SlowRoll_Sam ($100.00 in chips)
+Seat 6: GTO_Wizard ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 8s]
+GTO_Wizard: folds
+Hero: raises $2.00 to $2.00
+4betJam: raises $6.50 to $6.50
+TightIsRight: folds
+CheckRaiseKing: folds
+SlowRoll_Sam: folds
+Hero: folds
+Uncalled bet ($6.50) returned to 4betJam
+*** SUMMARY ***
+Total pot $10.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam lost
+Seat 3: TightIsRight (button) lost
+Seat 4: CheckRaiseKing (small blind) lost
+Seat 5: SlowRoll_Sam (big blind) lost
+Seat 6: GTO_Wizard lost
+

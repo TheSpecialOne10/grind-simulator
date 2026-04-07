@@ -1,0 +1,135 @@
+{
+  "scenario": "vs_rfi",
+  "position": "SB",
+  "vsPosition": "CO",
+  "description": "SB vs CO open (3bet-or-fold)",
+  "defaultAction": "fold",
+  "betSizeBB": 11.5,
+  "ranges": {
+    "66": {
+      "raise": 0.17,
+      "fold": 0.83
+    },
+    "77": {
+      "raise": 0.23,
+      "fold": 0.77
+    },
+    "88": {
+      "raise": 0.505,
+      "fold": 0.495
+    },
+    "99": {
+      "raise": 1
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 1
+    },
+    "TT": {
+      "raise": 1
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQs": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 1
+    },
+    "AJs": {
+      "raise": 1
+    },
+    "AJo": {
+      "raise": 0.83,
+      "fold": 0.17
+    },
+    "ATs": {
+      "raise": 1
+    },
+    "A9s": {
+      "raise": 0.62,
+      "fold": 0.38
+    },
+    "A8s": {
+      "raise": 0.395,
+      "fold": 0.605
+    },
+    "A5s": {
+      "raise": 1
+    },
+    "A4s": {
+      "raise": 0.72,
+      "fold": 0.28
+    },
+    "KQs": {
+      "raise": 1
+    },
+    "KQo": {
+      "raise": 0.945,
+      "fold": 0.055
+    },
+    "KJs": {
+      "raise": 1
+    },
+    "KJo": {
+      "raise": 0.335,
+      "fold": 0.665
+    },
+    "KTs": {
+      "raise": 1
+    },
+    "K9s": {
+      "raise": 0.33,
+      "fold": 0.67
+    },
+    "K6s": {
+      "raise": 0.04,
+      "fold": 0.96
+    },
+    "QJs": {
+      "raise": 1
+    },
+    "QTs": {
+      "raise": 1
+    },
+    "JTs": {
+      "raise": 1
+    },
+    "J9s": {
+      "raise": 0.47,
+      "fold": 0.53
+    },
+    "T9s": {
+      "raise": 0.27,
+      "fold": 0.73
+    },
+    "87s": {
+      "raise": 0.105,
+      "fold": 0.895
+    },
+    "76s": {
+      "raise": 0.115,
+      "fold": 0.885
+    },
+    "65s": {
+      "raise": 0.28,
+      "fold": 0.72
+    },
+    "54s": {
+      "raise": 0.115,
+      "fold": 0.885
+    }
+  }
+}

@@ -1,0 +1,155 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:08:46 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Ad]
+OverBet4Value: folds
+WetBoard_Willy: folds
+SnapFold: folds
+Hero: raises $2.50 to $2.50
+TiltMachine: folds
+NiceCatch88: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TiltMachine (small blind) lost
+Seat 3: NiceCatch88 (big blind) lost
+Seat 4: OverBet4Value lost
+Seat 5: WetBoard_Willy lost
+Seat 6: SnapFold lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:08:58 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Ah]
+WetBoard_Willy: folds
+SnapFold: folds
+Hero: raises $2.50 to $2.50
+TiltMachine: folds
+NiceCatch88: folds
+OverBet4Value: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TiltMachine (button) lost
+Seat 3: NiceCatch88 (small blind) lost
+Seat 4: OverBet4Value (big blind) lost
+Seat 5: WetBoard_Willy lost
+Seat 6: SnapFold lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:10 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+OverBet4Value: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 9s]
+SnapFold: folds
+Hero: folds
+TiltMachine: folds
+NiceCatch88: folds
+OverBet4Value: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TiltMachine lost
+Seat 3: NiceCatch88 (button) lost
+Seat 4: OverBet4Value (small blind) lost
+Seat 5: WetBoard_Willy (big blind) lost
+Seat 6: SnapFold lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:23 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Qd]
+Hero: folds
+TiltMachine: folds
+NiceCatch88: folds
+OverBet4Value: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TiltMachine lost
+Seat 3: NiceCatch88 lost
+Seat 4: OverBet4Value (button) lost
+Seat 5: WetBoard_Willy (small blind) lost
+Seat 6: SnapFold (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:10:13 ET
+Table 'Grind Sim II' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: OverBet4Value ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: SnapFold ($100.00 in chips)
+SnapFold: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 5d]
+TiltMachine: raises $2.50 to $2.50
+NiceCatch88: folds
+OverBet4Value: raises $7.50 to $7.50
+WetBoard_Willy: folds
+SnapFold: folds
+Hero: folds
+TiltMachine: raises $14.75 to $17.25
+OverBet4Value: raises $92.50 to $100.00
+TiltMachine: calls $82.75
+*** FLOP *** [5c 5s 8h]
+TiltMachine: checks
+OverBet4Value: checks
+*** TURN *** [5c 5s 8h] [As]
+TiltMachine: checks
+OverBet4Value: checks
+*** RIVER *** [5c 5s 8h As] [Tc]
+TiltMachine: checks
+OverBet4Value: checks
+*** SHOW DOWN ***
+Hero: shows [6h 5d]
+TiltMachine: shows [Kh Ad]
+NiceCatch88: shows [3s 9h]
+OverBet4Value: shows [Qd Qs]
+WetBoard_Willy: shows [Ks Js]
+SnapFold: shows [Jh 3c]
+*** SUMMARY ***
+Total pot $201.50 | Rake $0.00
+Board [5c 5s 8h As Tc]
+Seat 1: Hero (big blind) lost
+Seat 2: TiltMachine lost
+Seat 3: NiceCatch88 lost
+Seat 4: OverBet4Value lost
+Seat 5: WetBoard_Willy (button) lost
+Seat 6: SnapFold (small blind) lost
+

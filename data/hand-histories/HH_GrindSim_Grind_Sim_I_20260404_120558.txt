@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:06:22 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: FishOnTilt ($100.00 in chips)
+Seat 5: SuckoutKid ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 3s]
+FishOnTilt: folds
+SuckoutKid: folds
+RunBadFeelGood: folds
+Hero: folds
+bluff_catcher: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: bluff_catcher (small blind) lost
+Seat 3: NittyProfessor (big blind) lost
+Seat 4: FishOnTilt lost
+Seat 5: SuckoutKid lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:06:48 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: NittyProfessor ($100.00 in chips)
+Seat 4: FishOnTilt ($100.00 in chips)
+Seat 5: SuckoutKid ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+NittyProfessor: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh 7s]
+SuckoutKid: folds
+RunBadFeelGood: folds
+Hero: folds
+bluff_catcher: folds
+NittyProfessor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: bluff_catcher (button) lost
+Seat 3: NittyProfessor (small blind) lost
+Seat 4: FishOnTilt (big blind) lost
+Seat 5: SuckoutKid lost
+Seat 6: RunBadFeelGood lost
+

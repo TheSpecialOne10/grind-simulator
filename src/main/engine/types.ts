@@ -1,4 +1,5 @@
-import type { Action, HandState, TableSnapshot } from '../../shared/types';
+import type { Action, HandState, PreflopFeedbackData, TableSnapshot } from '../../shared/types';
+import type { PreflopCharts } from '../bot/preflop-charts';
 
 /**
  * Interface for providing actions (bots or human via IPC).
@@ -28,4 +29,8 @@ export interface GameEngineConfig {
   onSound?: SoundEmitter;
   onHandComplete?: (tableId: string, handState: HandState) => void;
   seed?: number;                 // Optional seed for deterministic testing
+  charts?: PreflopCharts;       // Optional — enables scenario-locked bet sizing preflop
+  revealBotCards?: boolean;     // Debug: show bot hole cards face-up
+  zoomMode?: boolean;           // Zoom mode: hero is redirected on fold
+  onPreflopFeedback?: (tableId: string, feedback: PreflopFeedbackData) => void;
 }

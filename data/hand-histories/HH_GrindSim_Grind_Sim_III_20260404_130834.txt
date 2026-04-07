@@ -1,0 +1,158 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:08:52 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 6h]
+FlopZilla: folds
+PocketRockets: folds
+FishOnTilt: folds
+Hero: folds
+RunItTwice: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RunItTwice (small blind) lost
+Seat 3: SuitsMe (big blind) lost
+Seat 4: FlopZilla lost
+Seat 5: PocketRockets lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:06 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 2s]
+PocketRockets: folds
+FishOnTilt: folds
+Hero: folds
+RunItTwice: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunItTwice (button) lost
+Seat 3: SuitsMe (small blind) lost
+Seat 4: FlopZilla (big blind) lost
+Seat 5: PocketRockets lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:22 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h 8c]
+FishOnTilt: folds
+Hero: folds
+RunItTwice: folds
+SuitsMe: folds
+FlopZilla: raises $2.00 to $2.50
+PocketRockets: folds
+Uncalled bet ($2.00) returned to FlopZilla
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunItTwice lost
+Seat 3: SuitsMe (button) lost
+Seat 4: FlopZilla (small blind) lost
+Seat 5: PocketRockets (big blind) lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:30 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4s]
+Hero: folds
+RunItTwice: folds
+SuitsMe: folds
+FlopZilla: folds
+PocketRockets: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunItTwice lost
+Seat 3: SuitsMe lost
+Seat 4: FlopZilla (button) lost
+Seat 5: PocketRockets (small blind) lost
+Seat 6: FishOnTilt (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:41 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh 5s]
+RunItTwice: folds
+SuitsMe: folds
+FlopZilla: folds
+PocketRockets: folds
+FishOnTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: RunItTwice lost
+Seat 3: SuitsMe lost
+Seat 4: FlopZilla lost
+Seat 5: PocketRockets (button) lost
+Seat 6: FishOnTilt (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:58 ET
+Table 'Grind Sim III' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: SuitsMe ($100.00 in chips)
+Seat 4: FlopZilla ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+Hero: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th Ts]
+SuitsMe: folds
+FlopZilla: folds
+PocketRockets: folds
+FishOnTilt: folds
+Hero: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (small blind) lost
+Seat 2: RunItTwice (big blind) lost
+Seat 3: SuitsMe lost
+Seat 4: FlopZilla lost
+Seat 5: PocketRockets lost
+Seat 6: FishOnTilt (button) lost
+

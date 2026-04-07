@@ -1,0 +1,126 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:10 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SlowRoll_Sam ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+SlowRoll_Sam: posts small blind $0.50
+BarrelHouse: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 8c]
+SnapFold: folds
+FlopZilla: folds
+FlushDraw_Hero: folds
+Hero: raises $2.50 to $2.50
+SlowRoll_Sam: folds
+BarrelHouse: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SlowRoll_Sam (small blind) lost
+Seat 3: BarrelHouse (big blind) lost
+Seat 4: SnapFold lost
+Seat 5: FlopZilla lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:21 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SlowRoll_Sam ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+BarrelHouse: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 3h]
+FlopZilla: folds
+FlushDraw_Hero: folds
+Hero: folds
+SlowRoll_Sam: folds
+BarrelHouse: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SlowRoll_Sam (button) lost
+Seat 3: BarrelHouse (small blind) lost
+Seat 4: SnapFold (big blind) lost
+Seat 5: FlopZilla lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:31 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SlowRoll_Sam ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+SnapFold: posts small blind $0.50
+FlopZilla: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 3h]
+FlushDraw_Hero: folds
+Hero: folds
+SlowRoll_Sam: folds
+BarrelHouse: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SlowRoll_Sam lost
+Seat 3: BarrelHouse (button) lost
+Seat 4: SnapFold (small blind) lost
+Seat 5: FlopZilla (big blind) lost
+Seat 6: FlushDraw_Hero lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:15:22 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SlowRoll_Sam ($100.00 in chips)
+Seat 3: BarrelHouse ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: FlopZilla ($100.00 in chips)
+Seat 6: FlushDraw_Hero ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+FlushDraw_Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qd]
+Hero: raises $2.00 to $2.00
+SlowRoll_Sam: folds
+BarrelHouse: calls $2.00
+SnapFold: raises $6.00 to $6.00
+FlopZilla: folds
+FlushDraw_Hero: folds
+Hero: folds
+BarrelHouse: calls $4.00
+*** FLOP *** [9c Kh 3c]
+BarrelHouse: checks
+SnapFold: checks
+*** TURN *** [9c Kh 3c] [Jc]
+BarrelHouse: checks
+SnapFold: checks
+*** RIVER *** [9c Kh 3c Jc] [3h]
+BarrelHouse: checks
+SnapFold: checks
+*** SHOW DOWN ***
+Hero: shows [Kc Qd]
+SlowRoll_Sam: shows [4h 2s]
+BarrelHouse: shows [8d 8c]
+SnapFold: shows [Kd As]
+FlopZilla: shows [3d 6c]
+FlushDraw_Hero: shows [Jd Qc]
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00
+Board [9c Kh 3c Jc 3h]
+Seat 1: Hero lost
+Seat 2: SlowRoll_Sam lost
+Seat 3: BarrelHouse lost
+Seat 4: SnapFold (button) lost
+Seat 5: FlopZilla (small blind) lost
+Seat 6: FlushDraw_Hero (big blind) lost
+

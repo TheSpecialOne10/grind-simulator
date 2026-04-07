@@ -15,13 +15,18 @@ const alwaysFoldProvider: ActionProvider = {
   }
 };
 
-/** Action provider that always calls/checks. */
+/** Action provider that always calls/checks (raises minimum when call is unavailable). */
 const alwaysCallProvider: ActionProvider = {
   async getAction(_handState, _seatIndex, validActions) {
     const call = validActions.find(a => a.type === 'call');
     if (call) return { type: 'call', amount: call.minAmount };
     const check = validActions.find(a => a.type === 'check');
     if (check) return { type: 'check', amount: 0 };
+    // No call or check available (limping eliminated preflop) — raise minimum
+    const raise = validActions.find(a => a.type === 'raise');
+    if (raise) return { type: 'raise', amount: raise.minAmount };
+    const bet = validActions.find(a => a.type === 'bet');
+    if (bet) return { type: 'bet', amount: bet.minAmount };
     return { type: 'fold', amount: 0 };
   }
 };

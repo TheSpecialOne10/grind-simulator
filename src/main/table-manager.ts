@@ -28,7 +28,6 @@ const BOT_NAMES = [
 export class TableManager {
   private engines: Map<string, GameEngine> = new Map();
   private tableWindows: Map<string, BrowserWindow> = new Map();
-  private lobbyWindow: BrowserWindow;
   private charts: PreflopCharts;
   private botController: BotController;
   private hhWriter: HandHistoryWriter | null = null;
@@ -36,19 +35,23 @@ export class TableManager {
   private pendingActions: Map<string, (action: { type: string; amount: number }) => void> = new Map();
   private tableIndexMap: Map<string, number> = new Map();
 
-  constructor(lobbyWindow: BrowserWindow, charts: PreflopCharts) {
-    this.lobbyWindow = lobbyWindow;
+  // Zoom mode
+  private zoomMode: boolean = false;
+  private earlyFoldTables: Set<string> = new Set();
+
+  constructor(_lobbyWindow: BrowserWindow, charts: PreflopCharts) {
     this.charts = charts;
     this.botController = new BotController(charts, true);
   }
 
-  startSession(tableCount: number, playerName: string, hhPath?: string): void {
+  startSession(tableCount: number, playerName: string, hhPath?: string, revealBotCards = false, zoomMode = false): void {
     this.stopSession();
     this.usedBotNames.clear();
     this.tableIndexMap.clear();
 
     const basePath = hhPath || join(process.cwd(), 'data', 'hand-histories');
     this.hhWriter = new HandHistoryWriter(basePath);
+    this.zoomMode = zoomMode;
 
     for (let i = 0; i < tableCount; i++) {
       const tableId = `table-${i + 1}`;
@@ -58,13 +61,17 @@ export class TableManager {
       const playerNames = [playerName, ...botNames];
       this.tableIndexMap.set(tableId, i);
 
-      // Create a separate window for this table, tiled on screen
-      const tableWindow = this.createTableWindow(tableId, tableName, i, tableCount);
+      this.createTableWindow(tableId, tableName, i, tableCount);
 
       const actionProvider: ActionProvider = {
         getAction: async (handState, seatIndex, validActions) => {
           if (seatIndex === humanSeatIndex) {
             return this.waitForHumanAction(tableId, handState, validActions);
+          }
+          // Zoom fast-mode: skip bot delays so the tail of the hand finishes instantly
+          if (zoomMode && this.engines.get(tableId)?.isZoomFastMode) {
+            const d = this.botController.decide(handState, seatIndex, validActions);
+            return { type: d.action, amount: d.amount };
           }
           return this.botController.getAction(handState, seatIndex, validActions);
         }
@@ -75,13 +82,19 @@ export class TableManager {
         humanSeatIndex,
         playerNames,
         actionProvider,
+        charts: this.charts,
+        revealBotCards,
+        zoomMode,
         onSnapshot: (tid, snapshot) => {
+          // Suppress fast-mode snapshots — bots finishing at 0-delay isn't meaningful to show
+          if (zoomMode && this.engines.get(tid)?.isZoomFastMode) return;
           const win = this.tableWindows.get(tid);
           if (win && !win.isDestroyed()) {
             win.webContents.send(IPC.TABLE_STATE_UPDATE, snapshot);
           }
         },
         onSound: (tid, sound) => {
+          if (zoomMode && this.engines.get(tid)?.isZoomFastMode) return;
           const win = this.tableWindows.get(tid);
           if (win && !win.isDestroyed()) {
             win.webContents.send(IPC.SOUND_TRIGGER, { sound, volume: 1.0, tableId: tid });
@@ -90,25 +103,29 @@ export class TableManager {
         onHandComplete: (tid, handState) => {
           const tableIdx = this.tableIndexMap.get(tid) ?? 0;
           this.hhWriter?.writeHand(handState, tableIdx);
+          // Zoom: reroll bot names so the next hand feels like a new table
+          if (zoomMode) {
+            this.engines.get(tid)?.rerollBotNames(this.pickFreshBotNames(5));
+          }
+        },
+        onPreflopFeedback: (tid, feedback) => {
+          const win = this.tableWindows.get(tid);
+          if (win && !win.isDestroyed()) {
+            win.webContents.send(IPC.PREFLOP_FEEDBACK, feedback);
+          }
         }
       });
 
       this.engines.set(tableId, engine);
-      // Engine will be started when the renderer signals TABLE_READY
     }
   }
 
-  /**
-   * Called when a table window's renderer has mounted and is ready to receive snapshots.
-   */
   handleTableReady(tableId: string): void {
     const engine = this.engines.get(tableId);
     const win = this.tableWindows.get(tableId);
     if (engine && win && !win.isDestroyed()) {
       win.webContents.send(IPC.TABLE_INIT, { tableId, humanSeatIndex: 0 });
-      engine.start().catch(err => {
-        console.error(`Engine error on ${tableId}:`, err);
-      });
+      engine.start().catch(err => console.error(`Engine error on ${tableId}:`, err));
     }
   }
 
@@ -122,21 +139,24 @@ export class TableManager {
       }
     }
     this.engines.clear();
+    this.earlyFoldTables.clear();
+    this.zoomMode = false;
 
-    // Close all table windows
-    for (const [id, win] of this.tableWindows) {
-      if (!win.isDestroyed()) {
-        win.close();
-      }
+    for (const [, win] of this.tableWindows) {
+      if (!win.isDestroyed()) win.close();
     }
     this.tableWindows.clear();
   }
 
-  handlePlayerAction(tableId: string, action: string, amount: number, solverNodeId: string): void {
+  handlePlayerAction(tableId: string, action: string, amount: number, _solverNodeId: string): void {
     const resolve = this.pendingActions.get(tableId);
     if (resolve) {
       resolve({ type: action, amount });
       this.pendingActions.delete(tableId);
+    }
+    // Zoom: fold triggers fast-mode so remaining bots finish the hand instantly
+    if (this.zoomMode && action === 'fold') {
+      this.engines.get(tableId)?.enterZoomFastMode();
     }
   }
 
@@ -155,29 +175,30 @@ export class TableManager {
     const display = screen.getPrimaryDisplay();
     const { x, y, width: screenW, height: screenH } = display.workArea;
 
-    // Try all possible grid arrangements, pick the one that yields the largest windows
-    let bestCols = 1, bestRows = 1, bestWindowW = 0, bestWindowH = 0;
-
-    for (let cols = 1; cols <= tableCount; cols++) {
-      const rows = Math.ceil(tableCount / cols);
+    const fitWindow = (cols: number, rows: number): { w: number; h: number } => {
       const cellW = Math.floor(screenW / cols);
       const cellH = Math.floor(screenH / rows);
-
-      // Fit table aspect ratio inside the cell
       let winW = cellW;
       let winH = Math.round(winW / TABLE_ASPECT);
-      if (winH > cellH) {
-        winH = cellH;
-        winW = Math.round(winH * TABLE_ASPECT);
-      }
+      if (winH > cellH) { winH = cellH; winW = Math.round(winH * TABLE_ASPECT); }
+      return { w: winW, h: winH };
+    };
 
-      // Pick arrangement with largest window area
-      if (winW * winH > bestWindowW * bestWindowH) {
-        bestCols = cols;
-        bestRows = rows;
-        bestWindowW = winW;
-        bestWindowH = winH;
-      }
+    // Grid arrangement is based on actual table count
+    let bestCols = 1, bestRows = 1, bestGridArea = 0;
+    for (let cols = 1; cols <= tableCount; cols++) {
+      const rows = Math.ceil(tableCount / cols);
+      const { w, h } = fitWindow(cols, rows);
+      if (w * h > bestGridArea) { bestGridArea = w * h; bestCols = cols; bestRows = rows; }
+    }
+
+    // Window SIZE uses at least 4 tables so 1/2/3-table sessions match the 4-table window size
+    const sizeCount = Math.max(tableCount, 4);
+    let bestWindowW = 0, bestWindowH = 0, bestSizeArea = 0;
+    for (let cols = 1; cols <= sizeCount; cols++) {
+      const rows = Math.ceil(sizeCount / cols);
+      const { w, h } = fitWindow(cols, rows);
+      if (w * h > bestSizeArea) { bestSizeArea = w * h; bestWindowW = w; bestWindowH = h; }
     }
 
     return {
@@ -210,13 +231,13 @@ export class TableManager {
       x: winX,
       y: winY,
       title: tableName,
-      autoHideMenuBar: true,
+      frame: false,
+      maximizable: false,
       webPreferences: {
         preload: join(__dirname, '../preload/index.js'),
         sandbox: false
       }
     });
-    tableWindow.setMenuBarVisibility(false);
 
     // Load renderer with tableId query parameter
     if (process.env.ELECTRON_RENDERER_URL) {
@@ -249,9 +270,16 @@ export class TableManager {
 
   private waitForHumanAction(
     tableId: string,
-    handState: HandState,
+    _handState: HandState,
     validActions: { type: string; minAmount: number; maxAmount: number }[]
   ): Promise<{ type: string; amount: number }> {
+    // Early fold was registered before hero's turn — resolve immediately
+    if (this.earlyFoldTables.has(tableId)) {
+      this.earlyFoldTables.delete(tableId);
+      this.engines.get(tableId)?.enterZoomFastMode();
+      return Promise.resolve({ type: 'fold', amount: 0 });
+    }
+
     return new Promise((resolve) => {
       this.pendingActions.set(tableId, resolve);
 
@@ -269,6 +297,33 @@ export class TableManager {
         origResolve(action);
       });
     });
+  }
+
+  handleEarlyFold(tableId: string): void {
+    if (!this.zoomMode) return;
+
+    // If hero's turn is active right now, resolve immediately as fold
+    const resolve = this.pendingActions.get(tableId);
+    if (resolve) {
+      resolve({ type: 'fold', amount: 0 });
+      this.pendingActions.delete(tableId);
+      return;
+    }
+
+    // Otherwise mark for early fold when hero's turn arrives on this table
+    this.earlyFoldTables.add(tableId);
+  }
+
+  /** Pick fresh bot names for zoom rerolling (allows reusing names across hands). */
+  private pickFreshBotNames(count: number): string[] {
+    const available = [...BOT_NAMES];
+    const picked: string[] = [];
+    for (let i = 0; i < count && available.length > 0; i++) {
+      const idx = Math.floor(Math.random() * available.length);
+      picked.push(available.splice(idx, 1)[0]);
+    }
+    while (picked.length < count) picked.push(`Bot_${picked.length + 1}`);
+    return picked;
   }
 
   private pickBotNames(count: number): string[] {

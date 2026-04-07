@@ -1,15 +1,9 @@
 import type { ActionType, BotDecision, HandState, Player } from '../../shared/types';
-import { BB_CENTS, SB_CENTS } from '../../shared/constants';
+import { BB_CENTS } from '../../shared/constants';
 import { PreflopCharts } from './preflop-charts';
 import { selectAction } from './action-selector';
 import { getBotDelay } from './timing';
 import type { ActionProvider } from '../engine/types';
-
-// Preflop raise sizing in cents
-const OPEN_RAISE_CENTS = Math.round(2.5 * BB_CENTS); // 250
-const THREE_BET_IP_MULTIPLIER = 3.0;
-const THREE_BET_OOP_MULTIPLIER = 3.5;
-const FOUR_BET_MULTIPLIER = 2.3;
 
 /**
  * Bot AI controller that implements the ActionProvider interface.
@@ -74,6 +68,17 @@ export class BotController implements ActionProvider {
     }));
     const scenario = PreflopCharts.classifyScenario(actionHistory, player.position);
 
+    // vs_5bet: call or fold only (universal range keyed by 'all')
+    if (scenario?.scenario === 'vs_5bet') {
+      const callAction = validActions.find(a => a.type === 'call');
+      const freq = this.charts.getFrequencies('vs_5bet', 'all', null, hand);
+      const selected = freq ? selectAction(freq) : 'fold';
+      if (selected === 'call' && callAction) {
+        return this.makeBotDecision('call', callAction.minAmount, handState.street, 'call');
+      }
+      return this.fallbackFold(handState.street, validActions);
+    }
+
     let frequencies = null;
     if (scenario) {
       frequencies = this.charts.getFrequencies(
@@ -96,7 +101,8 @@ export class BotController implements ActionProvider {
       selectedAction,
       player,
       validActions,
-      handState
+      handState,
+      scenario
     );
   }
 
@@ -108,7 +114,8 @@ export class BotController implements ActionProvider {
     selected: string,
     player: Player,
     validActions: { type: string; minAmount: number; maxAmount: number }[],
-    handState: HandState
+    handState: HandState,
+    scenario?: { scenario: string; position: string; vsPosition: string | null } | null
   ): BotDecision {
     const street = handState.street;
 
@@ -139,8 +146,7 @@ export class BotController implements ActionProvider {
     }
 
     if (selected === 'raise') {
-      // Determine raise sizing
-      const raiseSize = this.calculatePreflopRaiseSize(handState, validActions);
+      const raiseSize = this.getPreflopRaiseCents(scenario ?? null, validActions);
 
       const raise = validActions.find(a => a.type === 'raise');
       if (raise) {
@@ -163,52 +169,27 @@ export class BotController implements ActionProvider {
   }
 
   /**
-   * Calculate the appropriate preflop raise size based on action history.
+   * Get the preflop raise-to amount in cents using the scenario's betSizeBB.
+   * Falls back to all-in if the scenario has no chart data.
    */
-  private calculatePreflopRaiseSize(
-    handState: HandState,
+  private getPreflopRaiseCents(
+    scenario: { scenario: string; position: string; vsPosition: string | null } | null,
     validActions: { type: string; minAmount: number; maxAmount: number }[]
   ): number {
-    const raises = handState.actions.filter(a => a.type === 'raise');
+    const aggroAction = validActions.find(a => a.type === 'raise' || a.type === 'bet');
+    const minAmount = aggroAction?.minAmount ?? BB_CENTS * 2;
+    const maxAmount = aggroAction?.maxAmount ?? BB_CENTS * 100;
 
-    if (raises.length === 0) {
-      // RFI: open to 2.5bb
-      return OPEN_RAISE_CENTS;
-    }
-
-    // Find the last raise amount (total invested by that player)
-    const lastRaise = this.getLastRaiseTotal(handState);
-
-    if (raises.length === 1) {
-      // 3-bet: multiply the open raise
-      // Use IP/OOP multiplier (simplified: always use 3x for now)
-      return Math.round(lastRaise * THREE_BET_IP_MULTIPLIER);
-    }
-
-    if (raises.length === 2) {
-      // 4-bet
-      return Math.round(lastRaise * FOUR_BET_MULTIPLIER);
-    }
-
-    // 5-bet+: all-in
-    const raise = validActions.find(a => a.type === 'raise');
-    return raise?.maxAmount ?? OPEN_RAISE_CENTS;
-  }
-
-  /** Get the total amount the last raiser invested. */
-  private getLastRaiseTotal(handState: HandState): number {
-    const raises = handState.actions.filter(a => a.type === 'raise');
-    if (raises.length === 0) return BB_CENTS;
-
-    // Sum all bets by the last raiser
-    const lastRaiser = raises[raises.length - 1].playerSeatIndex;
-    let total = 0;
-    for (const action of handState.actions) {
-      if (action.playerSeatIndex === lastRaiser && action.amount > 0) {
-        total += action.amount;
+    if (scenario) {
+      const chartData = this.charts.getScenario(scenario.scenario, scenario.position, scenario.vsPosition);
+      if (chartData && chartData.betSizeBB > 0) {
+        const exact = Math.round(chartData.betSizeBB * BB_CENTS);
+        return Math.max(minAmount, Math.min(exact, maxAmount));
       }
     }
-    return total || BB_CENTS;
+
+    // No chart data — all-in
+    return maxAmount;
   }
 
   /**
@@ -257,7 +238,7 @@ export class BotController implements ActionProvider {
     if (premiumPairs.includes(hand) || goodHands.includes(hand)) {
       const raise = validActions.find(a => a.type === 'raise');
       if (raise) {
-        const size = this.calculatePreflopRaiseSize(handState, validActions);
+        const size = this.getPreflopRaiseCents(null, validActions);
         return this.makeBotDecision('raise', Math.max(raise.minAmount, Math.min(size, raise.maxAmount)),
           handState.street, 'raise');
       }

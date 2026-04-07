@@ -1,0 +1,115 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:24 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 2h]
+CheckRaiseKing: raises $2.00 to $2.00
+PocketRockets: folds
+FlopZilla: folds
+Hero: folds
+bluff_catcher: folds
+TiltMachine: raises $11.00 to $12.00
+CheckRaiseKing: calls $10.00
+*** FLOP *** [Jd Qc 6s]
+TiltMachine: checks
+CheckRaiseKing: checks
+*** TURN *** [Jd Qc 6s] [6c]
+TiltMachine: checks
+CheckRaiseKing: checks
+*** RIVER *** [Jd Qc 6s 6c] [8s]
+TiltMachine: checks
+CheckRaiseKing: checks
+*** SHOW DOWN ***
+Hero: shows [Kh 2h]
+bluff_catcher: shows [Tc 7d]
+TiltMachine: shows [4s Ks]
+CheckRaiseKing: shows [6d 6h]
+PocketRockets: shows [2d 5h]
+FlopZilla: shows [2c 3h]
+*** SUMMARY ***
+Total pot $24.50 | Rake $0.00
+Board [Jd Qc 6s 6c 8s]
+Seat 1: Hero (button) lost
+Seat 2: bluff_catcher (small blind) lost
+Seat 3: TiltMachine (big blind) lost
+Seat 4: CheckRaiseKing lost
+Seat 5: PocketRockets lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:14:03 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4h Kd]
+PocketRockets: folds
+FlopZilla: folds
+Hero: folds
+bluff_catcher: folds
+TiltMachine: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: bluff_catcher (button) lost
+Seat 3: TiltMachine (small blind) lost
+Seat 4: CheckRaiseKing (big blind) lost
+Seat 5: PocketRockets lost
+Seat 6: FlopZilla lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:08 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: bluff_catcher ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: CheckRaiseKing ($100.00 in chips)
+Seat 5: PocketRockets ($100.00 in chips)
+Seat 6: FlopZilla ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 8h]
+FlopZilla: raises $2.00 to $2.00
+Hero: folds
+bluff_catcher: folds
+TiltMachine: folds
+CheckRaiseKing: folds
+PocketRockets: calls $1.00
+*** FLOP *** [8c 9d Ac]
+PocketRockets: checks
+FlopZilla: checks
+*** TURN *** [8c 9d Ac] [6h]
+PocketRockets: checks
+FlopZilla: checks
+*** RIVER *** [8c 9d Ac 6h] [5h]
+PocketRockets: checks
+FlopZilla: checks
+*** SHOW DOWN ***
+Hero: shows [3c 8h]
+bluff_catcher: shows [Qs Jd]
+TiltMachine: shows [As 7c]
+CheckRaiseKing: shows [Tc 6c]
+PocketRockets: shows [4d 8d]
+FlopZilla: shows [Th Jh]
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00
+Board [8c 9d Ac 6h 5h]
+Seat 1: Hero lost
+Seat 2: bluff_catcher lost
+Seat 3: TiltMachine (button) lost
+Seat 4: CheckRaiseKing (small blind) lost
+Seat 5: PocketRockets (big blind) lost
+Seat 6: FlopZilla lost
+

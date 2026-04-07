@@ -1,0 +1,198 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:16:42 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+RunItTwice: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Ts]
+xXPokerProXx: folds
+TriplBarrel: folds
+the_nuts_42: folds
+Hero: folds
+DonkeyKong42: raises $2.50 to $3.00
+RunItTwice: calls $2.00
+*** FLOP *** [6d 3c Qd]
+DonkeyKong42: checks
+RunItTwice: checks
+*** TURN *** [6d 3c Qd] [7c]
+DonkeyKong42: checks
+RunItTwice: checks
+*** RIVER *** [6d 3c Qd 7c] [Qh]
+DonkeyKong42: checks
+RunItTwice: checks
+*** SHOW DOWN ***
+Hero: shows [5d Ts]
+DonkeyKong42: shows [9s Ad]
+RunItTwice: shows [Th 8c]
+xXPokerProXx: shows [5c Jc]
+TriplBarrel: shows [Jh 3d]
+the_nuts_42: shows [7d 4d]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [6d 3c Qd 7c Qh]
+Seat 1: Hero (button) lost
+Seat 2: DonkeyKong42 (small blind) lost
+Seat 3: RunItTwice (big blind) lost
+Seat 4: xXPokerProXx lost
+Seat 5: TriplBarrel lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:17:22 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+xXPokerProXx: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 2h]
+TriplBarrel: folds
+the_nuts_42: folds
+Hero: folds
+DonkeyKong42: folds
+RunItTwice: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 (button) lost
+Seat 3: RunItTwice (small blind) lost
+Seat 4: xXPokerProXx (big blind) lost
+Seat 5: TriplBarrel lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:06 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+xXPokerProXx: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 6h]
+the_nuts_42: folds
+Hero: folds
+DonkeyKong42: folds
+RunItTwice: raises $2.50 to $2.50
+xXPokerProXx: folds
+TriplBarrel: folds
+Uncalled bet ($2.50) returned to RunItTwice
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 lost
+Seat 3: RunItTwice (button) lost
+Seat 4: xXPokerProXx (small blind) lost
+Seat 5: TriplBarrel (big blind) lost
+Seat 6: the_nuts_42 lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:18:45 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 5s]
+Hero: folds
+DonkeyKong42: folds
+RunItTwice: raises $2.30 to $2.30
+xXPokerProXx: folds
+TriplBarrel: folds
+the_nuts_42: folds
+Uncalled bet ($2.30) returned to RunItTwice
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: DonkeyKong42 lost
+Seat 3: RunItTwice lost
+Seat 4: xXPokerProXx (button) lost
+Seat 5: TriplBarrel (small blind) lost
+Seat 6: the_nuts_42 (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:19:25 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7c 5c]
+DonkeyKong42: raises $2.00 to $2.00
+RunItTwice: folds
+xXPokerProXx: folds
+TriplBarrel: folds
+the_nuts_42: folds
+Hero: folds
+Uncalled bet ($2.00) returned to DonkeyKong42
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: DonkeyKong42 lost
+Seat 3: RunItTwice lost
+Seat 4: xXPokerProXx lost
+Seat 5: TriplBarrel (button) lost
+Seat 6: the_nuts_42 (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:14 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: DonkeyKong42 ($100.00 in chips)
+Seat 3: RunItTwice ($100.00 in chips)
+Seat 4: xXPokerProXx ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: the_nuts_42 ($100.00 in chips)
+Hero: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d Ks]
+RunItTwice: folds
+xXPokerProXx: folds
+TriplBarrel: folds
+the_nuts_42: raises $2.50 to $2.50
+Hero: folds
+DonkeyKong42: calls $1.50
+*** FLOP *** [As 4d 3s]
+DonkeyKong42: checks
+the_nuts_42: checks
+*** TURN *** [As 4d 3s] [6d]
+DonkeyKong42: checks
+the_nuts_42: checks
+*** RIVER *** [As 4d 3s 6d] [2s]
+DonkeyKong42: checks
+the_nuts_42: checks
+*** SHOW DOWN ***
+Hero: shows [8d Ks]
+DonkeyKong42: shows [Jd 9d]
+RunItTwice: shows [7d 5d]
+xXPokerProXx: shows [Qc 6h]
+TriplBarrel: shows [6c 7h]
+the_nuts_42: shows [8s Th]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [As 4d 3s 6d 2s]
+Seat 1: Hero (small blind) lost
+Seat 2: DonkeyKong42 (big blind) lost
+Seat 3: RunItTwice lost
+Seat 4: xXPokerProXx lost
+Seat 5: TriplBarrel lost
+Seat 6: the_nuts_42 (button) lost
+

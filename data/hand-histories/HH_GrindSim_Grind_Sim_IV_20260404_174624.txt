@@ -1,0 +1,26 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:32 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: OverBet4Value ($100.00 in chips)
+Seat 4: bluff_catcher ($100.00 in chips)
+Seat 5: xXPokerProXx ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+OverBet4Value: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As 2d]
+bluff_catcher: folds
+xXPokerProXx: folds
+ColdDeck_Carl: folds
+Hero: folds
+TiltMachine: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TiltMachine (small blind) lost
+Seat 3: OverBet4Value (big blind) lost
+Seat 4: bluff_catcher lost
+Seat 5: xXPokerProXx lost
+Seat 6: ColdDeck_Carl lost
+

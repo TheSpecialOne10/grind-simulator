@@ -1,0 +1,28 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:46:33 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FoldPre2024 ($100.00 in chips)
+Seat 3: TheGrinder ($100.00 in chips)
+Seat 4: QuadsOrFold ($100.00 in chips)
+Seat 5: SuitsMe ($100.00 in chips)
+Seat 6: SharkBait55 ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Kd]
+QuadsOrFold: folds
+SuitsMe: raises $2.00 to $2.00
+SharkBait55: folds
+Hero: folds
+FoldPre2024: folds
+TheGrinder: folds
+Uncalled bet ($2.00) returned to SuitsMe
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FoldPre2024 (small blind) lost
+Seat 3: TheGrinder (big blind) lost
+Seat 4: QuadsOrFold lost
+Seat 5: SuitsMe lost
+Seat 6: SharkBait55 lost
+

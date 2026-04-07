@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:19:29 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+SuitsMe: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4s 2d]
+ColdDeck_Carl: folds
+SBvsUTG: folds
+OverBet4Value: folds
+Hero: folds
+SuitsMe: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SuitsMe (small blind) lost
+Seat 3: PotCommitted (big blind) lost
+Seat 4: ColdDeck_Carl lost
+Seat 5: SBvsUTG lost
+Seat 6: OverBet4Value lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:19:48 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SuitsMe ($100.00 in chips)
+Seat 3: PotCommitted ($100.00 in chips)
+Seat 4: ColdDeck_Carl ($100.00 in chips)
+Seat 5: SBvsUTG ($100.00 in chips)
+Seat 6: OverBet4Value ($100.00 in chips)
+PotCommitted: posts small blind $0.50
+ColdDeck_Carl: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d Qs]
+SBvsUTG: folds
+OverBet4Value: folds
+Hero: folds
+SuitsMe: folds
+PotCommitted: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: SuitsMe (button) lost
+Seat 3: PotCommitted (small blind) lost
+Seat 4: ColdDeck_Carl (big blind) lost
+Seat 5: SBvsUTG lost
+Seat 6: OverBet4Value lost
+

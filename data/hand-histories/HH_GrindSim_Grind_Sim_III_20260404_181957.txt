@@ -1,0 +1,76 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:20:50 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlushDraw_Hero ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SnapFold ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+FlushDraw_Hero: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Ks]
+the_nuts_42: folds
+SnapFold: raises $2.00 to $2.00
+RunBadFeelGood: folds
+Hero: folds
+FlushDraw_Hero: raises $10.50 to $11.00
+TriplBarrel: folds
+SnapFold: calls $9.00
+*** FLOP *** [Ac Ad 9d]
+FlushDraw_Hero: checks
+SnapFold: checks
+*** TURN *** [Ac Ad 9d] [5d]
+FlushDraw_Hero: checks
+SnapFold: checks
+*** RIVER *** [Ac Ad 9d 5d] [As]
+FlushDraw_Hero: checks
+SnapFold: checks
+*** SHOW DOWN ***
+Hero: shows [3c Ks]
+FlushDraw_Hero: shows [Td Qd]
+TriplBarrel: shows [3s 6d]
+the_nuts_42: shows [Jd 6s]
+SnapFold: shows [5h 6h]
+RunBadFeelGood: shows [9c 8d]
+*** SUMMARY ***
+Total pot $23.00 | Rake $0.00
+Board [Ac Ad 9d 5d As]
+Seat 1: Hero (button) lost
+Seat 2: FlushDraw_Hero (small blind) lost
+Seat 3: TriplBarrel (big blind) lost
+Seat 4: the_nuts_42 lost
+Seat 5: SnapFold lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:21:16 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlushDraw_Hero ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: SnapFold ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd Tc]
+SnapFold: folds
+RunBadFeelGood: folds
+Hero: raises $2.30 to $2.30
+FlushDraw_Hero: folds
+TriplBarrel: folds
+the_nuts_42: calls $1.30
+*** FLOP *** [Js Ks As]
+the_nuts_42: checks
+Hero: folds
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [Js Ks As]
+Seat 1: Hero lost
+Seat 2: FlushDraw_Hero (button) lost
+Seat 3: TriplBarrel (small blind) lost
+Seat 4: the_nuts_42 (big blind) lost
+Seat 5: SnapFold lost
+Seat 6: RunBadFeelGood lost
+

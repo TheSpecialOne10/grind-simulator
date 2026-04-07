@@ -1,0 +1,104 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:33:40 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+FlopZilla: posts small blind $0.50
+FishOnTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 4h]
+3BetBandit: folds
+NLHE_Grinder: folds
+RunBadFeelGood: folds
+Hero: folds
+FlopZilla: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: FlopZilla (small blind) lost
+Seat 3: FishOnTilt (big blind) lost
+Seat 4: 3BetBandit lost
+Seat 5: NLHE_Grinder lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:34:20 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+FishOnTilt: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 9d]
+NLHE_Grinder: folds
+RunBadFeelGood: folds
+Hero: folds
+FlopZilla: folds
+FishOnTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FlopZilla (button) lost
+Seat 3: FishOnTilt (small blind) lost
+Seat 4: 3BetBandit (big blind) lost
+Seat 5: NLHE_Grinder lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:34:40 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4s]
+RunBadFeelGood: folds
+Hero: folds
+FlopZilla: folds
+FishOnTilt: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FlopZilla lost
+Seat 3: FishOnTilt (button) lost
+Seat 4: 3BetBandit (small blind) lost
+Seat 5: NLHE_Grinder (big blind) lost
+Seat 6: RunBadFeelGood lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:35:21 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: FlopZilla ($100.00 in chips)
+Seat 3: FishOnTilt ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NLHE_Grinder ($100.00 in chips)
+Seat 6: RunBadFeelGood ($100.00 in chips)
+NLHE_Grinder: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 9h]
+Hero: folds
+FlopZilla: folds
+FishOnTilt: folds
+3BetBandit: folds
+NLHE_Grinder: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: FlopZilla lost
+Seat 3: FishOnTilt lost
+Seat 4: 3BetBandit (button) lost
+Seat 5: NLHE_Grinder (small blind) lost
+Seat 6: RunBadFeelGood (big blind) lost
+

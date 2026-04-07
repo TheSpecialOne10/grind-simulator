@@ -1,0 +1,70 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:00 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: NLHE_Grinder ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 2s]
+NLHE_Grinder: folds
+GTO_Wizard: folds
+SetMiner_Pro: folds
+Hero: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: ChetFaker99 (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: NLHE_Grinder lost
+Seat 5: GTO_Wizard lost
+Seat 6: SetMiner_Pro lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:37 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ChetFaker99 ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: NLHE_Grinder ($100.00 in chips)
+Seat 5: GTO_Wizard ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Th]
+GTO_Wizard: folds
+SetMiner_Pro: folds
+Hero: folds
+ChetFaker99: calls $1.00
+ValueTown_Mayor: folds
+NLHE_Grinder: checks
+*** FLOP *** [Tc Ac 3c]
+NLHE_Grinder: checks
+ChetFaker99: checks
+*** TURN *** [Tc Ac 3c] [5s]
+NLHE_Grinder: checks
+ChetFaker99: checks
+*** RIVER *** [Tc Ac 3c 5s] [7d]
+NLHE_Grinder: checks
+ChetFaker99: checks
+*** SHOW DOWN ***
+Hero: shows [6c Th]
+ChetFaker99: shows [7h 7s]
+ValueTown_Mayor: shows [4d Jh]
+NLHE_Grinder: shows [8c Js]
+GTO_Wizard: shows [Ks 4c]
+SetMiner_Pro: shows [Jd 4h]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Tc Ac 3c 5s 7d]
+Seat 1: Hero lost
+Seat 2: ChetFaker99 (button) lost
+Seat 3: ValueTown_Mayor (small blind) lost
+Seat 4: NLHE_Grinder (big blind) lost
+Seat 5: GTO_Wizard lost
+Seat 6: SetMiner_Pro lost
+

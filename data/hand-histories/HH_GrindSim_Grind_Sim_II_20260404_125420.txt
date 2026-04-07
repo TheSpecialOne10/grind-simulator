@@ -1,0 +1,52 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:27 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: WetBoard_Willy ($100.00 in chips)
+Seat 4: NiceCatch88 ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: 4betJam ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 7c]
+NiceCatch88: folds
+Bluffy_McBluff: folds
+4betJam: folds
+Hero: folds
+TiltMachine: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: TiltMachine (small blind) lost
+Seat 3: WetBoard_Willy (big blind) lost
+Seat 4: NiceCatch88 lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: 4betJam lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:54:45 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: TiltMachine ($100.00 in chips)
+Seat 3: WetBoard_Willy ($100.00 in chips)
+Seat 4: NiceCatch88 ($100.00 in chips)
+Seat 5: Bluffy_McBluff ($100.00 in chips)
+Seat 6: 4betJam ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h 7d]
+Bluffy_McBluff: folds
+4betJam: folds
+Hero: folds
+TiltMachine: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: TiltMachine (button) lost
+Seat 3: WetBoard_Willy (small blind) lost
+Seat 4: NiceCatch88 (big blind) lost
+Seat 5: Bluffy_McBluff lost
+Seat 6: 4betJam lost
+

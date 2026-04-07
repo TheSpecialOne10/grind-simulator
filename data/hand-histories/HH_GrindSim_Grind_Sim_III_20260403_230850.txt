@@ -1,0 +1,101 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:09:57 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+CardDead_Chris: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Jh]
+SnapFold: calls $1.00
+SharkBait55: calls $1.00
+Bluffy_McBluff: folds
+Hero: folds
+MegaTilt: folds
+CardDead_Chris: checks
+*** FLOP *** [6c 5s Ad]
+CardDead_Chris: checks
+SnapFold: checks
+SharkBait55: checks
+*** TURN *** [6c 5s Ad] [3s]
+CardDead_Chris: checks
+SnapFold: checks
+SharkBait55: checks
+*** RIVER *** [6c 5s Ad 3s] [8d]
+CardDead_Chris: checks
+SnapFold: checks
+SharkBait55: checks
+*** SHOW DOWN ***
+Hero: shows [2h Jh]
+MegaTilt: shows [9s 8c]
+CardDead_Chris: shows [8s Th]
+SnapFold: shows [As Ts]
+SharkBait55: shows [7h 7d]
+Bluffy_McBluff: shows [2d Ah]
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Board [6c 5s Ad 3s 8d]
+Seat 1: Hero (button) lost
+Seat 2: MegaTilt (small blind) lost
+Seat 3: CardDead_Chris (big blind) lost
+Seat 4: SnapFold lost
+Seat 5: SharkBait55 lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:18 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+CardDead_Chris: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Ks]
+SharkBait55: folds
+Bluffy_McBluff: folds
+Hero: raises $2.50 to $2.50
+MegaTilt: folds
+CardDead_Chris: folds
+SnapFold: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt (button) lost
+Seat 3: CardDead_Chris (small blind) lost
+Seat 4: SnapFold (big blind) lost
+Seat 5: SharkBait55 lost
+Seat 6: Bluffy_McBluff lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:47 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: CardDead_Chris ($100.00 in chips)
+Seat 4: SnapFold ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: Bluffy_McBluff ($100.00 in chips)
+SnapFold: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 9h]
+Bluffy_McBluff: folds
+Hero: folds
+MegaTilt: folds
+CardDead_Chris: folds
+SnapFold: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt lost
+Seat 3: CardDead_Chris (button) lost
+Seat 4: SnapFold (small blind) lost
+Seat 5: SharkBait55 (big blind) lost
+Seat 6: Bluffy_McBluff lost
+

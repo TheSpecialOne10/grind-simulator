@@ -12,9 +12,11 @@ export const CommunityCards: React.FC<Props> = React.memo(({ cards }) => {
 
   return (
     <div className={styles.communityCards}>
-      {cards.map((card, i) => (
-        <CardComponent key={`${card.rank}${card.suit}`} card={card} animate="flip" />
-      ))}
+      {Array.from({ length: 5 }, (_, i) =>
+        cards[i]
+          ? <CardComponent key={`${cards[i].rank}${cards[i].suit}`} card={cards[i]} animate="flip" />
+          : <div key={`empty-${i}`} className={styles.card} style={{ visibility: 'hidden' }} />
+      )}
     </div>
   );
 });

@@ -1,0 +1,85 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:09:17 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 5c]
+the_nuts_42: folds
+TheGrinder: folds
+ColdDeck_Carl: folds
+Hero: folds
+3BetBandit: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 3BetBandit (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: the_nuts_42 lost
+Seat 5: TheGrinder lost
+Seat 6: ColdDeck_Carl lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:09:58 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 6d]
+TheGrinder: folds
+ColdDeck_Carl: folds
+Hero: folds
+3BetBandit: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 3BetBandit (button) lost
+Seat 3: ValueTown_Mayor (small blind) lost
+Seat 4: the_nuts_42 (big blind) lost
+Seat 5: TheGrinder lost
+Seat 6: ColdDeck_Carl lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:10:43 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 3BetBandit ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: the_nuts_42 ($100.00 in chips)
+Seat 5: TheGrinder ($100.00 in chips)
+Seat 6: ColdDeck_Carl ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+TheGrinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd 7d]
+ColdDeck_Carl: folds
+Hero: raises $2.00 to $2.00
+3BetBandit: folds
+ValueTown_Mayor: calls $2.00
+the_nuts_42: folds
+TheGrinder: folds
+*** FLOP *** [As 9h Kh]
+Hero: checks
+ValueTown_Mayor: checks
+Hero: folds
+*** TURN *** [As 9h Kh] [Qc]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [As 9h Kh Qc]
+Seat 1: Hero lost
+Seat 2: 3BetBandit lost
+Seat 3: ValueTown_Mayor (button) lost
+Seat 4: the_nuts_42 (small blind) lost
+Seat 5: TheGrinder (big blind) lost
+Seat 6: ColdDeck_Carl lost
+

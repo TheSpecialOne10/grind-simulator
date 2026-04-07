@@ -1,0 +1,31 @@
+{
+  "scenario": "vs_5bet",
+  "position": "all",
+  "vsPosition": null,
+  "description": "Universal 5-bet call range (all-in or fold)",
+  "defaultAction": "fold",
+  "betSizeBB": 100,
+  "ranges": {
+    "AA": {
+      "call": 1
+    },
+    "KK": {
+      "call": 1
+    },
+    "QQ": {
+      "call": 1
+    },
+    "JJ": {
+      "call": 1
+    },
+    "TT": {
+      "call": 1
+    },
+    "AKs": {
+      "call": 1
+    },
+    "AKo": {
+      "call": 1
+    }
+  }
+}

@@ -1,0 +1,129 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:22 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ColdDeck_Carl ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+ColdDeck_Carl: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 8h]
+AggroManiac: raises $2.50 to $2.50
+the_nuts_42: folds
+SteadyEddie: raises $7.50 to $7.50
+Hero: folds
+ColdDeck_Carl: folds
+ValueTown_Mayor: folds
+AggroManiac: raises $14.75 to $17.25
+SteadyEddie: raises $92.50 to $100.00
+AggroManiac: calls $82.75
+*** FLOP *** [4h 5d Tc]
+AggroManiac: checks
+SteadyEddie: checks
+*** TURN *** [4h 5d Tc] [9h]
+AggroManiac: checks
+SteadyEddie: checks
+*** RIVER *** [4h 5d Tc 9h] [8s]
+AggroManiac: checks
+SteadyEddie: checks
+*** SHOW DOWN ***
+Hero: shows [7d 8h]
+ColdDeck_Carl: shows [Td 4s]
+ValueTown_Mayor: shows [2s 7h]
+AggroManiac: shows [Ac Kc]
+the_nuts_42: shows [4d 9c]
+SteadyEddie: shows [Qd Qc]
+*** SUMMARY ***
+Total pot $201.50 | Rake $0.00
+Board [4h 5d Tc 9h 8s]
+Seat 1: Hero (button) lost
+Seat 2: ColdDeck_Carl (small blind) lost
+Seat 3: ValueTown_Mayor (big blind) lost
+Seat 4: AggroManiac lost
+Seat 5: the_nuts_42 lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:42 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ColdDeck_Carl ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+AggroManiac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 9c]
+the_nuts_42: folds
+SteadyEddie: folds
+Hero: raises $2.50 to $2.50
+ColdDeck_Carl: folds
+ValueTown_Mayor: folds
+AggroManiac: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ColdDeck_Carl (button) lost
+Seat 3: ValueTown_Mayor (small blind) lost
+Seat 4: AggroManiac (big blind) lost
+Seat 5: the_nuts_42 lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:09:53 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ColdDeck_Carl ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+AggroManiac: posts small blind $0.50
+the_nuts_42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Ks]
+SteadyEddie: folds
+Hero: folds
+ColdDeck_Carl: folds
+ValueTown_Mayor: raises $2.50 to $2.50
+AggroManiac: folds
+the_nuts_42: folds
+Uncalled bet ($2.50) returned to ValueTown_Mayor
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ColdDeck_Carl lost
+Seat 3: ValueTown_Mayor (button) lost
+Seat 4: AggroManiac (small blind) lost
+Seat 5: the_nuts_42 (big blind) lost
+Seat 6: SteadyEddie lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:10:04 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: ColdDeck_Carl ($100.00 in chips)
+Seat 3: ValueTown_Mayor ($100.00 in chips)
+Seat 4: AggroManiac ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: SteadyEddie ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+SteadyEddie: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 7s]
+Hero: folds
+ColdDeck_Carl: folds
+ValueTown_Mayor: folds
+AggroManiac: folds
+the_nuts_42: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: ColdDeck_Carl lost
+Seat 3: ValueTown_Mayor lost
+Seat 4: AggroManiac (button) lost
+Seat 5: the_nuts_42 (small blind) lost
+Seat 6: SteadyEddie (big blind) lost
+

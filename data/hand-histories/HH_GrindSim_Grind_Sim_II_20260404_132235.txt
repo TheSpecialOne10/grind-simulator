@@ -1,0 +1,115 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:12 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+RiverRat420: posts small blind $0.50
+DonkeyKong42: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh Ks]
+SBvsUTG: folds
+NiceCatch88: folds
+CheckRaiseKing: folds
+Hero: folds
+RiverRat420: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RiverRat420 (small blind) lost
+Seat 3: DonkeyKong42 (big blind) lost
+Seat 4: SBvsUTG lost
+Seat 5: NiceCatch88 lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:23 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+DonkeyKong42: posts small blind $0.50
+SBvsUTG: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 3h]
+NiceCatch88: folds
+CheckRaiseKing: folds
+Hero: raises $2.00 to $2.00
+RiverRat420: folds
+DonkeyKong42: folds
+SBvsUTG: folds
+Uncalled bet ($2.00) returned to Hero
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RiverRat420 (button) lost
+Seat 3: DonkeyKong42 (small blind) lost
+Seat 4: SBvsUTG (big blind) lost
+Seat 5: NiceCatch88 lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:23:48 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+SBvsUTG: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh Ah]
+CheckRaiseKing: folds
+Hero: raises $2.00 to $2.00
+RiverRat420: calls $2.00
+DonkeyKong42: folds
+SBvsUTG: folds
+NiceCatch88: folds
+*** FLOP *** [As Qs 7h]
+Hero: bets $1.38
+RiverRat420: calls $1.38
+*** TURN *** [As Qs 7h] [3d]
+Hero: bets $10.33
+RiverRat420: folds
+Uncalled bet ($10.33) returned to Hero
+*** SUMMARY ***
+Total pot $18.59 | Rake $0.00
+Board [As Qs 7h 3d]
+Seat 1: Hero lost
+Seat 2: RiverRat420 lost
+Seat 3: DonkeyKong42 (button) lost
+Seat 4: SBvsUTG (small blind) lost
+Seat 5: NiceCatch88 (big blind) lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:24:01 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RiverRat420 ($100.00 in chips)
+Seat 3: DonkeyKong42 ($100.00 in chips)
+Seat 4: SBvsUTG ($100.00 in chips)
+Seat 5: NiceCatch88 ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Qs]
+Hero: folds
+RiverRat420: folds
+DonkeyKong42: folds
+SBvsUTG: folds
+NiceCatch88: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RiverRat420 lost
+Seat 3: DonkeyKong42 lost
+Seat 4: SBvsUTG (button) lost
+Seat 5: NiceCatch88 (small blind) lost
+Seat 6: CheckRaiseKing (big blind) lost
+

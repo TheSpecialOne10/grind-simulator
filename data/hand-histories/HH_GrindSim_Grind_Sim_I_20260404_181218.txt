@@ -1,0 +1,178 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:12:27 ET
+Table 'Grind Sim I' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+LooseGoose: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 6s]
+QuietNit: folds
+TriplBarrel: folds
+ChetFaker99: folds
+Hero: folds
+RunBadFeelGood: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RunBadFeelGood (small blind) lost
+Seat 3: LooseGoose (big blind) lost
+Seat 4: QuietNit lost
+Seat 5: TriplBarrel lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:12:42 ET
+Table 'Grind Sim I' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+QuietNit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 7s]
+TriplBarrel: folds
+ChetFaker99: raises $2.00 to $2.00
+Hero: folds
+RunBadFeelGood: folds
+LooseGoose: folds
+QuietNit: folds
+Uncalled bet ($2.00) returned to ChetFaker99
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood (button) lost
+Seat 3: LooseGoose (small blind) lost
+Seat 4: QuietNit (big blind) lost
+Seat 5: TriplBarrel lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:23 ET
+Table 'Grind Sim I' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+QuietNit: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5d]
+ChetFaker99: folds
+Hero: folds
+RunBadFeelGood: folds
+LooseGoose: raises $2.50 to $2.50
+QuietNit: folds
+TriplBarrel: folds
+Uncalled bet ($2.50) returned to LooseGoose
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood lost
+Seat 3: LooseGoose (button) lost
+Seat 4: QuietNit (small blind) lost
+Seat 5: TriplBarrel (big blind) lost
+Seat 6: ChetFaker99 lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:14:04 ET
+Table 'Grind Sim I' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+ChetFaker99: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Js]
+Hero: folds
+RunBadFeelGood: folds
+LooseGoose: folds
+QuietNit: folds
+TriplBarrel: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunBadFeelGood lost
+Seat 3: LooseGoose lost
+Seat 4: QuietNit (button) lost
+Seat 5: TriplBarrel (small blind) lost
+Seat 6: ChetFaker99 (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:14:14 ET
+Table 'Grind Sim I' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+ChetFaker99: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 6h]
+RunBadFeelGood: folds
+LooseGoose: folds
+QuietNit: folds
+TriplBarrel: folds
+ChetFaker99: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: RunBadFeelGood lost
+Seat 3: LooseGoose lost
+Seat 4: QuietNit lost
+Seat 5: TriplBarrel (button) lost
+Seat 6: ChetFaker99 (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:21 ET
+Table 'Grind Sim I' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunBadFeelGood ($100.00 in chips)
+Seat 3: LooseGoose ($100.00 in chips)
+Seat 4: QuietNit ($100.00 in chips)
+Seat 5: TriplBarrel ($100.00 in chips)
+Seat 6: ChetFaker99 ($100.00 in chips)
+Hero: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Jc]
+LooseGoose: folds
+QuietNit: folds
+TriplBarrel: raises $2.30 to $2.30
+ChetFaker99: folds
+Hero: folds
+RunBadFeelGood: calls $1.30
+*** FLOP *** [Ks 3d As]
+RunBadFeelGood: checks
+TriplBarrel: checks
+*** TURN *** [Ks 3d As] [7c]
+RunBadFeelGood: checks
+TriplBarrel: checks
+*** RIVER *** [Ks 3d As 7c] [6d]
+RunBadFeelGood: checks
+TriplBarrel: checks
+*** SHOW DOWN ***
+Hero: shows [9d Jc]
+RunBadFeelGood: shows [Jh Kh]
+LooseGoose: shows [2h 8s]
+QuietNit: shows [Ah 2c]
+TriplBarrel: shows [Kd Jd]
+ChetFaker99: shows [Ts Qh]
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.00
+Board [Ks 3d As 7c 6d]
+Seat 1: Hero (small blind) lost
+Seat 2: RunBadFeelGood (big blind) lost
+Seat 3: LooseGoose lost
+Seat 4: QuietNit lost
+Seat 5: TriplBarrel lost
+Seat 6: ChetFaker99 (button) lost
+

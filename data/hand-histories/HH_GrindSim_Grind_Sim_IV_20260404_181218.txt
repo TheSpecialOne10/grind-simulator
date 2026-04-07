@@ -1,0 +1,263 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:12:34 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2s Ac]
+SetMiner_Pro: folds
+SharkBait55: folds
+WetBoard_Willy: folds
+Hero: folds
+GTO_Wizard: raises $2.50 to $3.00
+NiceCatch88: folds
+Uncalled bet ($2.50) returned to GTO_Wizard
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: GTO_Wizard (small blind) lost
+Seat 3: NiceCatch88 (big blind) lost
+Seat 4: SetMiner_Pro lost
+Seat 5: SharkBait55 lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:12 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Qh]
+SharkBait55: folds
+WetBoard_Willy: raises $2.00 to $2.00
+Hero: raises $6.50 to $6.50
+GTO_Wizard: folds
+NiceCatch88: folds
+SetMiner_Pro: folds
+WetBoard_Willy: folds
+Uncalled bet ($6.50) returned to Hero
+*** SUMMARY ***
+Total pot $10.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard (button) lost
+Seat 3: NiceCatch88 (small blind) lost
+Seat 4: SetMiner_Pro (big blind) lost
+Seat 5: SharkBait55 lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:22 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d Jh]
+WetBoard_Willy: folds
+Hero: folds
+GTO_Wizard: raises $2.30 to $2.30
+NiceCatch88: folds
+SetMiner_Pro: folds
+SharkBait55: folds
+Uncalled bet ($2.30) returned to GTO_Wizard
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: NiceCatch88 (button) lost
+Seat 4: SetMiner_Pro (small blind) lost
+Seat 5: SharkBait55 (big blind) lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:41 ET
+Table 'Grind Sim IV' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SharkBait55: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 2h]
+Hero: folds
+GTO_Wizard: folds
+NiceCatch88: folds
+SetMiner_Pro: folds
+SharkBait55: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: NiceCatch88 lost
+Seat 4: SetMiner_Pro (button) lost
+Seat 5: SharkBait55 (small blind) lost
+Seat 6: WetBoard_Willy (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:13:54 ET
+Table 'Grind Sim IV' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Kc]
+GTO_Wizard: folds
+NiceCatch88: folds
+SetMiner_Pro: folds
+SharkBait55: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: GTO_Wizard lost
+Seat 3: NiceCatch88 lost
+Seat 4: SetMiner_Pro lost
+Seat 5: SharkBait55 (button) lost
+Seat 6: WetBoard_Willy (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:14:58 ET
+Table 'Grind Sim IV' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+Hero: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7h Kd]
+NiceCatch88: folds
+SetMiner_Pro: folds
+SharkBait55: folds
+WetBoard_Willy: raises $2.50 to $2.50
+Hero: folds
+GTO_Wizard: calls $1.50
+*** FLOP *** [Ah 8h 8c]
+GTO_Wizard: checks
+WetBoard_Willy: checks
+*** TURN *** [Ah 8h 8c] [Th]
+GTO_Wizard: checks
+WetBoard_Willy: checks
+*** RIVER *** [Ah 8h 8c Th] [6c]
+GTO_Wizard: checks
+WetBoard_Willy: checks
+*** SHOW DOWN ***
+Hero: shows [7h Kd]
+GTO_Wizard: shows [Js 9h]
+NiceCatch88: shows [3s 7c]
+SetMiner_Pro: shows [Qs 3d]
+SharkBait55: shows [6s 8d]
+WetBoard_Willy: shows [Ac 5c]
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.00
+Board [Ah 8h 8c Th 6c]
+Seat 1: Hero (small blind) lost
+Seat 2: GTO_Wizard (big blind) lost
+Seat 3: NiceCatch88 lost
+Seat 4: SetMiner_Pro lost
+Seat 5: SharkBait55 lost
+Seat 6: WetBoard_Willy (button) lost
+
+PokerStars Hand #7: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:11 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 2h]
+SetMiner_Pro: folds
+SharkBait55: raises $2.00 to $2.00
+WetBoard_Willy: folds
+Hero: folds
+GTO_Wizard: folds
+NiceCatch88: folds
+Uncalled bet ($2.00) returned to SharkBait55
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: GTO_Wizard (small blind) lost
+Seat 3: NiceCatch88 (big blind) lost
+Seat 4: SetMiner_Pro lost
+Seat 5: SharkBait55 lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #8: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:25 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 8d]
+SharkBait55: folds
+WetBoard_Willy: folds
+Hero: folds
+GTO_Wizard: folds
+NiceCatch88: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard (button) lost
+Seat 3: NiceCatch88 (small blind) lost
+Seat 4: SetMiner_Pro (big blind) lost
+Seat 5: SharkBait55 lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #9: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 18:15:42 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: GTO_Wizard ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SetMiner_Pro ($100.00 in chips)
+Seat 5: SharkBait55 ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+SharkBait55: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 7h]
+WetBoard_Willy: folds
+Hero: folds
+GTO_Wizard: folds
+NiceCatch88: raises $2.50 to $2.50
+SetMiner_Pro: folds
+SharkBait55: folds
+Uncalled bet ($2.50) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: GTO_Wizard lost
+Seat 3: NiceCatch88 (button) lost
+Seat 4: SetMiner_Pro (small blind) lost
+Seat 5: SharkBait55 (big blind) lost
+Seat 6: WetBoard_Willy lost
+

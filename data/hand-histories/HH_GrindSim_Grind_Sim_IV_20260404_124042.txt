@@ -1,0 +1,96 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:03 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+TriplBarrel: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 4c]
+3BetBandit: folds
+NittyProfessor: folds
+CheckRaiseKing: folds
+Hero: folds
+LooseGoose: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: LooseGoose (small blind) lost
+Seat 3: TriplBarrel (big blind) lost
+Seat 4: 3BetBandit lost
+Seat 5: NittyProfessor lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:15 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+TriplBarrel: posts small blind $0.50
+3BetBandit: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 8s]
+NittyProfessor: folds
+CheckRaiseKing: folds
+Hero: folds
+LooseGoose: folds
+TriplBarrel: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: LooseGoose (button) lost
+Seat 3: TriplBarrel (small blind) lost
+Seat 4: 3BetBandit (big blind) lost
+Seat 5: NittyProfessor lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:41:58 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: TriplBarrel ($100.00 in chips)
+Seat 4: 3BetBandit ($100.00 in chips)
+Seat 5: NittyProfessor ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+3BetBandit: posts small blind $0.50
+NittyProfessor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 7s]
+CheckRaiseKing: folds
+Hero: folds
+LooseGoose: calls $1.00
+TriplBarrel: folds
+3BetBandit: folds
+NittyProfessor: checks
+*** FLOP *** [Kd Ks 8d]
+NittyProfessor: checks
+LooseGoose: checks
+*** TURN *** [Kd Ks 8d] [8h]
+NittyProfessor: checks
+LooseGoose: checks
+*** RIVER *** [Kd Ks 8d 8h] [Ah]
+NittyProfessor: checks
+LooseGoose: checks
+*** SHOW DOWN ***
+Hero: shows [5c 7s]
+LooseGoose: shows [6h 6d]
+TriplBarrel: shows [6s Jh]
+3BetBandit: shows [Qc Tc]
+NittyProfessor: shows [5h Jd]
+CheckRaiseKing: shows [3h 7c]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Kd Ks 8d 8h Ah]
+Seat 1: Hero lost
+Seat 2: LooseGoose lost
+Seat 3: TriplBarrel (button) lost
+Seat 4: 3BetBandit (small blind) lost
+Seat 5: NittyProfessor (big blind) lost
+Seat 6: CheckRaiseKing lost
+

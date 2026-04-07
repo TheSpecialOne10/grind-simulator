@@ -1,0 +1,73 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:11 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SlowRoll_Sam ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: QuadsOrFold ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+NiceCatch88: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 7c]
+SlowRoll_Sam: folds
+OverBet4Value: folds
+QuadsOrFold: folds
+Hero: raises $2.50 to $2.50
+CheckRaiseKing: folds
+NiceCatch88: raises $6.50 to $7.50
+Hero: folds
+Uncalled bet ($6.50) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: CheckRaiseKing (small blind) lost
+Seat 3: NiceCatch88 (big blind) lost
+Seat 4: SlowRoll_Sam lost
+Seat 5: OverBet4Value lost
+Seat 6: QuadsOrFold lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:41 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: NiceCatch88 ($100.00 in chips)
+Seat 4: SlowRoll_Sam ($100.00 in chips)
+Seat 5: OverBet4Value ($100.00 in chips)
+Seat 6: QuadsOrFold ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+SlowRoll_Sam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 5s]
+OverBet4Value: folds
+QuadsOrFold: calls $1.00
+Hero: folds
+CheckRaiseKing: folds
+NiceCatch88: folds
+SlowRoll_Sam: checks
+*** FLOP *** [5d 2c Qd]
+SlowRoll_Sam: checks
+QuadsOrFold: checks
+*** TURN *** [5d 2c Qd] [Qh]
+SlowRoll_Sam: checks
+QuadsOrFold: checks
+*** RIVER *** [5d 2c Qd Qh] [Tc]
+SlowRoll_Sam: checks
+QuadsOrFold: checks
+*** SHOW DOWN ***
+Hero: shows [Ac 5s]
+CheckRaiseKing: shows [9s 6h]
+NiceCatch88: shows [6s Qc]
+SlowRoll_Sam: shows [8h 3s]
+OverBet4Value: shows [9h Kd]
+QuadsOrFold: shows [Ad Td]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [5d 2c Qd Qh Tc]
+Seat 1: Hero lost
+Seat 2: CheckRaiseKing (button) lost
+Seat 3: NiceCatch88 (small blind) lost
+Seat 4: SlowRoll_Sam (big blind) lost
+Seat 5: OverBet4Value lost
+Seat 6: QuadsOrFold lost
+

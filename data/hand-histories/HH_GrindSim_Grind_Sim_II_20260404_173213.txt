@@ -1,0 +1,109 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:28 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+AcesUpMySleeve: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As 3s]
+GTO_Wizard: folds
+FoldPre2024: folds
+SuckoutKid: folds
+Hero: raises $2.50 to $2.50
+MegaTilt: raises $99.50 to $100.00
+AcesUpMySleeve: folds
+Hero: folds
+Uncalled bet ($99.50) returned to MegaTilt
+*** SUMMARY ***
+Total pot $103.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: MegaTilt (small blind) lost
+Seat 3: AcesUpMySleeve (big blind) lost
+Seat 4: GTO_Wizard lost
+Seat 5: FoldPre2024 lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:44 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+AcesUpMySleeve: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Th]
+FoldPre2024: folds
+SuckoutKid: folds
+Hero: folds
+MegaTilt: folds
+AcesUpMySleeve: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt (button) lost
+Seat 3: AcesUpMySleeve (small blind) lost
+Seat 4: GTO_Wizard (big blind) lost
+Seat 5: FoldPre2024 lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:54 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+FoldPre2024: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d Ac]
+SuckoutKid: folds
+Hero: folds
+MegaTilt: folds
+AcesUpMySleeve: folds
+GTO_Wizard: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt lost
+Seat 3: AcesUpMySleeve (button) lost
+Seat 4: GTO_Wizard (small blind) lost
+Seat 5: FoldPre2024 (big blind) lost
+Seat 6: SuckoutKid lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:12 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: AcesUpMySleeve ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: FoldPre2024 ($100.00 in chips)
+Seat 6: SuckoutKid ($100.00 in chips)
+FoldPre2024: posts small blind $0.50
+SuckoutKid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 8c]
+Hero: folds
+MegaTilt: folds
+AcesUpMySleeve: folds
+GTO_Wizard: raises $100.00 to $100.00
+FoldPre2024: folds
+SuckoutKid: folds
+Uncalled bet ($100.00) returned to GTO_Wizard
+*** SUMMARY ***
+Total pot $101.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: MegaTilt lost
+Seat 3: AcesUpMySleeve lost
+Seat 4: GTO_Wizard (button) lost
+Seat 5: FoldPre2024 (small blind) lost
+Seat 6: SuckoutKid (big blind) lost
+

@@ -1,0 +1,185 @@
+{
+  "scenario": "vs_3bet",
+  "position": "BTN",
+  "vsPosition": "SB",
+  "description": "BTN vs SB 3-bet (26bb)",
+  "defaultAction": "fold",
+  "betSizeBB": 26,
+  "ranges": {
+    "22": {
+      "call": 0.05,
+      "fold": 0.95
+    },
+    "33": {
+      "call": 0.185,
+      "fold": 0.815
+    },
+    "44": {
+      "call": 0.34,
+      "fold": 0.66
+    },
+    "55": {
+      "raise": 0.085,
+      "call": 0.395,
+      "fold": 0.52
+    },
+    "66": {
+      "raise": 0.035,
+      "call": 0.89,
+      "fold": 0.075
+    },
+    "77": {
+      "raise": 0.055,
+      "call": 0.945
+    },
+    "88": {
+      "raise": 0.165,
+      "call": 0.835
+    },
+    "99": {
+      "raise": 0.05,
+      "call": 0.95
+    },
+    "AA": {
+      "raise": 0.87,
+      "call": 0.13
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 0.96,
+      "call": 0.04
+    },
+    "JJ": {
+      "raise": 0.635,
+      "call": 0.365
+    },
+    "TT": {
+      "raise": 0.37,
+      "call": 0.63
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 0.71,
+      "call": 0.29
+    },
+    "AQs": {
+      "raise": 0.09,
+      "call": 0.91
+    },
+    "AQo": {
+      "raise": 0.205,
+      "call": 0.795
+    },
+    "AJo": {
+      "raise": 0.325,
+      "call": 0.675
+    },
+    "ATo": {
+      "raise": 0.43,
+      "fold": 0.57
+    },
+    "A9s": {
+      "raise": 0.105,
+      "call": 0.895
+    },
+    "A8s": {
+      "raise": 0.265,
+      "call": 0.735
+    },
+    "KQo": {
+      "raise": 0.265,
+      "call": 0.735
+    },
+    "KJo": {
+      "raise": 0.205,
+      "call": 0.005,
+      "fold": 0.79
+    },
+    "QJs": {
+      "raise": 0.105,
+      "call": 0.895
+    },
+    "QJo": {
+      "raise": 0.05,
+      "fold": 0.95
+    },
+    "Q9s": {
+      "raise": 0.435,
+      "call": 0.1,
+      "fold": 0.465
+    },
+    "J9s": {
+      "raise": 0.37,
+      "call": 0.63
+    },
+    "T9s": {
+      "raise": 0.135,
+      "call": 0.865
+    },
+    "T8s": {
+      "raise": 0.405,
+      "call": 0.595
+    },
+    "98s": {
+      "raise": 0.059,
+      "call": 0.92,
+      "fold": 0.021
+    },
+    "54s": {
+      "raise": 0.04,
+      "call": 0.585,
+      "fold": 0.375
+    },
+    "AJs": {
+      "call": 1
+    },
+    "ATs": {
+      "call": 1
+    },
+    "A5s": {
+      "call": 1
+    },
+    "A4s": {
+      "call": 0.485,
+      "fold": 0.515
+    },
+    "KQs": {
+      "call": 1
+    },
+    "KJs": {
+      "call": 1
+    },
+    "KTs": {
+      "call": 1
+    },
+    "K9s": {
+      "call": 1
+    },
+    "K6s": {
+      "call": 0.33,
+      "fold": 0.67
+    },
+    "QTs": {
+      "call": 1
+    },
+    "JTs": {
+      "call": 1
+    },
+    "87s": {
+      "call": 0.775,
+      "fold": 0.225
+    },
+    "76s": {
+      "call": 0.835,
+      "fold": 0.165
+    },
+    "65s": {
+      "call": 0.455,
+      "fold": 0.545
+    }
+  }
+}

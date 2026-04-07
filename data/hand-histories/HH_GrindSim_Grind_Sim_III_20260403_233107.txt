@@ -1,0 +1,89 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:31:24 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: NLHE_Grinder ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+RunItTwice: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [5s Jc]
+NLHE_Grinder: raises $2.50 to $2.50
+QuadsOrFold: folds
+NittyProfessor: folds
+Hero: folds
+RunItTwice: folds
+TightIsRight: folds
+Uncalled bet ($2.50) returned to NLHE_Grinder
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: RunItTwice (small blind) lost
+Seat 3: TightIsRight (big blind) lost
+Seat 4: NLHE_Grinder lost
+Seat 5: QuadsOrFold lost
+Seat 6: NittyProfessor lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:31:46 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: NLHE_Grinder ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Kc]
+QuadsOrFold: folds
+NittyProfessor: folds
+Hero: raises $2.50 to $2.50
+RunItTwice: folds
+TightIsRight: folds
+NLHE_Grinder: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: RunItTwice (button) lost
+Seat 3: TightIsRight (small blind) lost
+Seat 4: NLHE_Grinder (big blind) lost
+Seat 5: QuadsOrFold lost
+Seat 6: NittyProfessor lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:32:43 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: RunItTwice ($100.00 in chips)
+Seat 3: TightIsRight ($100.00 in chips)
+Seat 4: NLHE_Grinder ($100.00 in chips)
+Seat 5: QuadsOrFold ($100.00 in chips)
+Seat 6: NittyProfessor ($100.00 in chips)
+NLHE_Grinder: posts small blind $0.50
+QuadsOrFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Ks]
+NittyProfessor: folds
+Hero: raises $2.50 to $2.50
+RunItTwice: folds
+TightIsRight: calls $2.50
+NLHE_Grinder: folds
+QuadsOrFold: folds
+*** FLOP *** [Kd 9c 4c]
+Hero: checks
+TightIsRight: checks
+Hero: folds
+*** TURN *** [Kd 9c 4c] [Jc]
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.00
+Board [Kd 9c 4c Jc]
+Seat 1: Hero lost
+Seat 2: RunItTwice lost
+Seat 3: TightIsRight (button) lost
+Seat 4: NLHE_Grinder (small blind) lost
+Seat 5: QuadsOrFold (big blind) lost
+Seat 6: NittyProfessor lost
+

@@ -1,0 +1,125 @@
+{
+  "scenario": "vs_rfi",
+  "position": "SB",
+  "vsPosition": "UTG",
+  "description": "SB vs UTG open (3bet-or-fold)",
+  "defaultAction": "fold",
+  "betSizeBB": 10,
+  "ranges": {
+    "66": {
+      "raise": 0.105,
+      "fold": 0.895
+    },
+    "77": {
+      "raise": 0.185,
+      "fold": 0.815
+    },
+    "88": {
+      "raise": 0.25,
+      "fold": 0.75
+    },
+    "99": {
+      "raise": 0.545,
+      "fold": 0.455
+    },
+    "AA": {
+      "raise": 1
+    },
+    "KK": {
+      "raise": 1
+    },
+    "QQ": {
+      "raise": 1
+    },
+    "JJ": {
+      "raise": 1
+    },
+    "TT": {
+      "raise": 1
+    },
+    "AKs": {
+      "raise": 1
+    },
+    "AKo": {
+      "raise": 1
+    },
+    "AQs": {
+      "raise": 1
+    },
+    "AQo": {
+      "raise": 0.595,
+      "fold": 0.405
+    },
+    "AJs": {
+      "raise": 1
+    },
+    "ATs": {
+      "raise": 1
+    },
+    "A8s": {
+      "raise": 0.02,
+      "fold": 0.98
+    },
+    "A5s": {
+      "raise": 0.81,
+      "fold": 0.19
+    },
+    "A4s": {
+      "raise": 0.575,
+      "fold": 0.425
+    },
+    "A3s": {
+      "raise": 0.145,
+      "fold": 0.855
+    },
+    "KQs": {
+      "raise": 1
+    },
+    "KQo": {
+      "raise": 0.13,
+      "fold": 0.87
+    },
+    "KJs": {
+      "raise": 1
+    },
+    "KTs": {
+      "raise": 0.835,
+      "fold": 0.165
+    },
+    "QJs": {
+      "raise": 1
+    },
+    "QTs": {
+      "raise": 0.85,
+      "fold": 0.15
+    },
+    "JTs": {
+      "raise": 0.465,
+      "fold": 0.535
+    },
+    "T9s": {
+      "raise": 0.235,
+      "fold": 0.765
+    },
+    "98s": {
+      "raise": 0.1,
+      "fold": 0.9
+    },
+    "87s": {
+      "raise": 0.23,
+      "fold": 0.77
+    },
+    "76s": {
+      "raise": 0.295,
+      "fold": 0.705
+    },
+    "65s": {
+      "raise": 0.465,
+      "fold": 0.535
+    },
+    "54s": {
+      "raise": 0.35,
+      "fold": 0.65
+    }
+  }
+}

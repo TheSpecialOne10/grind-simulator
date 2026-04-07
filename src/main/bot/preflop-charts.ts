@@ -1,27 +1,14 @@
 import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
-import type { Card, ActionFrequency, Position } from '../../shared/types';
+import type { Card, ActionFrequency } from '../../shared/types';
 import { RANK_VALUES } from '../../shared/constants';
 
 /**
  * Schema for a single preflop scenario file.
- * Each file covers one scenario (e.g., "RFI from UTG", "BB vs UTG open").
  *
- * Expected JSON format:
- * {
- *   "scenario": "rfi",
- *   "position": "UTG",
- *   "vsPosition": null,
- *   "description": "UTG open raise first in",
- *   "defaultAction": "fold",
- *   "ranges": {
- *     "AA":  { "raise": 1.0 },
- *     "AKs": { "raise": 1.0 },
- *     "AKo": { "raise": 0.85, "fold": 0.15 },
- *     "72o": { "fold": 1.0 },
- *     ...
- *   }
- * }
+ * For RFI: hands listed have a raise frequency; missing hands = 100% fold.
+ * For vs_rfi: 3bet and call frequencies provided; missing remainder = fold.
+ * Each scenario includes a fixed betSizeBB (the sizing in BB that must be used).
  */
 export interface PreflopScenarioFile {
   scenario: string;         // "rfi", "vs_rfi", "vs_3bet", "vs_4bet"
@@ -29,6 +16,7 @@ export interface PreflopScenarioFile {
   vsPosition: string | null; // Position of the opponent (e.g., "UTG" for "BB vs UTG open")
   description: string;
   defaultAction: string;    // Action when hand not found in ranges (usually "fold")
+  betSizeBB: number;        // Fixed bet sizing in BB (e.g., 2.5 for a 2.5bb open)
   ranges: Record<string, ActionFrequency>;  // Hand → action frequencies
 }
 
@@ -87,6 +75,12 @@ export class PreflopCharts {
     }
 
     this.loaded = loaded > 0;
+
+    // Normalize cumulative-product frequencies in vs_3bet / vs_4bet files
+    // into conditional frequencies for the current decision point.
+    const normWarnings = this.normalizeScenarios();
+    errors.push(...normWarnings);
+
     return { loaded, errors };
   }
 
@@ -97,6 +91,19 @@ export class PreflopCharts {
     const key = scenarioKey(data.scenario, data.position, data.vsPosition);
     this.scenarios.set(key, data);
     this.loaded = true;
+  }
+
+  /**
+   * Get the full scenario file for a given scenario/position/vsPosition.
+   * Returns null if the scenario is not loaded.
+   */
+  getScenario(
+    scenario: string,
+    position: string,
+    vsPosition: string | null
+  ): PreflopScenarioFile | null {
+    const key = scenarioKey(scenario, position, vsPosition);
+    return this.scenarios.get(key) ?? null;
   }
 
   /**
@@ -178,6 +185,16 @@ export class PreflopCharts {
       }
     }
 
+    if (raises.length === 4) {
+      // Four raises — 5-bet scenario (4-bettor faces a 5-bet shove)
+      const fourBettor = raises[2].playerPosition;
+      const fiveBettor = raises[3].playerPosition;
+
+      if (actingPosition === fourBettor) {
+        return { scenario: 'vs_5bet', position: actingPosition, vsPosition: fiveBettor };
+      }
+    }
+
     // Limp pots or complex multiway — return null (use fallback)
     if (raises.length === 0 && calls.length > 0) {
       // Limp pot
@@ -205,6 +222,76 @@ export class PreflopCharts {
 
     const suited = high.suit === low.suit;
     return `${high.rank}${low.rank}${suited ? 's' : 'o'}`;
+  }
+
+  /**
+   * Normalize vs_3bet and vs_4bet ranges from cumulative-product frequencies
+   * to conditional frequencies. The JSON files store P(prev_action) × P(this_action),
+   * but we need P(this_action | reached this decision point).
+   */
+  private normalizeScenarios(): string[] {
+    const warnings: string[] = [];
+
+    for (const [key, scenario] of this.scenarios) {
+      if (scenario.scenario === 'vs_3bet') {
+        // Previous action: RFI open from this position
+        const prevKey = scenarioKey('rfi', scenario.position, null);
+        const prev = this.scenarios.get(prevKey);
+        if (!prev) {
+          warnings.push(`Cannot normalize ${key}: missing predecessor ${prevKey}`);
+          continue;
+        }
+        this.normalizeRanges(scenario, prev);
+      } else if (scenario.scenario === 'vs_4bet') {
+        // Previous action: 3bet from vs_rfi (this position vs the 4-bettor)
+        const prevKey = scenarioKey('vs_rfi', scenario.position, scenario.vsPosition);
+        const prev = this.scenarios.get(prevKey);
+        if (!prev) {
+          warnings.push(`Cannot normalize ${key}: missing predecessor ${prevKey}`);
+          continue;
+        }
+        this.normalizeRanges(scenario, prev);
+      }
+    }
+
+    return warnings;
+  }
+
+  /**
+   * Divide each non-fold frequency by the predecessor's raise frequency
+   * and recompute fold as the remainder.
+   */
+  private normalizeRanges(
+    scenario: PreflopScenarioFile,
+    prevScenario: PreflopScenarioFile
+  ): void {
+    for (const [hand, freq] of Object.entries(scenario.ranges)) {
+      const prevRaise = prevScenario.ranges[hand]?.raise ?? 0;
+
+      if (prevRaise <= 0.001) {
+        // Hand never reaches this scenario — force fold
+        scenario.ranges[hand] = { fold: 1.0 };
+        continue;
+      }
+
+      const newFreq: ActionFrequency = {};
+      let nonFoldSum = 0;
+
+      for (const [action, value] of Object.entries(freq)) {
+        if (action === 'fold' || !value || value < 0.001) continue;
+        const conditional = Math.min(value / prevRaise, 1.0);
+        const rounded = Math.round(conditional * 1000) / 1000;
+        (newFreq as Record<string, number>)[action] = rounded;
+        nonFoldSum += rounded;
+      }
+
+      const foldFreq = Math.round(Math.max(0, 1.0 - nonFoldSum) * 1000) / 1000;
+      if (foldFreq > 0.001) {
+        newFreq.fold = foldFreq;
+      }
+
+      scenario.ranges[hand] = newFreq;
+    }
   }
 
   /** Validate a scenario file's structure. Returns list of error messages. */

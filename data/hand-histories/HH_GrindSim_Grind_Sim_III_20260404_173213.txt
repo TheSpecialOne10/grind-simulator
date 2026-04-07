@@ -1,0 +1,130 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:27 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+4betJam: posts small blind $0.50
+PocketRockets: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 7h]
+RunBadFeelGood: folds
+TightIsRight: folds
+WetBoard_Willy: folds
+Hero: folds
+4betJam: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: 4betJam (small blind) lost
+Seat 3: PocketRockets (big blind) lost
+Seat 4: RunBadFeelGood lost
+Seat 5: TightIsRight lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:38 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+PocketRockets: posts small blind $0.50
+RunBadFeelGood: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 5h]
+TightIsRight: folds
+WetBoard_Willy: folds
+Hero: folds
+4betJam: folds
+PocketRockets: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam (button) lost
+Seat 3: PocketRockets (small blind) lost
+Seat 4: RunBadFeelGood (big blind) lost
+Seat 5: TightIsRight lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:32:52 ET
+Table 'Grind Sim III' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+RunBadFeelGood: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 7d]
+WetBoard_Willy: folds
+Hero: folds
+4betJam: folds
+PocketRockets: folds
+RunBadFeelGood: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam lost
+Seat 3: PocketRockets (button) lost
+Seat 4: RunBadFeelGood (small blind) lost
+Seat 5: TightIsRight (big blind) lost
+Seat 6: WetBoard_Willy lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:02 ET
+Table 'Grind Sim III' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+WetBoard_Willy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 2h]
+Hero: folds
+4betJam: folds
+PocketRockets: folds
+RunBadFeelGood: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: 4betJam lost
+Seat 3: PocketRockets lost
+Seat 4: RunBadFeelGood (button) lost
+Seat 5: TightIsRight (small blind) lost
+Seat 6: WetBoard_Willy (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:33:11 ET
+Table 'Grind Sim III' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: 4betJam ($100.00 in chips)
+Seat 3: PocketRockets ($100.00 in chips)
+Seat 4: RunBadFeelGood ($100.00 in chips)
+Seat 5: TightIsRight ($100.00 in chips)
+Seat 6: WetBoard_Willy ($100.00 in chips)
+WetBoard_Willy: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 9s]
+4betJam: folds
+PocketRockets: folds
+RunBadFeelGood: folds
+TightIsRight: folds
+WetBoard_Willy: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: 4betJam lost
+Seat 3: PocketRockets lost
+Seat 4: RunBadFeelGood lost
+Seat 5: TightIsRight (button) lost
+Seat 6: WetBoard_Willy (small blind) lost
+

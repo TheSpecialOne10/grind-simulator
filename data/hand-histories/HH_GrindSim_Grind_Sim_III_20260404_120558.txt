@@ -1,0 +1,71 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:06:25 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: Bluffy_McBluff ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+LooseGoose: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd 5h]
+Bluffy_McBluff: folds
+the_nuts_42: folds
+RunItTwice: folds
+Hero: folds
+LooseGoose: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: LooseGoose (small blind) lost
+Seat 3: TiltMachine (big blind) lost
+Seat 4: Bluffy_McBluff lost
+Seat 5: the_nuts_42 lost
+Seat 6: RunItTwice lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:07:08 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: LooseGoose ($100.00 in chips)
+Seat 3: TiltMachine ($100.00 in chips)
+Seat 4: Bluffy_McBluff ($100.00 in chips)
+Seat 5: the_nuts_42 ($100.00 in chips)
+Seat 6: RunItTwice ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+Bluffy_McBluff: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 6s]
+the_nuts_42: calls $1.00
+RunItTwice: raises $2.50 to $2.50
+Hero: folds
+LooseGoose: folds
+TiltMachine: folds
+Bluffy_McBluff: folds
+the_nuts_42: calls $1.50
+*** FLOP *** [2c 4h 7d]
+the_nuts_42: checks
+RunItTwice: checks
+*** TURN *** [2c 4h 7d] [Ac]
+the_nuts_42: checks
+RunItTwice: checks
+*** RIVER *** [2c 4h 7d Ac] [9s]
+the_nuts_42: checks
+RunItTwice: checks
+*** SHOW DOWN ***
+Hero: shows [8s 6s]
+LooseGoose: shows [7s 8c]
+TiltMachine: shows [3d 5s]
+Bluffy_McBluff: shows [2h 6c]
+the_nuts_42: shows [Qs Ad]
+RunItTwice: shows [Jh Js]
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.00
+Board [2c 4h 7d Ac 9s]
+Seat 1: Hero lost
+Seat 2: LooseGoose (button) lost
+Seat 3: TiltMachine (small blind) lost
+Seat 4: Bluffy_McBluff (big blind) lost
+Seat 5: the_nuts_42 lost
+Seat 6: RunItTwice lost
+

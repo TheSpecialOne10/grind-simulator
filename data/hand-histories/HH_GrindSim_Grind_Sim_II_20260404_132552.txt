@@ -1,0 +1,185 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:26:05 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+CheckRaiseKing: posts small blind $0.50
+MegaTilt: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 9h]
+StackEmUp: folds
+ValueTown_Mayor: folds
+TightIsRight: folds
+Hero: raises $2.50 to $2.50
+CheckRaiseKing: folds
+MegaTilt: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: CheckRaiseKing (small blind) lost
+Seat 3: MegaTilt (big blind) lost
+Seat 4: StackEmUp lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:26:18 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+StackEmUp: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 7h]
+ValueTown_Mayor: folds
+TightIsRight: folds
+Hero: folds
+CheckRaiseKing: folds
+MegaTilt: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: CheckRaiseKing (button) lost
+Seat 3: MegaTilt (small blind) lost
+Seat 4: StackEmUp (big blind) lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:07 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+StackEmUp: posts small blind $0.50
+ValueTown_Mayor: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs Kc]
+TightIsRight: folds
+Hero: raises $2.00 to $2.00
+CheckRaiseKing: folds
+MegaTilt: calls $2.00
+StackEmUp: folds
+ValueTown_Mayor: folds
+*** FLOP *** [2s 6c 9c]
+Hero: checks
+MegaTilt: checks
+*** TURN *** [2s 6c 9c] [Qd]
+Hero: bets $3.69
+MegaTilt: folds
+Uncalled bet ($3.69) returned to Hero
+*** SUMMARY ***
+Total pot $9.19 | Rake $0.00
+Board [2s 6c 9c Qd]
+Seat 1: Hero lost
+Seat 2: CheckRaiseKing lost
+Seat 3: MegaTilt (button) lost
+Seat 4: StackEmUp (small blind) lost
+Seat 5: ValueTown_Mayor (big blind) lost
+Seat 6: TightIsRight lost
+
+PokerStars Hand #4: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:15 ET
+Table 'Grind Sim II' 6-max Seat #4 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+ValueTown_Mayor: posts small blind $0.50
+TightIsRight: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Kc]
+Hero: folds
+CheckRaiseKing: folds
+MegaTilt: folds
+StackEmUp: folds
+ValueTown_Mayor: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: CheckRaiseKing lost
+Seat 3: MegaTilt lost
+Seat 4: StackEmUp (button) lost
+Seat 5: ValueTown_Mayor (small blind) lost
+Seat 6: TightIsRight (big blind) lost
+
+PokerStars Hand #5: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:27:29 ET
+Table 'Grind Sim II' 6-max Seat #5 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+TightIsRight: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 9h]
+CheckRaiseKing: folds
+MegaTilt: folds
+StackEmUp: folds
+ValueTown_Mayor: folds
+TightIsRight: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero (big blind) lost
+Seat 2: CheckRaiseKing lost
+Seat 3: MegaTilt lost
+Seat 4: StackEmUp lost
+Seat 5: ValueTown_Mayor (button) lost
+Seat 6: TightIsRight (small blind) lost
+
+PokerStars Hand #6: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:28:10 ET
+Table 'Grind Sim II' 6-max Seat #6 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: CheckRaiseKing ($100.00 in chips)
+Seat 3: MegaTilt ($100.00 in chips)
+Seat 4: StackEmUp ($100.00 in chips)
+Seat 5: ValueTown_Mayor ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+Hero: posts small blind $0.50
+CheckRaiseKing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 9s]
+MegaTilt: folds
+StackEmUp: calls $1.00
+ValueTown_Mayor: folds
+TightIsRight: folds
+Hero: folds
+CheckRaiseKing: checks
+*** FLOP *** [6c 4h As]
+CheckRaiseKing: checks
+StackEmUp: checks
+*** TURN *** [6c 4h As] [8s]
+CheckRaiseKing: checks
+StackEmUp: checks
+*** RIVER *** [6c 4h As 8s] [5s]
+CheckRaiseKing: checks
+StackEmUp: checks
+*** SHOW DOWN ***
+Hero: shows [Kc 9s]
+CheckRaiseKing: shows [5h Th]
+MegaTilt: shows [5c 2s]
+StackEmUp: shows [Qh Kh]
+ValueTown_Mayor: shows [6h Jd]
+TightIsRight: shows [3h Ah]
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [6c 4h As 8s 5s]
+Seat 1: Hero (small blind) lost
+Seat 2: CheckRaiseKing (big blind) lost
+Seat 3: MegaTilt lost
+Seat 4: StackEmUp lost
+Seat 5: ValueTown_Mayor lost
+Seat 6: TightIsRight (button) lost
+

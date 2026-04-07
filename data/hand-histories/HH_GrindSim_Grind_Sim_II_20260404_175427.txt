@@ -1,0 +1,99 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:54:41 ET
+Table 'Grind Sim II' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+NiceCatch88: posts small blind $0.50
+4betJam: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 6c]
+GTO_Wizard: folds
+PotCommitted: raises $2.00 to $2.00
+SetMiner_Pro: folds
+Hero: folds
+NiceCatch88: raises $10.50 to $11.00
+4betJam: folds
+PotCommitted: folds
+Uncalled bet ($10.50) returned to NiceCatch88
+*** SUMMARY ***
+Total pot $14.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: NiceCatch88 (small blind) lost
+Seat 3: 4betJam (big blind) lost
+Seat 4: GTO_Wizard lost
+Seat 5: PotCommitted lost
+Seat 6: SetMiner_Pro lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:55:18 ET
+Table 'Grind Sim II' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+4betJam: posts small blind $0.50
+GTO_Wizard: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 5c]
+PotCommitted: folds
+SetMiner_Pro: folds
+Hero: folds
+NiceCatch88: folds
+4betJam: raises $2.50 to $3.00
+GTO_Wizard: calls $2.00
+*** FLOP *** [Qh 5s 9s]
+4betJam: checks
+GTO_Wizard: checks
+*** TURN *** [Qh 5s 9s] [Kh]
+4betJam: checks
+GTO_Wizard: checks
+*** RIVER *** [Qh 5s 9s Kh] [7c]
+4betJam: checks
+GTO_Wizard: checks
+*** SHOW DOWN ***
+Hero: shows [Tc 5c]
+NiceCatch88: shows [3s Kd]
+4betJam: shows [8h Th]
+GTO_Wizard: shows [Ah 6c]
+PotCommitted: shows [5d 9d]
+SetMiner_Pro: shows [9c Td]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [Qh 5s 9s Kh 7c]
+Seat 1: Hero lost
+Seat 2: NiceCatch88 (button) lost
+Seat 3: 4betJam (small blind) lost
+Seat 4: GTO_Wizard (big blind) lost
+Seat 5: PotCommitted lost
+Seat 6: SetMiner_Pro lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 17:55:35 ET
+Table 'Grind Sim II' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: NiceCatch88 ($100.00 in chips)
+Seat 3: 4betJam ($100.00 in chips)
+Seat 4: GTO_Wizard ($100.00 in chips)
+Seat 5: PotCommitted ($100.00 in chips)
+Seat 6: SetMiner_Pro ($100.00 in chips)
+GTO_Wizard: posts small blind $0.50
+PotCommitted: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8d As]
+SetMiner_Pro: folds
+Hero: folds
+NiceCatch88: folds
+4betJam: folds
+GTO_Wizard: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: NiceCatch88 lost
+Seat 3: 4betJam (button) lost
+Seat 4: GTO_Wizard (small blind) lost
+Seat 5: PotCommitted (big blind) lost
+Seat 6: SetMiner_Pro lost
+

@@ -1,0 +1,75 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:49:36 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: NLHE_Grinder ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+SetMiner_Pro: posts small blind $0.50
+NLHE_Grinder: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 2d]
+SuitsMe: folds
+WetBoard_Willy: raises $2.50 to $2.50
+CheckRaiseKing: folds
+Hero: folds
+SetMiner_Pro: folds
+NLHE_Grinder: folds
+Uncalled bet ($2.50) returned to WetBoard_Willy
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: SetMiner_Pro (small blind) lost
+Seat 3: NLHE_Grinder (big blind) lost
+Seat 4: SuitsMe lost
+Seat 5: WetBoard_Willy lost
+Seat 6: CheckRaiseKing lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/03 23:50:25 ET
+Table 'Grind Sim III' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SetMiner_Pro ($100.00 in chips)
+Seat 3: NLHE_Grinder ($100.00 in chips)
+Seat 4: SuitsMe ($100.00 in chips)
+Seat 5: WetBoard_Willy ($100.00 in chips)
+Seat 6: CheckRaiseKing ($100.00 in chips)
+NLHE_Grinder: posts small blind $0.50
+SuitsMe: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6h Td]
+WetBoard_Willy: folds
+CheckRaiseKing: folds
+Hero: folds
+SetMiner_Pro: raises $2.50 to $2.50
+NLHE_Grinder: folds
+SuitsMe: raises $6.50 to $7.50
+SetMiner_Pro: raises $14.75 to $17.25
+SuitsMe: raises $92.50 to $100.00
+SetMiner_Pro: calls $82.75
+*** FLOP *** [4h 6c 9h]
+SuitsMe: checks
+SetMiner_Pro: checks
+*** TURN *** [4h 6c 9h] [3h]
+SuitsMe: checks
+SetMiner_Pro: checks
+*** RIVER *** [4h 6c 9h 3h] [5h]
+SuitsMe: checks
+SetMiner_Pro: checks
+*** SHOW DOWN ***
+Hero: shows [6h Td]
+SetMiner_Pro: shows [As Ks]
+NLHE_Grinder: shows [2c 6d]
+SuitsMe: shows [Kc Ac]
+WetBoard_Willy: shows [Js 5d]
+CheckRaiseKing: shows [5c 9c]
+*** SUMMARY ***
+Total pot $200.50 | Rake $0.00
+Board [4h 6c 9h 3h 5h]
+Seat 1: Hero lost
+Seat 2: SetMiner_Pro (button) lost
+Seat 3: NLHE_Grinder (small blind) lost
+Seat 4: SuitsMe (big blind) lost
+Seat 5: WetBoard_Willy lost
+Seat 6: CheckRaiseKing lost
+

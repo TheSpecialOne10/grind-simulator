@@ -1,0 +1,98 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:08 ET
+Table 'Grind Sim IV' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: bluff_catcher ($100.00 in chips)
+Seat 4: TiltMachine ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+the_nuts_42: posts small blind $0.50
+bluff_catcher: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh Jd]
+TiltMachine: folds
+SetMiner_Pro: folds
+FishOnTilt: folds
+Hero: raises $2.50 to $2.50
+the_nuts_42: folds
+bluff_catcher: folds
+Uncalled bet ($2.50) returned to Hero
+*** SUMMARY ***
+Total pot $4.00 | Rake $0.00
+Seat 1: Hero (button) lost
+Seat 2: the_nuts_42 (small blind) lost
+Seat 3: bluff_catcher (big blind) lost
+Seat 4: TiltMachine lost
+Seat 5: SetMiner_Pro lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #2: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:14:46 ET
+Table 'Grind Sim IV' 6-max Seat #2 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: bluff_catcher ($100.00 in chips)
+Seat 4: TiltMachine ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+bluff_catcher: posts small blind $0.50
+TiltMachine: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 3s]
+SetMiner_Pro: folds
+FishOnTilt: raises $2.50 to $2.50
+Hero: folds
+the_nuts_42: folds
+bluff_catcher: calls $2.00
+TiltMachine: folds
+*** FLOP *** [Qd 3d 2h]
+bluff_catcher: checks
+FishOnTilt: checks
+*** TURN *** [Qd 3d 2h] [4d]
+bluff_catcher: checks
+FishOnTilt: checks
+*** RIVER *** [Qd 3d 2h 4d] [8s]
+bluff_catcher: checks
+FishOnTilt: checks
+*** SHOW DOWN ***
+Hero: shows [7s 3s]
+the_nuts_42: shows [9h Ad]
+bluff_catcher: shows [Tc Ac]
+TiltMachine: shows [9d 6s]
+SetMiner_Pro: shows [3h Jc]
+FishOnTilt: shows [9c 9s]
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [Qd 3d 2h 4d 8s]
+Seat 1: Hero lost
+Seat 2: the_nuts_42 (button) lost
+Seat 3: bluff_catcher (small blind) lost
+Seat 4: TiltMachine (big blind) lost
+Seat 5: SetMiner_Pro lost
+Seat 6: FishOnTilt lost
+
+PokerStars Hand #3: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 13:15:05 ET
+Table 'Grind Sim IV' 6-max Seat #3 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: the_nuts_42 ($100.00 in chips)
+Seat 3: bluff_catcher ($100.00 in chips)
+Seat 4: TiltMachine ($100.00 in chips)
+Seat 5: SetMiner_Pro ($100.00 in chips)
+Seat 6: FishOnTilt ($100.00 in chips)
+TiltMachine: posts small blind $0.50
+SetMiner_Pro: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 2c]
+FishOnTilt: folds
+Hero: folds
+the_nuts_42: folds
+bluff_catcher: folds
+TiltMachine: folds
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00
+Seat 1: Hero lost
+Seat 2: the_nuts_42 lost
+Seat 3: bluff_catcher (button) lost
+Seat 4: TiltMachine (small blind) lost
+Seat 5: SetMiner_Pro (big blind) lost
+Seat 6: FishOnTilt lost
+

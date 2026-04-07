@@ -1,12 +1,13 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import type { Settings } from '../shared/types';
+import { DEFAULT_HOTKEYS } from '../shared/types';
 import { PokerTable } from './components/table/PokerTable';
-import { Settings as SettingsPanel } from './components/lobby/Settings';
+import { Settings as SettingsView } from './components/lobby/Settings';
 import { useTableState } from './hooks/useTableState';
 import { useSound } from './hooks/useSound';
+import { refreshHotkeyCache } from './hooks/useHotkeys';
 
 export function App(): React.JSX.Element {
-  // Check if this is a table window (has tableId in URL)
   const tableId = window.grindSim.getTableIdFromURL();
 
   if (tableId) {
@@ -18,14 +19,39 @@ export function App(): React.JSX.Element {
 
 // ── Table Window (one per poker table) ──
 
-function TableWindow({ tableId }: { tableId: string }): React.JSX.Element {
-  const snapshot = useTableState(tableId);
+function TableWindow({ tableId: initialTableId }: { tableId: string }): React.JSX.Element {
+  const [activeTableId, setActiveTableId] = useState(initialTableId);
+  const snapshot = useTableState(activeTableId);
   useSound();
 
-  // Signal to main process that this renderer is mounted and ready for snapshots
   useEffect(() => {
-    window.grindSim.signalTableReady(tableId);
-  }, [tableId]);
+    window.grindSim.signalTableReady(initialTableId);
+  }, [initialTableId]);
+
+  // Zoom mode: switch active table when main process redirects hero
+  useEffect(() => {
+    return window.grindSim.onZoomRedirect(({ tableId }) => {
+      console.log(`[ZoomRenderer] ZOOM_REDIRECT received → switching to ${tableId}`);
+      setActiveTableId(tableId);
+    });
+  }, []);
+
+  // Focus this window when mouse hovers so hotkeys go to the table under cursor
+  useEffect(() => {
+    let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+    const handleMouseMove = () => {
+      if (debounceTimer) return;
+      debounceTimer = setTimeout(() => { debounceTimer = null; }, 200);
+      if (!document.hasFocus()) {
+        window.grindSim.focusWindow();
+      }
+    };
+    document.addEventListener('mousemove', handleMouseMove);
+    return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
+      if (debounceTimer) clearTimeout(debounceTimer);
+    };
+  }, []);
 
   if (!snapshot) {
     return (
@@ -44,26 +70,30 @@ function TableWindow({ tableId }: { tableId: string }): React.JSX.Element {
 
 // ── Lobby Window (main window) ──
 
+type LobbyView = 'home' | 'settings';
+
 function LobbyWindow(): React.JSX.Element {
+  const [view, setView] = useState<LobbyView>('home');
   const [isPlaying, setIsPlaying] = useState(false);
   const [tableCount, setTableCount] = useState(1);
   const [playerName, setPlayerName] = useState('Hero');
-  const [showSettings, setShowSettings] = useState(false);
-  const [settings, setSettings] = useState<Settings>({
-    masterVolume: 0.8,
-    handHistoryPath: '',
-    solverDataPath: '',
-    solverExecutablePath: '',
-    solverMode: 'child_process',
-    solverServerHost: 'localhost',
-    solverServerPort: 5251,
-    playerName: 'Hero',
-  });
+  const [revealBotCards, setRevealBotCards] = useState(false);
+  const [zoomMode, setZoomMode] = useState(false);
+  const [settings, setSettings] = useState<Settings | null>(null);
+
+  // Load persisted settings from disk on mount
+  useEffect(() => {
+    window.grindSim.getSettings().then(s => {
+      setSettings(s);
+      setPlayerName(s.playerName);
+      refreshHotkeyCache(s.hotkeys);
+    });
+  }, []);
 
   const handleStart = useCallback(() => {
-    window.grindSim.startSession({ tableCount, playerName });
+    window.grindSim.startSession({ tableCount, playerName, revealBotCards, zoomMode });
     setIsPlaying(true);
-  }, [tableCount, playerName]);
+  }, [tableCount, playerName, revealBotCards, zoomMode]);
 
   const handleStop = useCallback(() => {
     window.grindSim.stopSession();
@@ -71,13 +101,34 @@ function LobbyWindow(): React.JSX.Element {
   }, []);
 
   const handleSettingsUpdate = (partial: Partial<Settings>) => {
-    setSettings(prev => ({ ...prev, ...partial }));
+    setSettings(prev => {
+      if (!prev) return prev;
+      const next = { ...prev, ...partial };
+      if (partial.hotkeys) {
+        next.hotkeys = { ...prev.hotkeys, ...partial.hotkeys };
+      }
+      refreshHotkeyCache(next.hotkeys);
+      return next;
+    });
+    // Persist to disk via main process
     window.grindSim.updateSettings(partial);
     if (partial.playerName !== undefined) {
       setPlayerName(partial.playerName);
     }
   };
 
+  // Settings view (full page)
+  if (view === 'settings' && settings) {
+    return (
+      <SettingsView
+        settings={settings}
+        onUpdate={handleSettingsUpdate}
+        onBack={() => setView('home')}
+      />
+    );
+  }
+
+  // Session active view
   if (isPlaying) {
     return (
       <div style={{
@@ -104,6 +155,7 @@ function LobbyWindow(): React.JSX.Element {
     );
   }
 
+  // Home / lobby view
   return (
     <div style={{
       width: '100vw', height: '100vh', display: 'flex', flexDirection: 'column',
@@ -147,6 +199,27 @@ function LobbyWindow(): React.JSX.Element {
         </label>
       </div>
 
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <label style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#a0a0b0', fontSize: 14, cursor: 'pointer' }}>
+          <input
+            type="checkbox"
+            checked={revealBotCards}
+            onChange={e => setRevealBotCards(e.target.checked)}
+            style={{ width: 16, height: 16, cursor: 'pointer' }}
+          />
+          Reveal bot hole cards
+        </label>
+        <label style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#a0a0b0', fontSize: 14, cursor: 'pointer' }}>
+          <input
+            type="checkbox"
+            checked={zoomMode}
+            onChange={e => setZoomMode(e.target.checked)}
+            style={{ width: 16, height: 16, cursor: 'pointer' }}
+          />
+          Zoom Mode
+        </label>
+      </div>
+
       <div style={{ display: 'flex', gap: 12, marginTop: 12 }}>
         <button
           onClick={handleStart}
@@ -159,7 +232,7 @@ function LobbyWindow(): React.JSX.Element {
           START GRINDING
         </button>
         <button
-          onClick={() => setShowSettings(true)}
+          onClick={() => setView('settings')}
           style={{
             padding: '14px 20px', borderRadius: 8, border: '1px solid #444',
             background: '#16213e', color: '#a0a0b0', fontSize: 16, cursor: 'pointer',
@@ -168,14 +241,6 @@ function LobbyWindow(): React.JSX.Element {
           Settings
         </button>
       </div>
-
-      {showSettings && (
-        <SettingsPanel
-          settings={settings}
-          onUpdate={handleSettingsUpdate}
-          onClose={() => setShowSettings(false)}
-        />
-      )}
     </div>
   );
 }

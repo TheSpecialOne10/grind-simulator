@@ -1,0 +1,47 @@
+PokerStars Hand #1: Hold'em No Limit ($0.50/$1.00 USD) - 2026/04/04 12:51:12 ET
+Table 'Grind Sim III' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: MegaTilt ($100.00 in chips)
+Seat 3: SnapFold ($100.00 in chips)
+Seat 4: RunItTwice ($100.00 in chips)
+Seat 5: SuckoutKid ($100.00 in chips)
+Seat 6: TightIsRight ($100.00 in chips)
+MegaTilt: posts small blind $0.50
+SnapFold: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 8c]
+RunItTwice: folds
+SuckoutKid: folds
+TightIsRight: raises $2.50 to $2.50
+Hero: folds
+MegaTilt: raises $7.00 to $7.50
+SnapFold: folds
+TightIsRight: raises $14.75 to $17.25
+MegaTilt: raises $92.50 to $100.00
+TightIsRight: calls $82.75
+*** FLOP *** [Ks 6c 6d]
+MegaTilt: checks
+TightIsRight: checks
+*** TURN *** [Ks 6c 6d] [4h]
+MegaTilt: checks
+TightIsRight: checks
+*** RIVER *** [Ks 6c 6d 4h] [7s]
+MegaTilt: checks
+TightIsRight: checks
+*** SHOW DOWN ***
+Hero: shows [2c 8c]
+MegaTilt: shows [Qs Qh]
+SnapFold: shows [4d 7c]
+RunItTwice: shows [5s 4s]
+SuckoutKid: shows [3d 8h]
+TightIsRight: shows [Ad Kd]
+*** SUMMARY ***
+Total pot $201.00 | Rake $0.00
+Board [Ks 6c 6d 4h 7s]
+Seat 1: Hero (button) lost
+Seat 2: MegaTilt (small blind) lost
+Seat 3: SnapFold (big blind) lost
+Seat 4: RunItTwice lost
+Seat 5: SuckoutKid lost
+Seat 6: TightIsRight lost
+
