@@ -1,8 +1,10 @@
 import { contextBridge, ipcRenderer } from 'electron';
 import { IPC } from '../shared/ipc-channels';
 import type {
-  ActionType, PreflopFeedbackData, SessionConfig, Settings, TableSnapshot, SoundTrigger
+  ActionType, PreflopFeedbackData, PostflopFeedbackData, SessionConfig, SpotSessionConfig,
+  Settings, TableSnapshot, SoundTrigger
 } from '../shared/types';
+import type { SpotConfig } from '../main/spot-trainer/spot-config';
 
 const api = {
   // Send player action (includes solver node ID for tree navigation)
@@ -67,6 +69,21 @@ const api = {
     ipcRenderer.on(IPC.PREFLOP_FEEDBACK, handler);
     return () => { ipcRenderer.removeListener(IPC.PREFLOP_FEEDBACK, handler); };
   },
+
+  // Postflop feedback after each hero postflop action (Spot Trainer mode)
+  onPostflopFeedback: (callback: (data: PostflopFeedbackData | null) => void) => {
+    const handler = (_event: Electron.IpcRendererEvent, data: PostflopFeedbackData | null) => callback(data);
+    ipcRenderer.on(IPC.POSTFLOP_FEEDBACK, handler);
+    return () => { ipcRenderer.removeListener(IPC.POSTFLOP_FEEDBACK, handler); };
+  },
+
+  // Start a Spot Trainer session
+  startSpotSession: (config: SpotSessionConfig) => {
+    ipcRenderer.send(IPC.START_SPOT_SESSION, config);
+  },
+
+  // Get available spot catalog (API-backed, filtered to locally available ranges)
+  getSpotCatalog: (): Promise<SpotConfig[]> => ipcRenderer.invoke(IPC.GET_SPOT_CATALOG),
 
   // Zoom early fold — hero pre-folds before their turn
   zoomFoldEarly: (tableId: string) => {

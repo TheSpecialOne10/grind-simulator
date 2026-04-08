@@ -9,7 +9,7 @@ export const MAX_TABLES = 9;
 export const MAX_SEATS = 6;
 
 export const ACTION_TIMEOUT_SECONDS = 30;
-export const BOT_DELAY_MIN_MS = 1000;
+export const BOT_DELAY_MIN_MS = 2500;
 export const BOT_DELAY_MAX_MS = 8000;
 export const PAUSE_BETWEEN_HANDS_MS = 2500;
 

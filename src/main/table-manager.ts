@@ -1,5 +1,6 @@
 import { BrowserWindow, screen } from 'electron';
 import type { HandState } from '../shared/types';
+import { BB_CENTS } from '../shared/constants';
 import { IPC } from '../shared/ipc-channels';
 import { GameEngine } from './engine/game-engine';
 import { BotController } from './bot/bot-controller';
@@ -7,6 +8,11 @@ import { PreflopCharts } from './bot/preflop-charts';
 import { HandHistoryWriter } from './history/hand-history-writer';
 import type { ActionProvider } from './engine/types';
 import { join } from 'node:path';
+import type { SpotConfig } from './spot-trainer/spot-config';
+import { getRangeRefs } from './spot-trainer/spot-config';
+import type { HeroSide } from './spot-trainer/spot-config';
+import { sampleSpotHands } from './spot-trainer/hand-sampler';
+import type { IPostflopApiClient } from './spot-trainer/postflop-api-client';
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'];
 
@@ -32,7 +38,9 @@ export class TableManager {
   private botController: BotController;
   private hhWriter: HandHistoryWriter | null = null;
   private usedBotNames: Set<string> = new Set();
-  private pendingActions: Map<string, (action: { type: string; amount: number }) => void> = new Map();
+  private pendingActions: Map<string, (action: { type: string; amount: number; solverNodeId?: string }) => void> = new Map();
+  /** Latest UI actions per table — used by timeout handler to find correct solverNodeId */
+  private currentUiActions: Map<string, import('../shared/types').AvailableAction[]> = new Map();
   private tableIndexMap: Map<string, number> = new Map();
 
   // Zoom mode
@@ -148,10 +156,10 @@ export class TableManager {
     this.tableWindows.clear();
   }
 
-  handlePlayerAction(tableId: string, action: string, amount: number, _solverNodeId: string): void {
+  handlePlayerAction(tableId: string, action: string, amount: number, solverNodeId: string): void {
     const resolve = this.pendingActions.get(tableId);
     if (resolve) {
-      resolve({ type: action, amount });
+      resolve({ type: action, amount, solverNodeId });
       this.pendingActions.delete(tableId);
     }
     // Zoom: fold triggers fast-mode so remaining bots finish the hand instantly
@@ -268,11 +276,20 @@ export class TableManager {
     return tableWindow;
   }
 
+  /** Store the latest available actions for a table (used by timeout to get correct solverNodeId). */
+  setCurrentUiActions(tableId: string, actions: import('../shared/types').AvailableAction[] | null): void {
+    if (actions) {
+      this.currentUiActions.set(tableId, actions);
+    } else {
+      this.currentUiActions.delete(tableId);
+    }
+  }
+
   private waitForHumanAction(
     tableId: string,
     _handState: HandState,
     validActions: { type: string; minAmount: number; maxAmount: number }[]
-  ): Promise<{ type: string; amount: number }> {
+  ): Promise<{ type: string; amount: number; solverNodeId?: string }> {
     // Early fold was registered before hero's turn — resolve immediately
     if (this.earlyFoldTables.has(tableId)) {
       this.earlyFoldTables.delete(tableId);
@@ -286,8 +303,16 @@ export class TableManager {
       const timeout = setTimeout(() => {
         if (this.pendingActions.has(tableId)) {
           this.pendingActions.delete(tableId);
+          // Look up the solverNodeId from the current UI actions (tree-provided)
+          const uiActions = this.currentUiActions.get(tableId);
           const check = validActions.find(a => a.type === 'check');
-          resolve(check ? { type: 'check', amount: 0 } : { type: 'fold', amount: 0 });
+          if (check) {
+            const nodeId = uiActions?.find(a => a.type === 'check')?.solverNodeId ?? '';
+            resolve({ type: 'check', amount: 0, solverNodeId: nodeId });
+          } else {
+            const nodeId = uiActions?.find(a => a.type === 'fold')?.solverNodeId ?? '';
+            resolve({ type: 'fold', amount: 0, solverNodeId: nodeId });
+          }
         }
       }, 30_000);
 
@@ -343,5 +368,120 @@ export class TableManager {
     }
 
     return picked;
+  }
+
+  /**
+   * Start a Spot Trainer session.
+   * Creates N tables, each running the same postflop spot in a continuous drill loop.
+   * No hand history is written; no zoom mode; no preflop betting.
+   */
+  startSpotSession(
+    spotConfig: SpotConfig,
+    heroSide: HeroSide,
+    tableCount: number,
+    playerName: string,
+    apiClient: IPostflopApiClient,
+    boards: string[]
+  ): void {
+    this.stopSession();
+    this.usedBotNames.clear();
+    this.tableIndexMap.clear();
+
+    const { heroRef, villainRef } = getRangeRefs(spotConfig, heroSide);
+
+    // Hero is always at seat 0 (bottom-center).
+    // Villain seat is computed from position offsets so the table layout is spatially correct.
+    // assignPositions() uses: offset = (seatIndex - buttonSeatIndex + 6) % 6
+    // where POSITION_LABELS_6MAX = ['BTN','SB','BB','UTG','HJ','CO'] (offset 0–5).
+    const humanSeatIndex = 0;
+    const SEAT_OFFSET: Record<string, number> = { BTN: 0, SB: 1, BB: 2, UTG: 3, HJ: 4, CO: 5 };
+    const heroPosition    = heroSide === 'IP' ? spotConfig.ipPosition  : spotConfig.oopPosition;
+    const villainPosition = heroSide === 'IP' ? spotConfig.oopPosition : spotConfig.ipPosition;
+    const heroPosOffset    = SEAT_OFFSET[heroPosition as string] ?? 0;
+    const villainPosOffset = SEAT_OFFSET[villainPosition as string] ?? 0;
+    // buttonSeatIndex is the seat that gets BTN label (offset 0).
+    const buttonSeatIndex  = (6 - heroPosOffset) % 6;
+    const villainSeatIndex = (villainPosOffset + buttonSeatIndex) % 6;
+    const oopSeatIndex = heroSide === 'OOP' ? humanSeatIndex : villainSeatIndex;
+
+    const potCents = Math.round(spotConfig.potBB * BB_CENTS);
+    const effectiveStackCents = Math.round(spotConfig.effectiveStackBB * BB_CENTS);
+
+    for (let i = 0; i < tableCount; i++) {
+      const tableId = `spot-${i + 1}`;
+      const tableName = `Spot Drill ${ROMAN[i] ?? (i + 1)}`;
+      const villainName = this.pickBotNames(1)[0];
+      // Place hero and villain at their computed seats; remaining seats sit out
+      const playerNames: string[] = ['', '', '', '', '', ''];
+      playerNames[humanSeatIndex] = playerName;
+      playerNames[villainSeatIndex] = villainName;
+      for (let s = 0; s < 6; s++) {
+        if (s !== humanSeatIndex && s !== villainSeatIndex) playerNames[s] = `Bot${s + 1}`;
+      }
+      this.tableIndexMap.set(tableId, i);
+
+      this.createTableWindow(tableId, tableName, i, tableCount);
+
+      const actionProvider: ActionProvider = {
+        getAction: async (handState, seatIndex, validActions) => {
+          if (seatIndex === humanSeatIndex) {
+            return this.waitForHumanAction(tableId, handState, validActions);
+          }
+          // Bot action — delegated to engine's spot betting round (uses API)
+          // The PostflopBotController is used inside playSpotHand via the engine config
+          // Here we provide a simple check/fold fallback (shouldn't be called in spot mode
+          // for bots because runSpotBettingRound handles bot actions directly)
+          return { type: 'check', amount: 0 };
+        }
+      };
+
+      const engine = new GameEngine({
+        tableId,
+        humanSeatIndex,
+        playerNames,
+        actionProvider,
+        charts: this.charts,
+        revealBotCards: false,
+        zoomMode: false,
+        onSnapshot: (tid, snapshot) => {
+          // Track available actions so timeout handler can use correct solverNodeId
+          this.setCurrentUiActions(tid, snapshot.availableActions ?? null);
+          const win = this.tableWindows.get(tid);
+          if (win && !win.isDestroyed()) {
+            win.webContents.send(IPC.TABLE_STATE_UPDATE, snapshot);
+          }
+        },
+        onSound: (tid, sound) => {
+          const win = this.tableWindows.get(tid);
+          if (win && !win.isDestroyed()) {
+            win.webContents.send(IPC.SOUND_TRIGGER, { sound, volume: 1.0, tableId: tid });
+          }
+        },
+        onHandComplete: () => {
+          // No hand history in spot mode
+        },
+        spotMode: {
+          spotId: spotConfig.id,
+          heroSide,
+          getHoleCards: () => sampleSpotHands(this.charts, heroRef, villainRef),
+          potCents,
+          effectiveStackCents,
+          villainSeatIndex,
+          oopSeatIndex,
+          chipToDollar: spotConfig.chipToDollar,
+          apiClient,
+          boards,
+          buttonSeatIndex,
+          onPostflopFeedback: (tid, feedback) => {
+            const win = this.tableWindows.get(tid);
+            if (win && !win.isDestroyed()) {
+              win.webContents.send(IPC.POSTFLOP_FEEDBACK, feedback);
+            }
+          }
+        }
+      });
+
+      this.engines.set(tableId, engine);
+    }
   }
 }

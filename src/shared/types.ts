@@ -76,7 +76,8 @@ export interface PlayerSnapshot {
 
 export interface AvailableAction {
   type: 'fold' | 'check' | 'call' | 'bet' | 'raise';
-  amount: number;           // cents (0 for fold/check, default size for bet/raise)
+  amount: number;           // cents — cumulative (raise TO) for engine; bet size for bets
+  displayAmount?: number;   // cents — increment for display (raise BY); omit when same as amount
   minAmount?: number;       // cents — minimum legal bet/raise
   maxAmount?: number;       // cents — maximum legal bet/raise (all-in)
   solverNodeId: string;     // UPI node ID of this child
@@ -108,6 +109,7 @@ export interface TableSnapshot {
   zoomMode: boolean;
   preflopRng: number | null;  // 0–99 RNG shown to hero preflop for GTO mixing training
   heroHasActed: boolean;      // true once hero has taken a voluntary action this hand
+  spotMode?: boolean;          // true when running in Spot Trainer mode
 }
 
 // ── IPC messages ──
@@ -117,6 +119,13 @@ export interface SessionConfig {
   playerName: string;
   revealBotCards?: boolean;
   zoomMode?: boolean;
+}
+
+export interface SpotSessionConfig {
+  spotId: string;           // API scenario key, e.g. "SRP_BTN_vs_BB"
+  heroSide: 'IP' | 'OOP';
+  tableCount: number;
+  playerName: string;
 }
 
 export interface PlayerActionMessage {
@@ -172,6 +181,7 @@ export interface ActionFrequency {
   check?: number;
   raise?: number;
   allIn?: number;
+  bet?: number;
 }
 
 export interface BotDecision {
@@ -188,6 +198,30 @@ export interface PreflopFeedbackData {
   frequencies: ActionFrequency;   // Full chart frequencies for this hand
   rng: number;                    // 0–99, the per-hand RNG used
   heroAction: ActionType;         // What the hero actually did
+  /** Detailed per-sizing actions (postflop). When present, used instead of frequencies for display. */
+  detailedActions?: Array<{ label: string; type: string; frequency: number; increment?: number }>;
+  /** Chip → dollar conversion for displaying bet sizes in dollars. */
+  chipToDollar?: number;
+  /** Total pot in solver chips (for pot % labels). */
+  potChips?: number;
+}
+
+// ── Postflop feedback ──
+
+export interface PostflopFeedbackData {
+  result: 'correct' | 'mixing' | 'ev_loss';
+  street: 'flop' | 'turn' | 'river';
+  heroAction: ActionType;
+  heroCards: string;           // Canonical hand string, e.g. "AKo"
+  actions: Array<{
+    label: string;             // e.g. "check", "bet_33"
+    type: string;
+    frequency: number;
+    increment?: number;        // Per-street action size in solver chips
+  }>;
+  chipToDollar?: number;       // Chip → dollar conversion (solver uses 50/100, game uses 0.50/1.00)
+  potChips?: number;           // Total pot in solver chips (for pot % display)
+  evLoss?: number;
 }
 
 // ── Hand evaluation ──

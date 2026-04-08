@@ -1,5 +1,5 @@
 import React from 'react';
-import type { TableSnapshot } from '../../../shared/types';
+import type { TableSnapshot, ActionFrequency } from '../../../shared/types';
 import { Seat } from './Seat';
 import { CommunityCards } from './CommunityCards';
 import { Pot } from './Pot';
@@ -9,6 +9,7 @@ import { WinnerOverlay } from './WinnerOverlay';
 import { PreflopFeedbackSquare } from './PreflopFeedbackSquare';
 import { useHotkeys } from '../../hooks/useHotkeys';
 import { usePreflopFeedback } from '../../hooks/usePreflopFeedback';
+import { usePostflopFeedback } from '../../hooks/usePostflopFeedback';
 import { useTableScale } from '../../hooks/useTableScale';
 import tableImg from '../../assets/table/table3.png';
 import styles from '../../styles/table.module.css';
@@ -21,10 +22,32 @@ interface Props {
 export const PokerTable: React.FC<Props> = React.memo(({ snapshot, humanSeatIndex }) => {
   const isHumanTurn = snapshot.currentPlayerIndex === humanSeatIndex && !snapshot.isHandComplete;
   const preflopFeedback = usePreflopFeedback(snapshot.tableId, snapshot.handId);
+  const postflopFeedback = usePostflopFeedback(snapshot.tableId, snapshot.handId);
   const { scale, containerRef } = useTableScale();
 
+  // Normalize postflop feedback into the same shape as preflop feedback for unified rendering
+  const normalizedPostflopFeedback = postflopFeedback ? {
+    data: {
+      canonicalHand: postflopFeedback.data.heroCards,
+      result: postflopFeedback.data.result,
+      frequencies: Object.fromEntries(
+        postflopFeedback.data.actions.map(a => [a.type, a.frequency])
+      ) as ActionFrequency,
+      heroAction: postflopFeedback.data.heroAction,
+      rng: 0,
+      // Pass individual sizings + pot info for pot% labels
+      detailedActions: postflopFeedback.data.actions,
+      chipToDollar: postflopFeedback.data.chipToDollar,
+      potChips: postflopFeedback.data.potChips,
+    },
+    fading: postflopFeedback.fading,
+  } : null;
+
+  const activeFeedback = normalizedPostflopFeedback ?? preflopFeedback;
+
   // Zoom early fold: show a FOLD button whenever it's NOT the hero's turn and hand is in progress
-  const showEarlyFold = snapshot.zoomMode && !isHumanTurn && !snapshot.isHandComplete && !snapshot.heroHasActed;
+  // Not available in spot mode (no zoom in spot training)
+  const showEarlyFold = snapshot.zoomMode && !snapshot.spotMode && !isHumanTurn && !snapshot.isHandComplete && !snapshot.heroHasActed;
 
   useHotkeys({
     tableId: snapshot.tableId,
@@ -66,8 +89,8 @@ export const PokerTable: React.FC<Props> = React.memo(({ snapshot, humanSeatInde
             <div className={styles.preflopRng}>{snapshot.preflopRng}</div>
           )}
 
-          {preflopFeedback && (
-            <PreflopFeedbackSquare state={preflopFeedback} />
+          {activeFeedback && (
+            <PreflopFeedbackSquare state={activeFeedback} />
           )}
         </div>
 

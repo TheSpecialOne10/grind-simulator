@@ -45,9 +45,14 @@ export const Seat: React.FC<Props> = React.memo(({ player, seatIndex, isHumanSea
 
   const [bubble, setBubble] = useState<string | null>(null);
   const bubbleTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const lastBubbleTs = useRef(0);
 
   useEffect(() => {
     if (!lastAction || lastAction.playerSeatIndex !== seatIndex) return;
+    // Dedup: IPC structured clone creates new references for the same action.
+    // Use timestamp to detect truly new actions vs re-emitted snapshots.
+    if (lastAction.timestamp === lastBubbleTs.current) return;
+    lastBubbleTs.current = lastAction.timestamp;
     const label = BUBBLE_LABELS[lastAction.type];
     if (!label) return;
     if (bubbleTimerRef.current) clearTimeout(bubbleTimerRef.current);

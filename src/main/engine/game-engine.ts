@@ -2,6 +2,7 @@ import type {
   Action, ActionType, ActionFrequency, Card, HandState, Player, PlayerSnapshot,
   SidePot, Street, TableSnapshot, WinnerInfo, AvailableAction
 } from '../../shared/types';
+import type { SpotModeConfig } from './types';
 import {
   BB_CENTS, SB_CENTS, STARTING_STACK_CENTS, MAX_SEATS,
   ACTION_TIMEOUT_SECONDS, PAUSE_BETWEEN_HANDS_MS, cardToString, centsToDollars
@@ -12,6 +13,11 @@ import { PotManager } from './pot-manager';
 import { resolveShowdown, resolveNoShowdown } from './showdown';
 import type { GameEngineConfig, ActionProvider } from './types';
 import { PreflopCharts } from '../bot/preflop-charts';
+import { buildBoardString } from '../spot-trainer/postflop-api-client';
+import { computePostflopFeedback } from '../spot-trainer/postflop-feedback';
+import { cardSet } from '../spot-trainer/hand-sampler';
+import { selectAction } from '../bot/action-selector';
+import { getBotDelay } from '../bot/timing';
 
 // 6-max position labels in clockwise order from button
 const POSITION_LABELS_6MAX = ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'] as const;
@@ -26,7 +32,7 @@ function computePreflopFeedback(
   if (actionFreq < 0.001) return 'ev_loss';
 
   // Assign cumulative RNG ranges: most aggressive → least
-  const order: (keyof ActionFrequency)[] = ['raise', 'allIn', 'call', 'check', 'fold'];
+  const order: (keyof ActionFrequency)[] = ['raise', 'allIn', 'bet', 'call', 'check', 'fold'];
   let cursor = 0;
   for (const key of order) {
     const f = freqs[key] ?? 0;
@@ -51,6 +57,8 @@ export class GameEngine {
   private potManager: PotManager = new PotManager();
   private preflopRng: number = 0;
   private zoomFastMode: boolean = false;
+  private prefetchedChildren: Promise<import('../spot-trainer/postflop-api-client').ApiChildrenResult | null> | null = null;
+  private prefetchedStrategy: Promise<import('../spot-trainer/postflop-api-client').ApiStrategyResult | null> | null = null;
 
   /** True while running the tail of a hand at 0-delay after hero folded in zoom mode. */
   get isZoomFastMode(): boolean { return this.zoomFastMode; }
@@ -91,6 +99,20 @@ export class GameEngine {
   /** Start the game loop. Runs hands continuously until stopped. */
   async start(): Promise<void> {
     this.running = true;
+
+    if (this.config.spotMode) {
+      // Spot Trainer mode: fixed button position, no preflop, no pause between hands
+      const spot = this.config.spotMode;
+      // Use pre-computed buttonSeatIndex from table-manager (based on actual position offsets)
+      this.buttonSeatIndex = spot.buttonSeatIndex;
+
+      while (this.running) {
+        await this.playSpotHand();
+      }
+      return;
+    }
+
+    // Normal grind mode
     // Set initial button (seat before the human so human is not always BTN)
     this.buttonSeatIndex = (this.config.humanSeatIndex + MAX_SEATS - 1) % MAX_SEATS;
 
@@ -291,7 +313,7 @@ export class GameEngine {
 
       this.emitSnapshot(handState, uiActions);
 
-      // Get action from provider
+      // Get action from provider (solverNodeId is populated when human acts in spot mode)
       const { type, amount } = await this.config.actionProvider.getAction(
         { ...handState, players: this.players.map(p => ({ ...p })) },
         nextActor,
@@ -493,12 +515,430 @@ export class GameEngine {
     return this.runAllInRunout(handState);
   }
 
+  /**
+   * Play a single hand in Spot Trainer mode.
+   * Skips preflop entirely — initializes pot/stacks from spot config,
+   * samples hole cards, deals a random flop, then runs postflop streets.
+   */
+  private async playSpotHand(): Promise<void> {
+    const spot = this.config.spotMode!;
+    this.handCounter++;
+    const handId = String(this.handCounter);
+
+    // Per-hand RNG for postflop feedback mixing decisions
+    this.preflopRng = Math.floor(Math.random() * 100);
+
+    // 1. Reset seats — only hero and villain are active
+    this.resetForNewHand();
+    console.log(`[SpotOrder] hand=${handId} humanSeat=${this.config.humanSeatIndex} villainSeat=${spot.villainSeatIndex} oopSeat=${spot.oopSeatIndex} buttonSeat=${this.buttonSeatIndex} heroSide=${spot.heroSide}`);
+
+    // 2. Assign positions based on fixed button
+    this.assignPositions();
+
+    // 3. Sample hole cards
+    const dealt = spot.getHoleCards();
+    if (!dealt) {
+      // Sampling failed — skip this hand silently (should be very rare)
+      await this.delay(500);
+      return;
+    }
+    const { heroCards, villainCards } = dealt;
+
+    this.players[this.config.humanSeatIndex].holeCards = heroCards;
+    this.players[spot.villainSeatIndex].holeCards = villainCards;
+
+    // 4. Select a board from the API's tree — must not conflict with hole cards
+    const holeKeys = cardSet([...heroCards, ...villainCards]);
+    const flop = this.selectSpotBoard(spot.boards, holeKeys);
+    if (!flop) {
+      console.warn('[SpotHand] Could not find a valid board — retrying');
+      await this.delay(200);
+      return;
+    }
+
+    // 5. Build the remaining deck (exclude hole cards + board cards)
+    const allUsedKeys = new Set([...holeKeys, ...flop.map((c: Card) => `${c.rank}${c.suit}`)]);
+    const remainingDeck = shuffle(createDeck().filter((c: Card) => !allUsedKeys.has(`${c.rank}${c.suit}`)));
+
+    // 6. Initialize hand state — pot pre-loaded from spot config
+    const handState: HandState = {
+      handId,
+      tableId: this.config.tableId,
+      buttonSeatIndex: this.buttonSeatIndex,
+      players: this.players.map(p => ({ ...p })),
+      deck: [...remainingDeck],
+      communityCards: flop,
+      street: 'flop',
+      pot: spot.potCents,       // Preflop already collected
+      sidePots: [],
+      actions: [],
+      currentPlayerIndex: -1,
+      minRaise: BB_CENTS * 2,
+      isComplete: false
+    };
+
+    this.currentHandState = handState;
+    this.potManager.reset();
+    // Pre-load pot manager with the preflop pot
+    this.potManager.addBet(this.config.humanSeatIndex, spot.potCents / 2);
+    this.potManager.addBet(spot.villainSeatIndex, spot.potCents / 2);
+    this.collectBets(handState);
+
+    // 7. Current node tracker — shared with postflop bot controller via closure
+    let currentNode = 'r:0';
+    const advanceNode = (childId: string) => { if (childId) currentNode = childId; };
+    this.emitSound('deal');
+    this.emitSnapshot(handState);
+
+    // Helper: collect bets into pot between streets
+    const advanceStreet = () => { this.collectBets(handState); };
+
+    // 8. Flop betting round
+    const flopRound = new BettingRound(this.getActivePlayers(), false, this.buttonSeatIndex);
+    flopRound.initPostflop();
+    const flopComplete = await this.runSpotBettingRound(
+      flopRound, handState, 'flop', spot, currentNode, advanceNode
+    );
+    if (flopComplete === 'hand_over') {
+      await this.finishSpotHand(handState);
+      return;
+    }
+    advanceStreet();
+
+    if (!this.needsBetting()) {
+      await this.runAllInRunout(handState);
+      return;
+    }
+
+    // 9. Turn
+    await this.streetDelay();
+    const burnResult2 = burn(handState.deck);
+    handState.deck = burnResult2.remaining;
+    const turnDeal = deal(handState.deck, 1);
+    handState.deck = turnDeal.remaining;
+    const turnCard = turnDeal.dealt[0];
+    handState.communityCards.push(turnCard);
+    handState.street = 'turn';
+    currentNode = `${currentNode}:${turnCard.rank}${turnCard.suit}`;
+    this.emitSound('card-flip');
+    this.emitSnapshot(handState);
+
+    const turnRound = new BettingRound(this.getActivePlayers(), false, this.buttonSeatIndex);
+    turnRound.initPostflop();
+    const turnComplete = await this.runSpotBettingRound(
+      turnRound, handState, 'turn', spot, currentNode, advanceNode
+    );
+    if (turnComplete === 'hand_over') {
+      await this.finishSpotHand(handState);
+      return;
+    }
+    advanceStreet();
+
+    if (!this.needsBetting()) {
+      await this.runAllInRunout(handState);
+      return;
+    }
+
+    // 10. River
+    await this.streetDelay();
+    const burnResult3 = burn(handState.deck);
+    handState.deck = burnResult3.remaining;
+    const riverDeal = deal(handState.deck, 1);
+    handState.deck = riverDeal.remaining;
+    const riverCard = riverDeal.dealt[0];
+    handState.communityCards.push(riverCard);
+    handState.street = 'river';
+    currentNode = `${currentNode}:${riverCard.rank}${riverCard.suit}`;
+    this.emitSound('card-flip');
+    this.emitSnapshot(handState);
+
+    const riverRound = new BettingRound(this.getActivePlayers(), false, this.buttonSeatIndex);
+    riverRound.initPostflop();
+    const riverComplete = await this.runSpotBettingRound(
+      riverRound, handState, 'river', spot, currentNode, advanceNode
+    );
+    if (riverComplete === 'hand_over') {
+      await this.finishSpotHand(handState);
+      return;
+    }
+    advanceStreet();
+
+    // 11. Showdown
+    this.resolveShowdownAndFinish(handState);
+    // Wait so feedback + winner overlay are visible before next hand
+    await this.delay(2500);
+  }
+
+  /**
+   * Betting round for Spot Trainer mode.
+   * Same as runBettingRound but:
+   *   - For human's turn: queries API children for solver-driven buttons
+   *   - After human acts: queries API for feedback
+   *   - Advances the UPI tree node after each action
+   */
+  private async runSpotBettingRound(
+    round: BettingRound,
+    handState: HandState,
+    street: 'flop' | 'turn' | 'river',
+    spot: SpotModeConfig,
+    _currentNode: string,
+    advanceNode: (childId: string) => void
+  ): Promise<'continue' | 'hand_over'> {
+    // We track node via the advanceNode closure — read from outer scope
+    // Use a local ref since closures capture by reference
+    let node = _currentNode;
+
+    while (true) {
+      const activePlayers = this.getActivePlayers();
+      if (activePlayers.length <= 1) return 'hand_over';
+
+      const nextActor = round.getNextActor(this.players);
+      if (nextActor === null) break;
+
+      handState.currentPlayerIndex = nextActor;
+      const player = this.players[nextActor];
+      const validActions = round.getValidActions(nextActor, player.stack);
+      const isHumanTurn = nextActor === this.config.humanSeatIndex;
+      console.log(`[SpotOrder] ${street} actor=seat${nextActor} ${isHumanTurn ? 'HUMAN' : 'BOT'} node=${node}`);
+
+      const livePot = handState.pot + this.players.reduce((sum, p) => sum + p.currentBet, 0);
+      const board = buildBoardString(handState.communityCards);
+
+      // Build available actions for human from API children
+      let uiActions: AvailableAction[] | null = null;
+      if (isHumanTurn) {
+        // Emit a "waiting" snapshot immediately so the UI shows it's hero's turn
+        // (clears the bot's timer/toast) while we fetch available actions from the API
+        const waitSnapshot = this.createSnapshot(handState, false, null, null);
+        waitSnapshot.pot = livePot;
+        waitSnapshot.spotMode = true;
+        this.config.onSnapshot(this.config.tableId, waitSnapshot);
+
+        // Use prefetched children if available (started during bot's thinking delay)
+        const childrenResult = this.prefetchedChildren
+          ? await this.prefetchedChildren
+          : await spot.apiClient.getChildren(spot.spotId, board, node);
+        this.prefetchedChildren = null;
+        if (childrenResult && childrenResult.actions.length > 0) {
+          // Use the API's `increment` field: per-street action cost in chips.
+          const apiChildren = childrenResult.actions;
+
+          uiActions = apiChildren.map(child => {
+            if (child.type === 'fold' || child.type === 'check') {
+              return {
+                type: child.type, amount: 0, displayAmount: 0,
+                solverNodeId: child.childNodeId, label: child.type.toUpperCase(),
+              } as AvailableAction;
+            }
+            const incrementCents = Math.round(child.increment * spot.chipToDollar * 100);
+            const potFraction = livePot > 0 ? Math.round((incrementCents / livePot) * 100) : 0;
+            let label: string;
+            if (child.type === 'call') {
+              label = `CALL $${(incrementCents / 100).toFixed(2)}`;
+            } else {
+              label = `${child.type === 'bet' ? 'BET' : 'RAISE'} $${(incrementCents / 100).toFixed(2)} (${potFraction}%)`;
+            }
+            return {
+              type: child.type,
+              amount: incrementCents,            // per-street for BettingRound
+              displayAmount: incrementCents,      // same for display
+              minAmount: incrementCents,
+              maxAmount: incrementCents,
+              solverNodeId: child.childNodeId,
+              label,
+            } as AvailableAction;
+          });
+        } else {
+          // Fallback: build standard available actions
+          uiActions = this.buildAvailableActions(validActions, livePot, handState, player.position);
+        }
+        // Emit snapshot with available actions + spot mode flag
+        const snapshot = this.createSnapshot(handState, false, null, uiActions);
+        snapshot.pot = livePot;
+        snapshot.spotMode = true;
+        this.config.onSnapshot(this.config.tableId, snapshot);
+      } else {
+        this.emitSnapshot(handState);
+      }
+
+      // Save node before action (for feedback query after human acts)
+      const nodeBeforeAction = node;
+
+      // Get action — different paths for human vs bot
+      let type: string;
+      let amount: number;
+      let actionSolverNodeId: string | undefined;
+
+      if (isHumanTurn) {
+        // Human: wait for IPC action (includes solverNodeId from clicked button)
+        const result = await this.config.actionProvider.getAction(
+          { ...handState, players: this.players.map(p => ({ ...p })) },
+          nextActor,
+          validActions
+        );
+        type = result.type;
+        amount = result.amount;
+        actionSolverNodeId = result.solverNodeId;
+      } else {
+        // Bot: query API for strategy at current node
+        const botHoleCards = player.holeCards;
+        const apiResult = botHoleCards
+          ? await spot.apiClient.getHandStrategy(
+              spot.spotId, board, node,
+              `${botHoleCards[0].rank}${botHoleCards[0].suit}${botHoleCards[1].rank}${botHoleCards[1].suit}`
+            )
+          : null;
+
+        if (apiResult && apiResult.actions.length > 0) {
+          // Weighted random selection from API frequencies
+          const freqMap: Record<string, number> = {};
+          for (const a of apiResult.actions) freqMap[a.label] = Math.max(0, a.frequency);
+          const chosenLabel = selectAction(freqMap);
+          const chosen = apiResult.actions.find(a => a.label === chosenLabel) ?? apiResult.actions[0];
+
+          // Use the API's increment field: per-street action cost
+          const incrementCents = Math.round(chosen.increment * spot.chipToDollar * 100);
+
+          const va = validActions.find(v => v.type === chosen.type);
+          if (!va) {
+            console.warn(`[SpotBot] type mismatch: API=${chosen.type} validActions=[${validActions.map(v => v.type)}] node=${node}`);
+            type = 'check'; amount = 0; actionSolverNodeId = undefined;
+          } else if (chosen.type === 'fold') {
+            type = 'fold'; amount = 0; actionSolverNodeId = chosen.childNodeId;
+          } else if (chosen.type === 'check') {
+            type = 'check'; amount = 0; actionSolverNodeId = chosen.childNodeId;
+          } else if (chosen.type === 'call') {
+            type = 'call'; amount = va.minAmount; actionSolverNodeId = chosen.childNodeId;
+          } else {
+            const clamped = Math.max(va.minAmount, Math.min(incrementCents, va.maxAmount));
+            type = chosen.type; amount = clamped; actionSolverNodeId = chosen.childNodeId;
+          }
+
+          // Apply bot timing delay — prefetch hero's children + strategy in parallel
+          const isAllIn = amount >= player.stack + player.currentBet;
+          const botDelay = getBotDelay({ street, potSize: livePot, isAllIn, actionType: type as ActionType });
+          // If hero acts next (not a fold/hand-ending action), start fetching
+          // hero's available actions AND per-hand strategy during the bot's thinking delay
+          // Prefetch hero's children + strategy during bot delay.
+          // Skip for folds (hand over) and calls (round over → terminal/showdown node).
+          if (actionSolverNodeId && type !== 'fold' && type !== 'call') {
+            this.prefetchedChildren = spot.apiClient.getChildren(spot.spotId, board, actionSolverNodeId);
+            const heroCards = this.players[this.config.humanSeatIndex].holeCards;
+            if (heroCards) {
+              const handStr = `${heroCards[0].rank}${heroCards[0].suit}${heroCards[1].rank}${heroCards[1].suit}`;
+              this.prefetchedStrategy = spot.apiClient.getHandStrategy(spot.spotId, board, actionSolverNodeId, handStr);
+            }
+          }
+          await this.delay(botDelay);
+        } else {
+          // Fallback: check or fold
+          console.warn(`[SpotBot] API returned null — node=${node} board=${board}`);
+          const canCheck = validActions.some(v => v.type === 'check');
+          const callAction = validActions.find(v => v.type === 'call');
+          if (canCheck) { type = 'check'; amount = 0; }
+          else if (callAction && callAction.minAmount <= BB_CENTS * 3) {
+            type = 'call'; amount = callAction.minAmount;
+          } else { type = 'fold'; amount = 0; }
+          actionSolverNodeId = undefined;
+          await this.delay(1000 + Math.random() * 1000);
+        }
+      }
+
+      // Apply action
+      const cost = round.applyAction(nextActor, type as ActionType, amount, player.stack);
+      player.stack -= cost;
+      player.currentBet += cost;
+
+      if (type === 'fold') {
+        player.isActive = false;
+        this.potManager.markFolded(nextActor);
+      }
+      if (cost > 0) {
+        this.potManager.addBet(nextActor, cost);
+      }
+
+      const action: Action = {
+        playerSeatIndex: nextActor,
+        type: type as ActionType,
+        amount: cost,
+        timestamp: Date.now()
+      };
+      handState.actions.push(action);
+
+      // Advance tree node using the child node ID from the chosen action
+      console.log(`[SpotOrder] ${street} seat${nextActor} → ${type} amt=${amount} nodeId=${actionSolverNodeId ?? 'none'}`);
+      if (actionSolverNodeId) {
+        node = actionSolverNodeId;
+        advanceNode(actionSolverNodeId);
+      }
+
+      // Emit action sound + snapshot IMMEDIATELY — don't block on feedback API
+      this.emitActionSound(type as ActionType);
+      this.emitSnapshot(handState);
+
+      // Fire postflop feedback in background (non-blocking) so gameplay continues
+      if (isHumanTurn && spot.onPostflopFeedback && player.holeCards) {
+        const feedbackRng = this.preflopRng;
+        const feedbackNodeId = actionSolverNodeId ?? '';
+        const feedbackAction = type as ActionType;
+        const feedbackHand = `${player.holeCards[0].rank}${player.holeCards[0].suit}${player.holeCards[1].rank}${player.holeCards[1].suit}`;
+        const feedbackCards = PreflopCharts.getCanonicalHand(player.holeCards[0], player.holeCards[1]);
+        const feedbackStreet = street;
+        const feedbackTableId = this.config.tableId;
+
+        // Use prefetched strategy if available (started during bot's thinking delay)
+        const strategyPromise = this.prefetchedStrategy
+          ?? spot.apiClient.getHandStrategy(spot.spotId, board, nodeBeforeAction, feedbackHand);
+        this.prefetchedStrategy = null;
+
+        strategyPromise
+          .then(apiResult => {
+            if (apiResult && spot.onPostflopFeedback) {
+              // Compute pot in chips for pot% display
+              const feedbackPotChips = spot.chipToDollar > 0
+                ? Math.round(livePot / (spot.chipToDollar * 100))
+                : 0;
+              const feedback = computePostflopFeedback(
+                feedbackAction, feedbackNodeId, apiResult.actions,
+                feedbackRng, feedbackStreet, feedbackCards, spot.chipToDollar, feedbackPotChips
+              );
+              spot.onPostflopFeedback(feedbackTableId, feedback);
+            }
+          })
+          .catch(() => {});
+        // Generate fresh RNG for next action
+        this.preflopRng = Math.floor(Math.random() * 100);
+      }
+    }
+
+    if (this.getActivePlayers().length <= 1) return 'hand_over';
+    return 'continue';
+  }
+
+  /** Finish a spot hand (no-showdown or runout). No hand history writing.
+   *  Waits briefly so the feedback square has time to display. */
+  private async finishSpotHand(handState: HandState): Promise<void> {
+    await this.finishHand(handState);
+    // Give the renderer time to show postflop feedback before dealing next hand
+    await this.delay(2500);
+  }
+
   private resetForNewHand(): void {
+    const spot = this.config.spotMode;
     for (const player of this.players) {
-      player.stack = STARTING_STACK_CENTS;
+      if (spot) {
+        // Spot mode: only 2 active seats with preset stacks
+        const isActive = player.seatIndex === this.config.humanSeatIndex
+          || player.seatIndex === spot.villainSeatIndex;
+        player.isActive = isActive;
+        player.isSittingOut = !isActive;
+        player.stack = isActive ? spot.effectiveStackCents : 0;
+      } else {
+        player.stack = STARTING_STACK_CENTS;
+        player.isActive = true;
+        player.isSittingOut = false;
+      }
       player.holeCards = null;
-      player.isActive = true;
-      player.isSittingOut = false;
       player.currentBet = 0;
       player.hasActed = false;
     }
@@ -527,6 +967,27 @@ export class GameEngine {
     return this.players.filter(p => p.isActive && !p.isSittingOut);
   }
 
+  /**
+   * Pick a random board string from the API's board list that doesn't
+   * conflict with the hole cards already dealt.
+   */
+  private selectSpotBoard(boards: string[], holeKeys: Set<string>): Card[] | null {
+    const indices = boards.map((_, i) => i).sort(() => Math.random() - 0.5);
+    for (const i of indices) {
+      const board = boards[i];
+      const cards: Card[] = [];
+      let conflict = false;
+      for (let j = 0; j < board.length; j += 2) {
+        const rank = board[j] as Card['rank'];
+        const suit = board[j + 1] as Card['suit'];
+        if (holeKeys.has(`${rank}${suit}`)) { conflict = true; break; }
+        cards.push({ rank, suit });
+      }
+      if (!conflict && cards.length === 3) return cards;
+    }
+    return null;
+  }
+
   /** True when no further betting is possible (all active players are all-in, or at most 1 has chips). */
   private needsBetting(): boolean {
     const playersWithChips = this.getActivePlayers().filter(p => p.stack > 0);
@@ -552,8 +1013,8 @@ export class GameEngine {
       seatIndex: p.seatIndex,
       name: p.name,
       stack: p.stack,
-      // Show human cards always; show bot cards at showdown or when revealBotCards is on
-      holeCards: p.isHuman || isShowdown || this.config.revealBotCards ? p.holeCards : null,
+      // Show human cards always; show bot cards at showdown / hand complete / revealBotCards
+      holeCards: p.isHuman || isShowdown || handState.isComplete || this.config.revealBotCards ? p.holeCards : null,
       isActive: p.isActive,
       currentBet: p.currentBet,
       position: p.position,
@@ -576,11 +1037,12 @@ export class GameEngine {
       timeRemaining: ACTION_TIMEOUT_SECONDS,
       availableActions,
       zoomMode: this.config.zoomMode ?? false,
-      preflopRng: (handState.street === 'preflop' && availableActions) ? this.preflopRng : null,
+      preflopRng: ((handState.street === 'preflop' || this.config.spotMode) && availableActions) ? this.preflopRng : null,
       heroHasActed: handState.actions.some(
         a => a.playerSeatIndex === this.config.humanSeatIndex
           && a.type !== 'post_sb' && a.type !== 'post_bb'
       ),
+      spotMode: !!this.config.spotMode,
     };
   }
 

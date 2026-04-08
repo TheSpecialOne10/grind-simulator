@@ -1,8 +1,9 @@
 import React, { useState, useCallback, useEffect } from 'react';
-import type { Settings } from '../shared/types';
+import type { Settings, SpotSessionConfig } from '../shared/types';
 import { DEFAULT_HOTKEYS } from '../shared/types';
 import { PokerTable } from './components/table/PokerTable';
 import { Settings as SettingsView } from './components/lobby/Settings';
+import { SpotSelector } from './components/lobby/SpotSelector';
 import { useTableState } from './hooks/useTableState';
 import { useSound } from './hooks/useSound';
 import { refreshHotkeyCache } from './hooks/useHotkeys';
@@ -70,7 +71,7 @@ function TableWindow({ tableId: initialTableId }: { tableId: string }): React.JS
 
 // ── Lobby Window (main window) ──
 
-type LobbyView = 'home' | 'settings';
+type LobbyView = 'home' | 'settings' | 'spot-selector';
 
 function LobbyWindow(): React.JSX.Element {
   const [view, setView] = useState<LobbyView>('home');
@@ -100,6 +101,12 @@ function LobbyWindow(): React.JSX.Element {
     setIsPlaying(false);
   }, []);
 
+  const handleStartSpot = useCallback((config: SpotSessionConfig) => {
+    window.grindSim.startSpotSession(config);
+    setTableCount(config.tableCount);
+    setIsPlaying(true);
+  }, []);
+
   const handleSettingsUpdate = (partial: Partial<Settings>) => {
     setSettings(prev => {
       if (!prev) return prev;
@@ -123,6 +130,17 @@ function LobbyWindow(): React.JSX.Element {
       <SettingsView
         settings={settings}
         onUpdate={handleSettingsUpdate}
+        onBack={() => setView('home')}
+      />
+    );
+  }
+
+  // Spot Trainer selector view
+  if (view === 'spot-selector') {
+    return (
+      <SpotSelector
+        playerName={playerName}
+        onStart={handleStartSpot}
         onBack={() => setView('home')}
       />
     );
@@ -230,6 +248,16 @@ function LobbyWindow(): React.JSX.Element {
           }}
         >
           START GRINDING
+        </button>
+        <button
+          onClick={() => setView('spot-selector')}
+          style={{
+            padding: '14px 28px', borderRadius: 8, border: 'none',
+            background: '#3366cc', color: '#fff', fontSize: 18,
+            fontWeight: 900, cursor: 'pointer', letterSpacing: 2,
+          }}
+        >
+          SPOT TRAINER
         </button>
         <button
           onClick={() => setView('settings')}

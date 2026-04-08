@@ -6,6 +6,7 @@ export const IPC = {
   TABLE_INIT: 'table:init',
   SOUND_TRIGGER: 'sound:trigger',
   PREFLOP_FEEDBACK: 'preflop:feedback',
+  POSTFLOP_FEEDBACK: 'postflop:feedback',
   ZOOM_REDIRECT: 'zoom:redirect',
   ZOOM_FOLD_EARLY: 'zoom:fold-early',
 
@@ -15,9 +16,11 @@ export const IPC = {
   FOCUS_WINDOW: 'window:focus',
   START_SESSION: 'session:start',
   STOP_SESSION: 'session:stop',
+  START_SPOT_SESSION: 'spot:start-session',
   UPDATE_SETTINGS: 'settings:update',
   GET_SETTINGS: 'settings:get',
   GET_SESSION_STATS: 'session:get-stats',
+  GET_SPOT_CATALOG: 'spot:get-catalog',   // invoke (request/response)
 
   // Dialog
   SELECT_DIRECTORY: 'dialog:select-directory',

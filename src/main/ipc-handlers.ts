@@ -1,10 +1,12 @@
 import { ipcMain, dialog, BrowserWindow } from 'electron';
 import { IPC } from '../shared/ipc-channels';
-import type { SessionConfig, PlayerActionMessage } from '../shared/types';
+import type { SessionConfig, PlayerActionMessage, SpotSessionConfig } from '../shared/types';
 import { TableManager } from './table-manager';
 import { PreflopCharts } from './bot/preflop-charts';
 import { loadSettings, updateSettings } from './settings-store';
 import { join } from 'path';
+import { PostflopApiClient, NullPostflopApiClient } from './spot-trainer/postflop-api-client';
+import { buildSpotCatalog } from './spot-trainer/spot-config';
 
 let tableManager: TableManager | null = null;
 
@@ -20,6 +22,18 @@ export function registerIPCHandlers(lobbyWindow: BrowserWindow): void {
   }
   if (loadResult.errors.length > 0) {
     console.warn('Preflop range loading errors:', loadResult.errors);
+  }
+
+  // Warm up API connection at startup (DNS resolve + TLS handshake)
+  {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const env = (import.meta as any).env ?? {};
+    const apiUrl: string = env.API_URL || '';
+    const apiKey: string = env.API_KEY || '';
+    if (apiUrl) {
+      const startupClient = new PostflopApiClient(apiUrl, apiKey);
+      startupClient.warmUp().catch(() => {});
+    }
   }
 
   // Start session
@@ -85,5 +99,64 @@ export function registerIPCHandlers(lobbyWindow: BrowserWindow): void {
       ]
     });
     return result.canceled ? null : result.filePaths[0] ?? null;
+  });
+
+  // Start Spot Trainer session
+  ipcMain.on(IPC.START_SPOT_SESSION, (_event, config: SpotSessionConfig) => {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const env = (import.meta as any).env ?? {};
+    const apiBaseUrl: string = env.API_URL || '';
+    const apiKey: string = env.API_KEY || '';
+
+    const apiClient = apiBaseUrl
+      ? new PostflopApiClient(apiBaseUrl, apiKey)
+      : new NullPostflopApiClient();
+
+    (async () => {
+      // Warm up TCP connection (DNS + TLS handshake) while fetching scenarios
+      if ('warmUp' in apiClient) (apiClient as PostflopApiClient).warmUp().catch(() => {});
+      const scenarios = await apiClient.getScenarios();
+      if (!scenarios) {
+        console.warn('[SpotSession] Could not fetch scenarios from API — using NullApiClient');
+        return;
+      }
+      const catalog = buildSpotCatalog(scenarios, charts);
+      const spotConfig = catalog.find(s => s.id === config.spotId);
+      if (!spotConfig) {
+        console.error(`[SpotSession] Spot "${config.spotId}" not found in catalog`);
+        return;
+      }
+      const boards = await apiClient.getBoards(spotConfig.id) ?? [];
+      console.log(`[SpotSession] Fetched ${boards.length} boards for spot "${spotConfig.id}"`);
+      tableManager = new TableManager(lobbyWindow, charts);
+      tableManager.startSpotSession(
+        spotConfig,
+        config.heroSide,
+        config.tableCount,
+        config.playerName,
+        apiClient,
+        boards
+      );
+    })().catch(err => console.error('[SpotSession] Failed to start:', err));
+  });
+
+  // Get spot catalog — fetches from API and filters by local range files
+  ipcMain.handle(IPC.GET_SPOT_CATALOG, async () => {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const env = (import.meta as any).env ?? {};
+    const apiBaseUrl: string = env.API_URL || '';
+    const apiKey: string = env.API_KEY || '';
+
+    console.log(`[SpotCatalog] API_URL=${apiBaseUrl || '(empty)'} API_KEY=${apiKey ? '(set)' : '(empty)'}`);
+
+    if (!apiBaseUrl) return [];
+
+    const apiClient = new PostflopApiClient(apiBaseUrl, apiKey);
+    const scenarios = await apiClient.getScenarios();
+    console.log(`[SpotCatalog] scenarios=${scenarios === null ? 'null' : scenarios.length}`);
+    if (!scenarios) return [];
+    const catalog = buildSpotCatalog(scenarios, charts);
+    console.log(`[SpotCatalog] catalog spots=${catalog.length}`);
+    return catalog;
   });
 }
